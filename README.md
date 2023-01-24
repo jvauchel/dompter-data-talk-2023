@@ -1,3 +1,3 @@
 # dompter-data-talk-2023
 
-![](dompterData2.jpg)
+<img src="images/dompter-data-illustration.jpg" width='500'/>

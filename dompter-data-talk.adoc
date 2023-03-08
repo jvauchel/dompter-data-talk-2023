@@ -1,4 +1,6 @@
-= Apprends à dompter la Data sans douter de toi !
+= +++<br/>+++
+:title-slide-background-image: images/dompter-data-illustration.jpg
+
 
 == Présentation
 
@@ -6,6 +8,13 @@
 
 === La simu
 
+[.columns]
 === Les cuisines
+
+[.column]
+image:images/cuisok.png[]
+
+[.column]
+toto
 
 == Data

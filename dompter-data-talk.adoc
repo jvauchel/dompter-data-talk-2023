@@ -1,8 +1,57 @@
 = +++<br/>+++
-:title-slide-background-image: images/dompter-data-illustration.jpg
-
+:title-slide-background-image: images/dompter-data-background.jpg
 
 == Présentation
+
+[.columns]
+=== Aujourd'hui
+
+[.column]
+image:images/datainge.jpg[width=250]
+
+[.column]
+++++
+<div class="paragraph column" style="text-align: left">
+Ingénieure Data chez Lectra <br/>
+Techno : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes <br/>
+</div>
+++++
+
+[.columns]
+=== Parcours
+
+[.column]
+image:images/3dinge.jpg[]
+
+[.column]
+++++
+<div class="paragraph column" style="text-align: left">
+Génie Mathématique <br/>
+C++, Modélisation 3D, Shaders OpenGL, Optimisation <br/>
+3 expériences dans la 3D... <br/>
+
+</div>
+++++
+
+=== Dassault Systèmes
+
+image:images/home-by-me.png[width = 500]
+
+=== Thermo Fisher
+
+image:images/avizo3D.png[]
+
+=== Lectra
+
+image:images/Modaris3D.jpg[]
+
+== Motivation
+
+* Retour d'expérience sur ma reconversion dans la Data
+* Les doutes, les choix difficiles, les difficultés
+* Les conseils et les clés pour réussir sa reconversion
+* Vous donner envie de vous lancer !
+* Comment accueillir une nouvelle recrue issue d'une reconversion ?
 
 == Le monde de la 3D
 
@@ -17,4 +66,71 @@ image:images/cuisok.png[]
 [.column]
 toto
 
-== Data
+== La perte de vitesse
+
+// Besoin d’évoluer d’apprendre
+// POC 3D dans le cloud => envie de découvrir de nouvelles techno
+// Manque de reconnaissance de mon travail, mal-être
+// Ressenti négatif de travail avec des matheux
+// Pas assez de maths et de 3D à mon goût dans mon quotidien
+
+
+== Les possibilités dans la 3D
+
+* Poste C++ et algorithmie intéressant
+* Poste de tech lead C++
+
+//Cool promotion, mieux payé, nouveau statut.
+//C++, je reste dans mes pantoufles
+//Qu’est ce que je vais apprendre ? Je suis curieuse de voir d’autres techno  !
+//Doutes, envie d’apprendre plus grande, mais peur de recommencer à zero
+
+
+== Pourquoi la reconversion Data
+
+== L'entretien pour devenir Ingénieure Data
+//Les entretiens pour devenir Data. Travailler sa légitimité !
+
+//Bonjour, j’y connais rien mais je suis très motivée :) et en plus je veux bien une augmentation :)
+//Le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin, même si là maintenant c’est plus une soif de technos (Scala, Kafka, Spark, Snowflake)
+//Ko côté reconnaissance salariale: J’aurais dû mieux argumenter. Quand on est dev, on peut tout apprendre, et il est normal d’évoluer et de réapprendre de zero de nouvelles techno, ça fait partie de notre quotidien.
+
+
+=== Conseils
+
+== Les clés pour réussir sa reconversion
+
+=== Auto formation
+
+// J’ai la casquette mais pas les bagages, comment se former ?
+//Formation en ligne sur udemy : Scala, Spark
+//Accompagnement de toute l’équipe + attribution d’un parrain !
+//Ils m’ont formé à Kafka, au fonctionnel, beaucoup de documentations et de schémas
+//Mob, coding dojos, et conférences !
+//Regarder les commits des collègues tous les jours
+//Se lancer : donner son avis, poser des questions, demander de réexpliquer, tenter des choses, puis partager ce qu’on a appris.
+
+
+=== Une équipe au top
+
+
+=== Conseils
+
+== Ce que j’ai gagné
+
+== De nouvelles envies
+
+== Et vous ? Vous vous lancez ?
+
+
+=== Accueil de reconvertis
+
+* Accepter les profils issus de la reconversion, favoriser l’inclusion
+* Soyez ouvert dans vos titres de poste, et donner le temps de former les débutants
+
+=== Se reconvertir dans un nouveau domaine ?
+
+* N’ayez pas peur de vous lancer, et argumenter vos choix de parcours honnêtement
+* Pouvez-vous changer en interne, discutez-en !
+
+== Merci !

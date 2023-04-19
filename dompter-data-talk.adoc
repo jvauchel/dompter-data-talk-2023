@@ -10,12 +10,15 @@
 image:images/datainge.jpg[width=250]
 
 [.column]
-++++
-<div class="paragraph column" style="text-align: left">
-Ingénieure Data chez Lectra <br/>
-Techno : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes <br/>
-</div>
-++++
+* Ingénieure Data chez Lectra
+* Technos : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes
+// ++++
+// <div class="paragraph column" style="text-align: left">
+// * Ingénieure Data chez Lectra <br/>
+// * Techno : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes <br/>
+// </div>
+// ++++
+
 
 [.columns]
 === Parcours
@@ -24,14 +27,17 @@ Techno : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes <br/>
 image:images/3dinge.jpg[]
 
 [.column]
-++++
-<div class="paragraph column" style="text-align: left">
-Génie Mathématique <br/>
-C++, Modélisation 3D, Shaders OpenGL, Optimisation <br/>
-3 expériences dans la 3D... <br/>
-
-</div>
-++++
+* Génie Mathématique
+* C++, Modélisation 3D, Shaders OpenGL, Optimisation
+* 3 expériences dans la 3D...
+// ++++
+// <div class="paragraph column" style="text-align: left">
+// * Génie Mathématique <br/>
+// * C++, Modélisation 3D, Shaders OpenGL, Optimisation <br/>
+// * 3 expériences dans la 3D... <br/>
+//
+// </div>
+// ++++
 
 === Dassault Systèmes
 
@@ -45,7 +51,7 @@ image:images/avizo3D.png[]
 
 image:images/Modaris3D.jpg[]
 
-== Motivation
+== Motivation pour ce talk
 
 * Retour d'expérience sur ma reconversion dans la Data
 * Les doutes, les choix difficiles, les difficultés
@@ -53,18 +59,25 @@ image:images/Modaris3D.jpg[]
 * Vous donner envie de vous lancer !
 * Comment accueillir une nouvelle recrue issue d'une reconversion ?
 
-== Le monde de la 3D
-
-=== La simu
+== Le monde de la 3D et de la modélisation mathématique
 
 [.columns]
-=== Les cuisines
+=== La simu de tissus
+
+[.column]
+video::videos/collisionTissu.mp4[width = 500, height = 500]
+
+[.column]
+Equations différentielles en chaque noeud du maillage pour modéliser les forces physiques d'un tissu.
+
+[.columns]
+=== L'aménagement de cuisines automatiques
 
 [.column]
 image:images/cuisok.png[]
 
 [.column]
-toto
+Comment transformer les contraintes d'aménagement de cuisine en une fonction de plusieurs variables à minimiser ?
 
 == La perte de vitesse
 
@@ -89,7 +102,8 @@ toto
 == Pourquoi la reconversion Data
 
 == L'entretien pour devenir Ingénieure Data
-//Les entretiens pour devenir Data. Travailler sa légitimité !
+
+Les entretiens pour devenir Data. Travailler sa légitimité !
 
 //Bonjour, j’y connais rien mais je suis très motivée :) et en plus je veux bien une augmentation :)
 //Le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin, même si là maintenant c’est plus une soif de technos (Scala, Kafka, Spark, Snowflake)
@@ -123,14 +137,19 @@ toto
 == Et vous ? Vous vous lancez ?
 
 
-=== Accueil de reconvertis
+=== Accueil de reconverti(e)s
 
-* Accepter les profils issus de la reconversion, favoriser l’inclusion
-* Soyez ouvert dans vos titres de poste, et donner le temps de former les débutants
+* Acceptez les profils issus de la reconversion, favoriser l’inclusion
+* Soyez ouvert dans vos titres et descriptions de poste
+* Donnez le temps à l'équipe de former les débutant(e)s
+* Donnez le temps et les moyens aux reconverti(e)s de se former
+* Apprenez des différences et des expériences des autres
 
 === Se reconvertir dans un nouveau domaine ?
 
-* N’ayez pas peur de vous lancer, et argumenter vos choix de parcours honnêtement
-* Pouvez-vous changer en interne, discutez-en !
+* N’ayez pas peur de vous lancer, et argumentez vos choix de parcours honnêtement
+* Pouvez-vous évoluer en interne, discutez-en !
+* Osez postuler à des postes qui ne vous correspondent pas à l'instant t
+* Stages et vis ma vie
 
 == Merci !

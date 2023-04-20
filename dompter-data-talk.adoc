@@ -71,27 +71,30 @@ video::videos/collisionTissu.mp4[width = 500, height = 500]
 Equations différentielles en chaque noeud du maillage pour modéliser les forces physiques d'un tissu.
 
 [.columns]
-=== L'aménagement de cuisines automatiques
+=== L'aménagement de cuisines automatique
 
 [.column]
 image:images/cuisok.png[]
 
 [.column]
-Comment transformer les contraintes d'aménagement de cuisine en une fonction de plusieurs variables à minimiser ?
+Comment modéliser les contraintes d'aménagement d'une cuisine en une fonction de plusieurs variables à minimiser ?
 
 == La perte de vitesse
 
-// Besoin d’évoluer d’apprendre
-// POC 3D dans le cloud => envie de découvrir de nouvelles techno
-// Manque de reconnaissance de mon travail, mal-être
-// Ressenti négatif de travail avec des matheux
-// Pas assez de maths et de 3D à mon goût dans mon quotidien
+Sketchnote
 
+* Quand on perd le fun du début
+* Besoin d’évoluer, d’apprendre
+* POC 3D dans le cloud => envie de découvrir de nouvelles technos
+* Manque de reconnaissance dans mon travail, mal-être
+* Pas assez de maths et de 3D à mon goût dans mon quotidien
 
-== Les possibilités dans la 3D
+== Les opportunités en C++
 
-* Poste C++ et algorithmie intéressant
-* Poste de tech lead C++
+Sketchnote
+
+* Poste C++ et algorithmie : intéressant !
+* Poste de tech lead C++ : promotion !
 
 //Cool promotion, mieux payé, nouveau statut.
 //C++, je reste dans mes pantoufles
@@ -101,18 +104,31 @@ Comment transformer les contraintes d'aménagement de cuisine en une fonction de
 
 == Pourquoi la reconversion Data
 
-== L'entretien pour devenir Ingénieure Data
+* Je n'aime pas le Front !
+* J'ai pas peur des données (grosses matrices)
+* J'aime l'abstrait
+* Lien avec les stats et les modèles mathématiques via la data science
+* 
 
-Les entretiens pour devenir Data. Travailler sa légitimité !
+== L'entretien d'embauche : Travailler sa légitimité !
+
+Sketchnote
 
 //Bonjour, j’y connais rien mais je suis très motivée :) et en plus je veux bien une augmentation :)
 //Le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin, même si là maintenant c’est plus une soif de technos (Scala, Kafka, Spark, Snowflake)
 //Ko côté reconnaissance salariale: J’aurais dû mieux argumenter. Quand on est dev, on peut tout apprendre, et il est normal d’évoluer et de réapprendre de zero de nouvelles techno, ça fait partie de notre quotidien.
 
 
-=== Conseils
+=== Le Gap, un nouveau monde à comprendre celui de la Data
 
-== Les clés pour réussir sa reconversion
+* le cloud
+* La MEP instantanée
+* La multitude de projets
+* Kafka
+* Scala
+* Le fonctionnel
+
+
 
 === Auto formation
 
@@ -124,9 +140,23 @@ Les entretiens pour devenir Data. Travailler sa légitimité !
 //Regarder les commits des collègues tous les jours
 //Se lancer : donner son avis, poser des questions, demander de réexpliquer, tenter des choses, puis partager ce qu’on a appris.
 
-
 === Une équipe au top
 
+== Les clés pour réussir sa reconversion
+
+* Accepter de repartir de zero
+* Dire quand on ne comprend pas
+* Accepter les doutes
+
+=== Les doutes et moments difficiles
+
+Certaines journées où on se trouve nulle
+Retour de vacances où on comprend plus rien
+On se dit qu'on est un boulet pour l'équipe, qu'on la ralentit
+
+Partage sur ce que je connais : la 3D, Git, le karaoke
+Quand on commence à maîtriser des petites parties
+Quand on commence à proposer des idées pertinentes Les petites victoires.
 
 === Conseils
 
@@ -153,3 +183,20 @@ Les entretiens pour devenir Data. Travailler sa légitimité !
 * Stages et vis ma vie
 
 == Merci !
+
+
+// Point avec Fanny et Stéphane
+// TADx: Tours Agile Devops Experience, sujets variés, tech, bien etre agile, team
+// 30 min à 1h30 (40mn ok)
+// 1 par mois le mardi, 2 dates dispo par mois
+// Que moi, Questions/Reponses, Pizza, échanges, pas de stress de timing
+//Octobre ou Novembre
+//Co working possible la journée
+
+// Questions : à quel point détailler les 2 mondes
+// Parler des étapes à passe, des différences entre les 2 mondes, sacré changement d'univers
+// Vulgarisation (car personnes diverse, agiliste, tech dev)
+// Comprendre l'effort par l'exemple
+//
+// Dire quand je suis prête
+

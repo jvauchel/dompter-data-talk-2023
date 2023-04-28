@@ -71,13 +71,18 @@ video::videos/collisionTissu.mp4[width = 500, height = 500]
 Equations différentielles en chaque noeud du maillage pour modéliser les forces physiques d'un tissu.
 
 [.columns]
-=== L'aménagement de cuisines automatique
+=== L'aménagement automatique de cuisines
 
 [.column]
 image:images/cuisok.png[]
 
 [.column]
 Comment modéliser les contraintes d'aménagement d'une cuisine en une fonction de plusieurs variables à minimiser ?
+
+=== Conférence C++
+
+* Berlin
+* Gain en expertise C++
 
 == La perte de vitesse
 
@@ -89,9 +94,9 @@ Sketchnote
 * Manque de reconnaissance dans mon travail, mal-être
 * Pas assez de maths et de 3D à mon goût dans mon quotidien
 
-== Les opportunités en C++
+== Besoin de changement !
 
-Sketchnote
+Des opportunités en C++ :
 
 * Poste C++ et algorithmie : intéressant !
 * Poste de tech lead C++ : promotion !
@@ -108,7 +113,7 @@ Sketchnote
 * J'ai pas peur des données (grosses matrices)
 * J'aime l'abstrait
 * Lien avec les stats et les modèles mathématiques via la data science
-* 
+*
 
 == L'entretien d'embauche : Travailler sa légitimité !
 

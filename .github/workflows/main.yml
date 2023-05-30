@@ -1,0 +1,31 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    concurrency: ci-${{ github.ref }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Build 🔧
+        run: |
+#          npm ci
+#          npm run build
+#          cp -R node_modules public
+#          cp presentation.html public/index.html
+#          cp custom.css public/custom.css
+          ./run.sh
+          touch public/.nojekyll
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: public
+
+permissions:
+  contents: write

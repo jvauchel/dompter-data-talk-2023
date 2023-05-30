@@ -12,12 +12,9 @@ image:images/datainge.jpg[width=250]
 [.column]
 * Ingénieure Data chez Lectra
 * Technos : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes
-// ++++
-// <div class="paragraph column" style="text-align: left">
-// * Ingénieure Data chez Lectra <br/>
-// * Techno : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes <br/>
-// </div>
-// ++++
+
+// Je suis aujourd'hui ingénieure Data où je gère une pipeline de données en provenance de machines de découpe de tissus.
+//J'utilise dans mon quotidien les technos comme Scala, Kafka, Spark, Snowflake
 
 
 [.columns]
@@ -30,26 +27,25 @@ image:images/3dinge.jpg[]
 * Génie Mathématique
 * C++, Modélisation 3D, Shaders OpenGL, Optimisation
 * 3 expériences dans la 3D...
-// ++++
-// <div class="paragraph column" style="text-align: left">
-// * Génie Mathématique <br/>
-// * C++, Modélisation 3D, Shaders OpenGL, Optimisation <br/>
-// * 3 expériences dans la 3D... <br/>
-//
-// </div>
-// ++++
+
+// Mais je n'ai pas toujours fait de la Data. J'ai une formation plutôt orientée Mathématiques Appliquées et j'ai commencé à travailler sur des applications 3D, codées en C++
+
 
 === Dassault Systèmes
 
 image:images/home-by-me.png[width = 500]
 
+//J'ai commencé chez Dassault Systèmes où j'ai développé un moteur de génération de cuisine automatique
+
 === Thermo Fisher
 
 image:images/avizo3D.png[]
+// Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes
 
 === Lectra
 
 image:images/Modaris3D.jpg[]
+// Et j'ai travaillé dans la simulation de tissus pour des logiciels de création de vêtements en 3D
 
 == Motivation pour ce talk
 
@@ -69,6 +65,9 @@ video::videos/collisionTissu.mp4[width = 500, height = 500]
 
 [.column]
 Equations différentielles en chaque noeud du maillage pour modéliser les forces physiques d'un tissu.
+// Savez-vous que pour modéliser la robe de la reine des neige en 3D par exemple, on utilise un maillage et on applique des forces physiques sur chaque point du maillage. C'est comme si chaque point était relié entre eux par des ressorts avec plus ou moins d'intensité selon le type de tissu.
+image:images/tissuForce1.jpg[width=140]
+image:images/tissuForce2.jpg[width=180]
 
 [.columns]
 === L'aménagement automatique de cuisines

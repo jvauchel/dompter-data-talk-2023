@@ -11,9 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Build
-        run: |
-          ./run.sh
-          touch public/.nojekyll
+        run: ./generate-prez.sh
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:

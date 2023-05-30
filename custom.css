@@ -1,9 +1,54 @@
-.reveal pre code {
-    max-height: 580px;
+body:before {
+    content: 'Apprends à Dompter la Data sans Douter de Toi!';
+    font-family: "Montserrat", Impact, sans-serif;
+    position: fixed;
+    padding: 1em;
+    width: 100%;
+    bottom: 0;
+    height: 2em;
+    color: black;
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 1rem;
+}
+body:after {
+    content: ' ';
+    position: fixed;
+    bottom: 0;
+    left: 1em;
+    width: 10em;
+    height: 8em;
+    background: url("../images/myName.png");
+    background-size: 9em;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
 }
 
+.reveal:before {
+    content: ' ';
+    position: fixed;
+    padding: 1em;
+    width: 10em;
+    height: 10em;
+    background: url("../images/qr.png");
+    background-repeat: no-repeat;
+}
+
+.reveal:after {
+    content: ' ';
+    position: fixed;
+    padding: 17em;
+    width: 10em;
+    height: 10em;
+    background: url("../images/myName.png");
+    background-repeat: no-repeat;
+    background-position: 96% 3%;
+}
+
+
+
 .reveal h2 {
-    color: #7632b2
+    color: #0988d5
 }
 
 .footer {
@@ -11,18 +56,5 @@
     display: table;
     width: 100%;
     bottom: 0;
-}
-.footer span {
-    display: table-cell;
-    padding: 0px 15px 5px;
-
-    text-align: center;
-    font-family: "Roboto Mono", monospace;
-    font-size: 60%;
-}
-.footer span:nth-of-type(1) {
-    text-align: left;
-}
-.footer span:nth-last-child(1) {
-    text-align: right;
+    color: #0988d5
 }

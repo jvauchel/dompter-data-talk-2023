@@ -8,7 +8,8 @@ docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents asciidoctor/docker-asc
   dompter-data-talk.adoc
 
 cp custom.css public/
-mkdir public/videos
-cp videos/collisionTissu.mp4 public/videos
+mkdir -p public/videos
+cp -a images public
+cp -a videos public
 
 touch public/.nojekyll

@@ -9,7 +9,9 @@ docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents asciidoctor/docker-asc
 
 cp custom.css public/
 mkdir -p public/videos
-cp -a images public
+mkdir -p public/images
 cp -a videos public
+cp images/myName.png public/images/
+cp images/qr.png public/images/
 
 touch public/.nojekyll

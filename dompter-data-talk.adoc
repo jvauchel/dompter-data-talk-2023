@@ -10,8 +10,8 @@
 image:images/datainge.jpg[width=250]
 
 [.column]
-* Ingénieure Data chez Lectra
-* Technos : Scala, Kafka, Spark, Snowflake, Databricks, Docker, Kubernetes
+* Ingénieure *Data* chez Lectra
+* Technos : *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
 
 // Je suis aujourd'hui ingénieure Data où je gère une pipeline de données en provenance de machines de découpe de tissus.
 //J'utilise dans mon quotidien les technos comme Scala, Kafka, Spark, Snowflake
@@ -25,7 +25,7 @@ image:images/3dinge.jpg[]
 
 [.column]
 * Génie Mathématique
-* C++, Modélisation 3D, Shaders OpenGL, Optimisation
+* *C++*, Modélisation *3D*, Shaders OpenGL, Optimisation
 * 3 expériences dans la 3D...
 
 // Mais je n'ai pas toujours fait de la Data. J'ai une formation plutôt orientée Mathématiques Appliquées et j'ai commencé à travailler sur des applications 3D, codées en C++
@@ -64,7 +64,7 @@ image:images/Modaris3D.jpg[]
 video::videos/collisionTissu.mp4[width = 500, height = 500]
 
 [.column]
-Equations différentielles en chaque noeud du maillage pour modéliser les forces physiques d'un tissu. +
+Equations différentielles en chaque nœud du maillage pour modéliser les *forces physiques* d'un tissu. +
 // Savez-vous que pour modéliser la robe de la reine des neige en 3D par exemple, on utilise un maillage et on applique des forces physiques sur chaque point du maillage. C'est comme si chaque point était relié entre eux par des ressorts avec plus ou moins d'intensité selon le type de tissu.
 image:images/tissuForce1.jpg[width=140]
 image:images/tissuForce2.jpg[width=180]
@@ -76,18 +76,18 @@ image:images/tissuForce2.jpg[width=180]
 image:images/cuisok.png[width=800]
 
 [.column]
-Comment modéliser les contraintes d'aménagement d'une cuisine en une fonction de plusieurs variables à minimiser ?
+Comment modéliser les *contraintes* d'aménagement d'une cuisine en une fonction de plusieurs variables à minimiser ?
 
 === Le monde de la 3D
 
-* Des maths appliquées
-* Algorithmie poussée
+* Des *maths* appliquées
+* *Algorithmie* poussée
 * Recherche de perf (optimisation, calcul distribué)
 * Projets intéressants, beaucoup de fonctionnel
-* Conférence C++ à Berlin
-* Expertise C++
+* *Conférence* C++ à Berlin
+* *Expertise* C++
 
-== La perte de vitesse
+=== La perte de vitesse
 
 image:images/perteVitesse.jpg[width=800]
 
@@ -119,7 +119,7 @@ image:images/changement.jpg[width=800]
 // * Lien avec les stats et les modèles mathématiques via la data science
 // *
 
-== L'entretien d'embauche :
+=== L'entretien d'embauche
 
 Travailler sa légitimité !
 
@@ -131,13 +131,16 @@ image:images/entretien.jpg[width=500]
 //Le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin, même si là maintenant c’est plus une soif de technos (Scala, Kafka, Spark, Snowflake)
 //Ko côté reconnaissance salariale: J’aurais dû mieux argumenter. Quand on est dev, on peut tout apprendre, et il est normal d’évoluer et de réapprendre de zero de nouvelles techno, ça fait partie de notre quotidien.
 
+== Le monde de la Data
 
-== Le monde de la Data (1/2)
+image:images/data.jpg[width=500]
+
+=== Le monde de la Data (1/2)
 
 * Programmation fonctionnelle (Scala)
 * Pipelines de données à gérer dans Kafka = Tuyaux
 * Multitude de petits projets
-* Etre au coeur des équipes
+* Etre au cœur des équipes
 
 === Le monde de la Data (2/2)
 
@@ -149,11 +152,11 @@ image:images/entretien.jpg[width=500]
 === Auto formation
 
 // J’ai la casquette mais pas les bagages, comment se former ?
-* Formations en ligne (Udemy, Documentation en ligne des technos, tutos), Formations internes
-* Regarder les commits des collègues tous les jours
-* Se lancer et se tromper
-* Donner son avis, poser des questions, demander de réexpliquer
-* Partager ce qu’on a appris
+* *Formations* en ligne (Udemy, Documentation en ligne des technos, tutos), Formations internes
+* Regarder les *commits* des collègues tous les jours
+* Se lancer et *se tromper*
+* Donner son *avis*, poser des *questions*, demander de réexpliquer
+* *Partager* ce qu’on a appris
 ** projet d'exemple : kafka-stream-example
 
 
@@ -162,19 +165,23 @@ image:images/entretien.jpg[width=500]
 
 === Une équipe au top
 
+image:images/my-team.png[width=500]
+
+=== Une équipe au top
+
 * Accompagnement de toute l’équipe et attribution d’un parrain
-* Documentation riche, lisible, à jour
+* *Documentation riche*, lisible, à jour
 * Nombreux schémas
-* Mob et pair-programming
-* Coding dojos, sharing session
-* Conférences
-* L'essentiel : Soutien et bienveillance
+* *Mob* et pair-programming
+* Coding dojos, *sharing session*
+* *Conférences*
+* L'essentiel : *Soutien et bienveillance*
 
 //Ils m’ont formé à Kafka, au fonctionnel, beaucoup de documentations et de schémas
 
 == Les clés pour réussir sa reconversion
 
-* Accepter de repartir de zero, apprentissage long
+* Accepter de repartir de zéro, apprentissage long
 * Accepter d'apporter moins à l'équipe que ce qu'elle te donne
 * Oser dire "je n'ai pas compris"
 * Accepter les doutes
@@ -191,7 +198,7 @@ image:images/entretien.jpg[width=500]
 // Quand on commence à maîtriser des petites parties
 // Quand on commence à proposer des idées pertinentes => Les petites victoires.
 * Je me sens nulle !
-* Retour de vacances : Je comprends plus rien !
+* Retour de vacances : Je ne comprends plus rien !
 * Je suis un boulet pour l'équipe
 * J'ai toujours pas compris c'est quoi une Monad (Scala)
 * Salaire qui ne suit pas
@@ -205,33 +212,35 @@ image:images/entretien.jpg[width=500]
 === Conseils
 
 * Bien choisir son équipe et son chef
-* Bien négocier les conditions du poste (salaire, temps de formation, titre de poste)
+* Bien négocier les *conditions* du poste (salaire, temps de formation, titre de poste)
 * Avancer petit à petit
-* Se faire financer une formation externe, diplomante
-
-== Ce que j’ai gagné
+* Se faire financer une formation externe, diplômante
 
 == De nouvelles envies
 
-== Et vous ? Vous vous lancez ?
+* Data Science, statistiques, analyses
+* Découvrir de nouveaux outils, technos
+* Donner des formations pour aider les petits nouveaux
+* Donner des conférences sur des sujets Data
 
+== Et vous ? Vous vous lancez ?
 
 === Accueil de reconverti(e)s
 
-* Acceptez les profils issus de la reconversion, favoriser l’inclusion
-* Soyez ouvert dans vos titres et descriptions de poste
-* Donnez le temps à l'équipe de former les débutant(e)s
-* Donnez le temps et les moyens aux reconverti(e)s de se former
-* Apprenez des différences et des expériences des autres
+* Acceptez les profils issus de la reconversion, favoriser l’*inclusion*
+* Soyez *ouvert* dans vos titres et descriptions de poste
+* Donnez le *temps* à l'équipe de former les débutant(e)s
+* Donnez le *temps* et les *moyens* aux reconverti(e)s de se former
+* Apprenez des *différences* et des expériences des autres
 
 === Se reconvertir dans un nouveau domaine ?
 
-* N’ayez pas peur de vous lancer, et argumentez vos choix de parcours honnêtement
-* Pouvez-vous évoluer en interne, discutez-en !
-* Osez postuler à des postes qui ne vous correspondent pas à l'instant t
-* Stages et vis ma vie
+* N’ayez pas *peur* de vous lancer, et argumentez vos choix de parcours honnêtement
+* Pouvez-vous *évoluer* en interne, discutez-en !
+* Osez *postuler* à des postes qui ne vous correspondent pas à l'instant t
+* Stages et *vis ma vie*
 
-== Merci !
+== Merci beaucoup !
 
 
 // Point avec Fanny et Stéphane

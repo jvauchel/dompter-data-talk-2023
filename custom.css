@@ -30,7 +30,7 @@ body:after {
     padding: 1em;
     width: 10em;
     height: 10em;
-    background: url("./images/qr.png");
+    background: url("./images/qrcode.jpeg");
     background-repeat: no-repeat;
 }
 
@@ -40,9 +40,9 @@ body:after {
     padding: 17em;
     width: 10em;
     height: 10em;
-    background: url("./images/myName.png");
+    background: url("./images/tadx.jpeg");
     background-repeat: no-repeat;
-    background-position: 96% 3%;
+    background-position: 100% 0%;
 }
 
 

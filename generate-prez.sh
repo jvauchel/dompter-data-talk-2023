@@ -12,6 +12,7 @@ mkdir -p public/videos
 mkdir -p public/images
 cp -a videos public
 cp images/myName.png public/images/
-cp images/qr.png public/images/
+cp images/qrcode.jpeg public/images/
+cp images/tadx.jpeg public/images/
 
 touch public/.nojekyll

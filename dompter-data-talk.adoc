@@ -89,7 +89,7 @@ Comment modéliser les *contraintes* d'aménagement d'une cuisine en une fonctio
 
 === La perte de vitesse
 
-image:images/perteVitesse.jpg[width=800]
+image:images/perteVitesse.jpg[width=750]
 
 // * Quand on perd le fun du début
 // * Besoin d’évoluer, d’apprendre
@@ -123,7 +123,7 @@ image:images/changement.jpg[width=800]
 
 Travailler sa légitimité !
 
-image:images/entretien.jpg[width=500]
+image:images/entretien.jpg[width=550]
 
 //
 
@@ -242,7 +242,7 @@ image:images/my-team.png[width=500]
 
 == Merci beaucoup !
 
-
+image:images/merci.jpg[width=700]
 // Point avec Fanny et Stéphane
 // TADx: Tours Agile Devops Experience, sujets variés, tech, bien etre agile, team
 // 30 min à 1h30 (40mn ok)

@@ -1,0 +1,57 @@
+Je suis aujourd'hui ingénieure Data où je gère une pipeline de données en provenance de machines de découpe de tissus.
+J'utilise dans mon quotidien les technos comme Scala, Kafka, Spark, Snowflake
+
+Mais je n'ai pas toujours fait de la Data. J'ai une formation plutôt orientée Mathématiques Appliquées et j'ai commencé à travailler sur des applications 3D, codées en C++
+//J'ai commencé chez Dassault Systèmes où j'ai développé un moteur de génération de cuisine automatique
+// Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes
+
+
+// Et j'ai travaillé dans la simulation de tissus pour des logiciels de création de vêtements en 3D
+
+// Savez-vous que pour modéliser la robe de la reine des neige en 3D par exemple,
+on utilise un maillage et on applique des forces physiques sur chaque point du maillage.
+C'est comme si chaque point était relié entre eux par des ressorts avec plus ou moins d'intensité selon le type de tissu.
+
+// * POC 3D dans le cloud => envie de découvrir de nouvelles technos
+
+// * Quand on perd le fun du début
+// * Besoin d’évoluer, d’apprendre
+// * POC 3D dans le cloud => envie de découvrir de nouvelles technos
+// * Manque de reconnaissance dans mon travail, mal-être
+// * Pas assez de maths et de 3D à mon goût dans mon quotidien
+
+//Des opportunités en C++ :
+
+// * Poste C++ et algorithmie : intéressant !
+// * Poste de tech lead C++ : promotion !
+
+//Cool promotion, mieux payé, nouveau statut.
+//C++, je reste dans mes pantoufles
+//Qu’est ce que je vais apprendre ? Je suis curieuse de voir d’autres techno  !
+//Doutes, envie d’apprendre plus grande, mais peur de recommencer à zero
+
+
+// == Pourquoi la reconversion Data
+//
+// * Je n'aime pas le Front !
+// * J'ai pas peur des données (grosses matrices)
+// * J'aime l'abstrait
+// * Lien avec les stats et les modèles mathématiques via la data science
+// *
+
+//Bonjour, j’y connais rien mais je suis très motivée :) et en plus je veux bien une augmentation :)
+//Le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin, même si là maintenant c’est plus une soif de technos (Scala, Kafka, Spark, Snowflake)
+//Ko côté reconnaissance salariale: J’aurais dû mieux argumenter. Quand on est dev, on peut tout apprendre, et il est normal d’évoluer et de réapprendre de zero de nouvelles techno, ça fait partie de notre quotidien.
+
+// J’ai la casquette mais pas les bagages, comment se former ?
+
+// Certaines journées où on se trouve nulle
+// Retour de vacances où on comprend plus rien
+// On se dit qu'on est un boulet pour l'équipe, qu'on la ralentit
+// Quand on a toujours pas compris c'est quoi une monad (Scala)
+//
+// Partage sur ce que je connais : la 3D, Git, le karaoke
+// Quand on commence à maîtriser des petites parties
+// Quand on commence à proposer des idées pertinentes => Les petites victoires.
+
+

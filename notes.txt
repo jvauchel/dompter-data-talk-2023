@@ -1,47 +1,156 @@
-Je suis aujourd'hui ingénieure Data où je gère une pipeline de données en provenance de machines de découpe de tissus.
-J'utilise dans mon quotidien les technos comme Scala, Kafka, Spark, Snowflake
+Bonjour à tous,
+Aujourd'hui je vais vous présenter un retour sur mon expérience de reconversion dans l'univers Data.
+Nous verrons ensemble ce que ce choix de carrière peut apporter à un individu mais aussi à son équipe.
 
-Mais je n'ai pas toujours fait de la Data. J'ai une formation plutôt orientée Mathématiques Appliquées et j'ai commencé à travailler sur des applications 3D, codées en C++
-//J'ai commencé chez Dassault Systèmes où j'ai développé un moteur de génération de cuisine automatique
-// Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes
+Je vais d'abord me présenter, je suis Johanna, ingénieure Data chez Lectra où je gère au quotidien une pipeline de données
+en provenance de machines de découpe de tissus.
+J'utilise dans mon quotidien les technos comme Scala, Kafka, Spark, Snowflake.
 
+Mais je n'ai pas toujours fait de la Data. A l'origine, j'ai une formation plutôt orientée Mathématiques Appliquées et
+j'ai commencé ma carrière en travaillant sur des applications 3D, codées en C++.
+J'ai commencé chez Dassault Systèmes où j'ai développé un moteur de génération de cuisine automatique.
+Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes.
+Et à Lectra j'ai aussi travaillé dans la simulation de tissus pour des logiciels de création de vêtements en 3D.
 
-// Et j'ai travaillé dans la simulation de tissus pour des logiciels de création de vêtements en 3D
+Dans ce talk, je vais vous parler de comment j'ai vécu cette reconversion, quelles ont été mes doutes et mes difficultés.
+Je vous donnerai des conseils afin que vous puissiez vous-même vous lancer dans une reconversion quelle qu'elle soit.
+Et j'insisterai sur le fait une reconversion, c'est surtout un travail d'équipe.
+Et nous verrons pourquoi et comment accueillir ce type de profil.
 
-// Savez-vous que pour modéliser la robe de la reine des neige en 3D par exemple,
+Mais d'abord, je vais vous faire un peu voyager dans le monde de la 3D !
+
+Saviez-vous que pour modéliser la robe de la reine des neiges en 3D,
 on utilise un maillage et on applique des forces physiques sur chaque point du maillage.
-C'est comme si chaque point était relié entre eux par des ressorts avec plus ou moins d'intensité selon le type de tissu.
+C'est comme si chaque point était relié entre eux par des petits ressorts avec plus ou moins d'intensité selon le type de tissu.
 
-// * POC 3D dans le cloud => envie de découvrir de nouvelles technos
+Quand vous allez chez Ikea pour refaire votre cuisine, vous allez utiliser un algorithme qui va vous faire des propositions automatiques d'aménagement.
+Et bien pour faire ça, il a fallu modéliser les contraintes d'aménagements en une fonction qu'on va chercher à minimiser.
+Et la position et la taille de chaque meuble représente une inconnu au problème !
 
-// * Quand on perd le fun du début
-// * Besoin d’évoluer, d’apprendre
-// * POC 3D dans le cloud => envie de découvrir de nouvelles technos
-// * Manque de reconnaissance dans mon travail, mal-être
-// * Pas assez de maths et de 3D à mon goût dans mon quotidien
+Plus globalement, ce que j'ai aimé dans la 3D, c'est faire des maths appliquées à des problèmes concrets.
+Beaucoup d'algorithmie (et de casse tête!).
+On va rechercher à optimiser les performances, à aller vite dans les calculs, en cherchant la solution qui se rapproche le plus de l'idéal en un minimum de temps.
+J'ai aimé travailler sur ces projets intéressants fonctionnellement. J'ai eu la chance de gagner en expertise C++ notamment en allant à des conférences.
 
-//Des opportunités en C++ :
+Mais il est arrivé un moment où je n'étais plus bien dans mon travail. J'ai perdu le côté Fun des débuts.
+Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe.
+Ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une appli 3D dans le cloud.
+J'ai découvert Kotlin, DDD, les microservices, et ça a éveillé ma curiosité pour ces technos plus modernes.
 
-// * Poste C++ et algorithmie : intéressant !
-// * Poste de tech lead C++ : promotion !
+Et là, comment on fait pour évoluer ?
+1. On regarde ce qui se fait ailleurs, on passe des entretiens.
+2. On regarde ce qu'on nous propose en interne.
 
-//Cool promotion, mieux payé, nouveau statut.
-//C++, je reste dans mes pantoufles
-//Qu’est ce que je vais apprendre ? Je suis curieuse de voir d’autres techno  !
-//Doutes, envie d’apprendre plus grande, mais peur de recommencer à zero
+Chouette, j'ai 2 opportunités en C++ :
+
+Un Poste de dev C++ avec beaucoup d'algorithmie : intéressant !
+Un Poste de tech lead C++ dans un start up : Cool promotion, mieux payé, nouveau statut !
+
+Mais en fait, là je reste dans mes pantoufles, ma zone de confort
+Qu’est ce que je vais apprendre ? Moi je suis curieuse de voir d’autres techno  !
+
+Je m'intéresse alors au poste ouvert à candidature de Data ingénieur dans l'équipe Enrico.
+Et là, je suis remplie de doutes, mon envie d’apprendre est plus grande, mais j'ai peur de recommencer à zero.
+Allez je me lance, passons l'entretien !
+
+Bonjour, j’y connais rien dans la Data mais je suis très motivée !
+et en plus je veux bien une augmentation !
+J'explique aussi que le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin via les statistiques et la data science,
+même si là maintenant j'ai plus une soif de nouvelles technos (Scala, Kafka, Spark, Snowflake).
+J'explique que je n'ai pas peur des données car j'aime l'abstrait. Et j'ai envie d'être au coeur des équipes, et plus isolée dans la bulle 3D.
+Et puis l'équipe a l'air super !
+
+Bon au final, j'ai dû être convaincante car j'ai eu le poste, mais je n'ai pas eu l'augmentation à la hauteur de mes attentes car on m'a dit que j'allais être
+débutante au début, donc moins payé que les autres. On verra plus tard...
+Et ça, c'est un échec car j'ai de l'expérience, je suis développeuse, apprendre c'est mon quotidien et c'est normal d'évoluer et de repartir de zero.
+Allez ce n'est que la première difficulté !
+
+Découvrons alors ensemble ce nouveau monde, celui de la Data !
+Je découvre la programmation fonctionnelle via le langage Scala, et j'adore ! Comment ça on fait plus de boucle for !
+Je découvre Kafka, et tous les tuyaux qui faut gérer, créer maintenir pour que la donnée arrive jusqu'en base de données.
+Et chaque tuyau, c'est des petits projets. Je suis loin des énormes projets en C++, avec des tests qui durent 24h et des
+fois tu peux même pas avoir tout le code sur ta machine.
+Je rencontre plein de gens, car on est au milieu, entre les équipes qui nous envoient la donnée et celles qui l'utilisent.
+Je découvre Docker, Kubernetes, Jenkins, et ça devient moins obscure chaque jour.
+En plus ça permet de faire les MEP instantanée, de façon transparente, alors que j'étais habituée à une release par an.
+Et le métier de Data Ingé, c'est aussi beaucoup de recherche d'amélioration, d'automatisation, de qualités. Ca évolue sans cesse.
+Un autre pilier, c'est la partie métier. Il faut comprendre les données qu'on manipule pour pouvoir les traiter au mieux,
+et comprendre le besoin clients autour des machines de découpe.
+
+Pour réussir, il a fallu se former, d'abord seule.
+Via des formations en ligne (yen a bcp) et aussi des formations internes, données par des collègues (trop sympas).
+Mais ce n'est pas tout ! La formation c'est dans le quotidien que ça se joue et pas dans la formation udemy.
+Je regardai les commits des collègues tous les jours pour pouvoir poser des questions lors des revues de code.
+Et puis le plus important c'est de se lancer et de se tromper, chercher par soi même.
+Ensuite, il faut pas hésiter à donner sn avis, poser des questions, demander de réexpliquer.
+Et puis partager ce qu'on apprend ça permet de vérifier qu'on a bien tout compris,
+alors on a fait un projet d'exemple et d'exercices sur l'API de Kafka Stream et on a fait des ateliers en interne pour
+partager avec les autres équipes et leur faire découvrir Kafka.
+Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller cherhcer de l'info dans les conférences (Kafka Sumit, Scala IO).
+
+Mais la réussite de ma reconversion, je la dois en vérité à mon équipe qui a tout mis en oeuvre pour bien m'accueillir et m'accompagner.
+On m'a attribué un parrain qui m'a appris le fonctionnel et Kafka.
+Lors des réunions, on écrit le compte rendu en live, on fait des schémas, on fait en sorte que tout le monde ait la même base de connaissance;
+On fait du mob, du pair.
+On a fait des points réguliers de sharing pour partager nos connaissances sur diverses sujets.
+Mais l'essentiel c'est que mon équipe m'a soutenu et encouragé dès le début, en me demandant mon avis même quand j'avais pas encore les connaissances.
+
+On va donc parler des clés pour réussir sa reconversion :
+Il faut accepter de repartir de zero, et que l'apprentissage soit long. Accpeter de pas tout maitriser et aborder les sujets par étapes.
+Accepter d'apporter moins à l'équipe que ce qu'elle te donne, même si c'est pas tout à fait vrai on va le voir plus tard. mais c'est ce qu'on ressent.
+Oser dire "je n'ai pas compris", mettre son égo de coté. C'est normal de ne pas tout savoir.
+Savourer les petites victoires ! on y reviendra
+
+Mais il y a des jours où :
+Je me sens nulle,
+Je rentre de vacances, et là je comprends plus rien, les US, les réunions. Je suis trop un boulet !
+En plus j'ai toujours pas compris c'est quoi une monad alors que Sylvain il en parle tout le temps,
+et puis finalement est-ce que j'ai pas fait tout ça pour rien, est-ce qu'on me considère toujours comme une débutante ?
+
+Mais heureusement il y a aussi les petites victoires :
+Ok je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais : présentation de la 3D, tutos Git, et organisation de soirée
+team building.
+Quand on commence à maitrier des petits bouts
+Quand on propose des bonnes idées
+Quand on présente sa première conférence
+Et finalement, il faut simplement être fière d'être sorti de sa zone de confort.
+
+Encore quelques petits conseils pour finir :
+Il faut bien choisir son équipe et son chef, car l'environnement de travail va être déterminant dans la réussite de la reconversion.
+Si on a un chef qui te dévalorise ça va pas marcher. C'est une question de confiance.
+Bien négocier les conditions du poste (salaire, le temps de formation le titre de poste).
+Avancer petit à petit au jour le jour sans se décourager
+Et pourquoi pas se faire financer une formation externe diplomante, surtout si on change complètement de métier.
+
+Et vous, vous vous lancez ?
+
+Avoir un parcours atypique, c'est un gage d'agilité et d'innovation.
+En fait, on n'est pas un poids pour l'équipe mais un atout car on va favoriser la diversité des profils de l'équipe, essentielles dans une équipe agile performante.
+On pourra pousser l'équipe à se challenger et à changer ses automatismes à travers un nouveau regard et des idées disruptives,
+parce qu'on n'a pas peur de sortir de sa zone de confort et qu'on a un parcours différent.
+En fait, quand on commence on s'arrête plus, on a encore envie d'apprendre, on est plus motivé et déterminé.
+On se rend compte qu'on a acquis beaucoup plus que des connaissances techniques, on sait d'autant plus évoluer et s'adapter aux besoins de changement.
+
+C'est aussi à l'entreprise de faire en sorte d'accueillir ces profils atypiques et favoriser l'inclusion.
+En étant ouvert dans les descriptions de poste. En donnant du temps aux équipes pour former les nouveaux.
+En donnant le temps et les moyens aux reconvertis de se former.
+Car l'entreprise va comme ça s'enrichir des différences et des expériences de chacun.
+
+Concrètement comment je fais ?
+Je me dis déjà que c'est normal que c'est pas une reconversion mais une évolution professionnelle.
+Comme ça ça fait moins peur !
+On argumente nos choix honnêtement, on ne cherche pas à se survendre.
+On regarde si on peut évoluer en interne, on en dscute.
+Et on tente de postuler à des jobs qui ne nous corespondent pas à l'instant t, mais qu'on pense pouvoir nous correspondre.
+On fait des vis ma vie dans une autre équipe pour découvrir ce qui se fait ailleurs.
+
+Merci beaucoup pour votre attention, j'espère vous avoir apporté des idées et de quoi refléchir.
+N'hésitez pas si vous avez des questions où si vous souhaitez assi partager votre expérience sur le sujet.
+Merci !
 
 
-// == Pourquoi la reconversion Data
-//
-// * Je n'aime pas le Front !
-// * J'ai pas peur des données (grosses matrices)
-// * J'aime l'abstrait
-// * Lien avec les stats et les modèles mathématiques via la data science
-// *
 
-//Bonjour, j’y connais rien mais je suis très motivée :) et en plus je veux bien une augmentation :)
-//Le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin, même si là maintenant c’est plus une soif de technos (Scala, Kafka, Spark, Snowflake)
-//Ko côté reconnaissance salariale: J’aurais dû mieux argumenter. Quand on est dev, on peut tout apprendre, et il est normal d’évoluer et de réapprendre de zero de nouvelles techno, ça fait partie de notre quotidien.
+
 
 // J’ai la casquette mais pas les bagages, comment se former ?
 

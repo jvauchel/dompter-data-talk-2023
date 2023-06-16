@@ -10,8 +10,9 @@
 image:images/datainge.jpg[width=250]
 
 [.column]
-* Ingénieure *Data* chez Lectra
+* Ingénieure *Data* chez https://www.lectra.com/fr[Lectra]
 * Technos : *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
+* Données de machines de découpe de tissus
 
 [.columns]
 === Parcours
@@ -98,13 +99,35 @@ image:images/data.jpg[width=500]
 
 === Programmation fonctionnelle (Scala)
 
+image:images/monde_data1-1.jpg[width=500]
+
 === Pipelines de données à gérer dans Kafka = Tuyaux
+
+image:images/monde_data1-3.jpg[width=500]
+
 === Multitude de petits projets
+
+image:images/monde_data1-2.jpg[width=500]
+
 === Etre au cœur des équipes
+
+image:images/monde_data1-4.jpg[width=500]
+
 === Kubernetes, Docker, Jenkins
+
+image:images/monde_data2-1.jpg[width=500]
+
 === Mise en production rapide et continue
+
+image:images/monde_data2-2.jpg[width=500]
+
 === Automatisation, recherche de qualité, analyses
+
+image:images/monde_data2-4.jpg[width=500]
+
 === Fonctionnel : Métier des données qu'on manipule
+
+image:images/monde_data2-3.jpg[width=500]
 
 === Auto formation
 
@@ -151,10 +174,11 @@ image:images/my-team.png[width=500]
 
 === Les petites victoires
 
-* Partage sur ce que je connais : la 3D, Git, le karaoké
-* Première maîtrise de petites parties du code
-* Premières propositions d'idées pertinentes
+* Partage sur ce que je connais : la 3D, Git, le karaoké 🎁
+* Première maîtrise de petites parties du code 🏆
+* Premières propositions d'idées pertinentes 💡
 * Première conférence 😉
+* Je suis sortie de ma zone de confort 💪
 
 === Conseils
 
@@ -163,27 +187,37 @@ image:images/my-team.png[width=500]
 * Avancer petit à petit
 * Se faire financer une formation externe, diplômante
 
-== De nouvelles envies
 
-* Data Science, statistiques, analyses
-* Découvrir de nouveaux outils, technos
-* Donner des formations pour aider les petits nouveaux
-* Donner des conférences sur des sujets Data
+// == De nouvelles envies
+//
+// * Data Science, statistiques, analyses
+// * Découvrir de nouveaux outils, technos
+// * Donner des formations pour aider les petits nouveaux
+// * Donner des conférences sur des sujets Data
 
 == Et vous ? Vous vous lancez ?
 
+=== Parcours atypique = gage d'agilité et d'innovation
 
+* La différence = atout pour l'équipe
+** Diversité des profils
+* Pousser l'équipe à se challenger
+* Idées disruptives
+* Ouverture au changement
+* Motivation et détermination
+* Soft skills, qualités humaines
 
-=== Accueil de reconverti(e)s
+=== Le rôle de l'entreprise
 
 * Acceptez les profils issus de la reconversion, favoriser l’*inclusion*
 * Soyez *ouvert* dans vos titres et descriptions de poste
-* Donnez le *temps* à l'équipe de former les débutant(e)s
+* Donnez le *temps* à l'équipe de former les nouveaux
 * Donnez le *temps* et les *moyens* aux reconverti(e)s de se former
 * Apprenez des *différences* et des expériences des autres
 
 === Se reconvertir dans un nouveau domaine ?
 
+* C'est normal en fait ! 🤔
 * N’ayez pas *peur* de vous lancer, et argumentez vos choix de parcours honnêtement
 * Pouvez-vous *évoluer* en interne, discutez-en !
 * Osez *postuler* à des postes qui ne vous correspondent pas à l'instant t

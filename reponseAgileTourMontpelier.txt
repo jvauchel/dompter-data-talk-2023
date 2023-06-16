@@ -1,27 +1,32 @@
 Bonjour Mansour,
 
-Merci pour votre lecture.
+Merci beaucoup pour votre lecture de mon sujet. Je tiens juste à préciser qu'il ne s'agit pas d'une conférence sur la Data, mais bien d'un retour sur mon expérience de reconversion et
+une réflexion sur ce que la reconversion peut amener à un individu et à une équipe.
 
-A travers ce retour d'expérience très personnel, j'aimerais démontrer qu'une personne issue d'une reconversion est un atout indéniable pour une équipe agile,
-et non un poids.
-En effet, son parcours atypique est un atout, et un gage d'agilité et d'innovation.
-Elle pourra pousser une équipe à se challenger et à changer ses automatismes à travers un nouveau regard et des idées disruptives,
-car elle n'a pas peur de sortir de sa zone de confort.
-Le fait s'oser se lancer dans l'inconnu et tout recommencer à zéro malgré plusieurs années d'expérience démontre une détermination et une grande motivation
-pour affronter les problématiques et les besoins d'évolution d'une équipe agile.
-Dans le cadre d'une transformation agile, l'entreprise doit arrêter d'embaucher des "clones" et s'ouvrir à d'autres types de profils,
-qui possèdent assurément les "soft skills" (savoir-être) et une envie d'apprendre immense.
-Alors pourquoi ne serait-ce pas à l'entreprise d'aider ses salariés dans leur reconversion, et d'aider à l'accueil de ces profils en aidant les équipes à les
-intégrer efficacement, avec soutien et bienveillance ?
-Et toi, si tu hésites à te lancer dans une reconversion, garde confiance en tes qualités humaines et dis-toi qu'il s'agit plutôt d'une évolution naturelle
-dans ta carrière, et que tes efforts des débuts porteront très rapidement leurs fruits, car tu vas acquérir beaucoup plus que des connaissances techniques,
-tu sauras d'autant plus évoluer et t'adapter aux besoins de changement.
+Tout d'abord, je vais présenter, dans cette conférence, mon parcours atypique, qui se trouve être une transformation agile à part entière, en décrivant ma recherche de développement, mon besoin d'évolution, les opportunités saisies, la collaboration et les interactions avec mes collègues pour monter en compétences, et enfin mon adaptation au changement.
 
-Merci à vous,
-Je reste à votre disposition si vous avez des questions.
+A travers ce retour d'expérience très personnel, j'aimerais démontrer qu'une personne issue d'une reconversion est un atout indéniable pour une équipe agile, et non un poids. Car un parcours atypique est un gage d'agilité et d'innovation.
+
+Les individus et leurs interactions plus que les processus et les outils :
+
+Une personne en reconversion pourra pousser une équipe à se challenger et à changer ses automatismes à travers un nouveau regard et des idées disruptives, parce qu'elle n'a pas peur de sortir de sa zone de confort.
+De plus, je soulignerai que la réussite d'une reconversion repose sur un travail d'équipe bien rodé, des interactions enrichissantes pour les deux parties et une ouverture d'esprit de chacun.
+
+L’adaptation au changement plus que le suivi d’un plan :
+
+En effet, pour pouvoir accueillir le changement et les évolutions d'un produit sur lequel on travaille, il faut être ouvert au changement déjà personnellement.
+Le fait d'oser se lancer dans l'inconnu et tout recommencer à zéro malgré plusieurs années d'expérience démontre une détermination et une grande motivation pour affronter les problématiques et les besoins d'évolution d'une équipe agile ou d'un produit.
+Et toi, si tu hésites à te lancer dans une reconversion, garde confiance en tes qualités humaines et dis-toi qu'il s'agit plutôt d'une évolution naturelle dans ta carrière, et que tes efforts des débuts porteront très rapidement leurs fruits, car tu vas acquérir beaucoup plus que des connaissances techniques, tu sauras d'autant plus évoluer et t'adapter aux besoins de changement.
+
+Le rôle de l'entreprise :
+
+Dans le cadre d'une transformation agile, l'entreprise doit arrêter d'embaucher des "clones" et s'ouvrir à d'autres types de profils, qui possèdent assurément les "soft skills" (savoir-être) et une envie d'apprendre immense. Cela favorise la pluridisciplinarité de l'équipe et la diversité des profils, essentielles dans une équipe agile performante. Alors pourquoi ne serait-ce pas à l'entreprise d'aider ses salariés dans leur reconversion, et d'aider à l'accueil de ces profils en aidant les équipes à les intégrer efficacement, avec soutien et bienveillance ?
+
+Je vous remercie pour votre lecture,
+
+Je reste à votre disposition si vous avez d'autres questions.
 Bien cordialement,
 
 Johanna
 
 PS: Mes slides sont en cours de préparations ici si besoin (https://jvauchel.github.io/dompter-data-talk-2023/)
-

@@ -32,7 +32,8 @@ Beaucoup d'algorithmie (et de casse tête!).
 On va rechercher à optimiser les performances, à aller vite dans les calculs, en cherchant la solution qui se rapproche le plus de l'idéal en un minimum de temps.
 J'ai aimé travailler sur ces projets intéressants fonctionnellement. J'ai eu la chance de gagner en expertise C++ notamment en allant à des conférences.
 
-Mais il est arrivé un moment où je n'étais plus bien dans mon travail. J'ai perdu le côté Fun des débuts.
+Mais il est arrivé un moment où je n'étais plus bien dans mon travail.
+J'ai perdu le côté Fun des débuts.
 Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe.
 Ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une appli 3D dans le cloud.
 J'ai découvert Kotlin, DDD, les microservices, et ça a éveillé ma curiosité pour ces technos plus modernes.
@@ -55,7 +56,8 @@ Allez je me lance, passons l'entretien !
 
 Bonjour, j’y connais rien dans la Data mais je suis très motivée !
 et en plus je veux bien une augmentation !
-J'explique aussi que le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin via les statistiques et la data science,
+J'explique aussi que le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin via les statistiques et la
+data science,
 même si là maintenant j'ai plus une soif de nouvelles technos (Scala, Kafka, Spark, Snowflake).
 J'explique que je n'ai pas peur des données car j'aime l'abstrait. Et j'ai envie d'être au coeur des équipes, et plus isolée dans la bulle 3D.
 Et puis l'équipe a l'air super !
@@ -80,13 +82,13 @@ et comprendre le besoin clients autour des machines de découpe.
 Pour réussir, il a fallu se former, d'abord seule.
 Via des formations en ligne (yen a bcp) et aussi des formations internes, données par des collègues (trop sympas).
 Mais ce n'est pas tout ! La formation c'est dans le quotidien que ça se joue et pas dans la formation udemy.
-Je regardai les commits des collègues tous les jours pour pouvoir poser des questions lors des revues de code.
-Et puis le plus important c'est de se lancer et de se tromper, chercher par soi même.
-Ensuite, il faut pas hésiter à donner sn avis, poser des questions, demander de réexpliquer.
+Je regardai les commits des collègues tous les soirs pour pouvoir poser des questions lors des revues de code.
+Et puis le plus important c'est de se lancer et de se tromper, chercher par soi-même.
+Ensuite, il faut pas hésiter à donner son avis, poser des questions, demander de réexpliquer.
 Et puis partager ce qu'on apprend ça permet de vérifier qu'on a bien tout compris,
 alors on a fait un projet d'exemple et d'exercices sur l'API de Kafka Stream et on a fait des ateliers en interne pour
 partager avec les autres équipes et leur faire découvrir Kafka.
-Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller cherhcer de l'info dans les conférences (Kafka Sumit, Scala IO).
+Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller cherhcer de l'info dans les conférences (Kafka Summit, Scala IO).
 
 Mais la réussite de ma reconversion, je la dois en vérité à mon équipe qui a tout mis en oeuvre pour bien m'accueillir et m'accompagner.
 On m'a attribué un parrain qui m'a appris le fonctionnel et Kafka.
@@ -109,7 +111,7 @@ et puis finalement est-ce que j'ai pas fait tout ça pour rien, est-ce qu'on me 
 
 Mais heureusement il y a aussi les petites victoires :
 Ok je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais : présentation de la 3D, tutos Git, et organisation de soirée
-team building.
+team building, animation de rétros
 Quand on commence à maitrier des petits bouts
 Quand on propose des bonnes idées
 Quand on présente sa première conférence
@@ -128,23 +130,24 @@ Avoir un parcours atypique, c'est un gage d'agilité et d'innovation.
 En fait, on n'est pas un poids pour l'équipe mais un atout car on va favoriser la diversité des profils de l'équipe, essentielles dans une équipe agile performante.
 On pourra pousser l'équipe à se challenger et à changer ses automatismes à travers un nouveau regard et des idées disruptives,
 parce qu'on n'a pas peur de sortir de sa zone de confort et qu'on a un parcours différent.
-En fait, quand on commence on s'arrête plus, on a encore envie d'apprendre, on est plus motivé et déterminé.
+En fait, quand on commence, on s'arrête plus, on a encore envie d'apprendre, on est plus motivé et déterminé.
 On se rend compte qu'on a acquis beaucoup plus que des connaissances techniques, on sait d'autant plus évoluer et s'adapter aux besoins de changement.
 
 C'est aussi à l'entreprise de faire en sorte d'accueillir ces profils atypiques et favoriser l'inclusion.
-En étant ouvert dans les descriptions de poste. En donnant du temps aux équipes pour former les nouveaux.
-En donnant le temps et les moyens aux reconvertis de se former.
+Elle doit être ouverte dans les descriptions de poste pour ouvrir la porte à ces profils.
+Il faut aussi donner du temps aux équipes pour former les nouveaux et
+donner le temps et les moyens aux reconvertis de se former.
 Car l'entreprise va comme ça s'enrichir des différences et des expériences de chacun.
 
 Concrètement comment je fais ?
 Je me dis déjà que c'est normal que c'est pas une reconversion mais une évolution professionnelle.
 Comme ça ça fait moins peur !
-On argumente nos choix honnêtement, on ne cherche pas à se survendre.
-On regarde si on peut évoluer en interne, on en dscute.
-Et on tente de postuler à des jobs qui ne nous corespondent pas à l'instant t, mais qu'on pense pouvoir nous correspondre.
+On argumente ses choix honnêtement, on ne cherche pas à se survendre.
+On regarde si on peut évoluer en interne, on en discute.
+Et on tente de postuler à des jobs qui ne nous correspondent pas exactementà l'intant t, mais dans lesquels on se projette bien.
 On fait des vis ma vie dans une autre équipe pour découvrir ce qui se fait ailleurs.
 
-Merci beaucoup pour votre attention, j'espère vous avoir apporté des idées et de quoi refléchir.
+Merci beaucoup pour votre attention, j'espère vous avoir apporté des idées et de quoi réfléchir.
 N'hésitez pas si vous avez des questions où si vous souhaitez assi partager votre expérience sur le sujet.
 Merci !
 

@@ -197,10 +197,10 @@ image:images/my-team.png[width=500]
 
 == Et vous ? Vous vous lancez ?
 
-=== Parcours atypique = gage d'agilité et d'innovation
+=== Agilité et innovation
 
-* La différence = atout pour l'équipe
-** Diversité des profils
+* Atout pour l'équipe
+* Diversité des profils
 * Pousser l'équipe à se challenger
 * Idées disruptives
 * Ouverture au changement

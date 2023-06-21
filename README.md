@@ -1,6 +1,6 @@
 # Apprends à dompter la data sans douter de toi !
 
-Slides disponible ici :
+Slides disponibles ici :
 
 https://jvauchel.github.io/dompter-data-talk-2023/
 

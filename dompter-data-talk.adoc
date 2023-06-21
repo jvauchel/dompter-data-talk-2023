@@ -199,13 +199,14 @@ image:images/my-team.png[width=500]
 
 === Agilité et innovation
 
-* Atout pour l'équipe
-* Diversité des profils
-* Pousser l'équipe à se challenger
-* Idées disruptives
-* Ouverture au changement
-* Motivation et détermination
-* Soft skills, qualités humaines
+image:images/agilite.jpg[width=700]
+// * Atout pour l'équipe
+// * Diversité des profils
+// * Pousser l'équipe à se challenger
+// * Idées disruptives
+// * Ouverture au changement
+// * Motivation et détermination
+// * Soft skills, qualités humaines
 
 === Le rôle de l'entreprise
 

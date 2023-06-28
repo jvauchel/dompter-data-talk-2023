@@ -1,6 +1,6 @@
 = Apprends à dompter la data sans douter de toi !
 
-image:images/dompter-data-illustration.jpg[width=250]
+image:images/dompter-data-illustration.jpg[width=400]
 
 == Slides
 

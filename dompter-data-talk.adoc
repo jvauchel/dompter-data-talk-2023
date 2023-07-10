@@ -1,5 +1,6 @@
 = +++<br/>+++
 :title-slide-background-image: images/dompter-data-background.jpg
+:icons: font
 
 == Présentation
 
@@ -234,8 +235,6 @@ image:images/agilite.jpg[width=700]
 == Merci beaucoup !
 
 image:images/merci.jpg[width=700]
-
-icon:linkedin[] https://fr.linkedin.com/in/johanna-vauchel-05576a78
 
 icon:github[] https://jvauchel.github.io/
 

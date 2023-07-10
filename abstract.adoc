@@ -1,0 +1,22 @@
+= Abstract
+
+== V1
+
+image:images/dompter-data-illustration.jpg[width=250]
+
+Il y a un peu plus d'un an, j'ai choisi de me réorienter pour devenir Ingénieure Data.
+
+Mais comment passe-t-on du développement d'applications 3D à la gestion d'une pipeline de données Kafka ?
+
+D'un outil de génération de cuisines automatiques pour Ikea à l'ingestion de données sous Snowflake.
+
+Dans ce retour d'expérience, je vais décrire :
+
+* mon parcours pour vous faire découvrir les deux univers que je connais : la 3D et la Data.
+* les moyens utilisés pour se former à la Data : des outils numériques mais surtout grâce à un travail d'équipe bien rodé.
+
+Qu'est-ce qui m'a fait sauter le pas ? Ai-je des regrets ? Je vous partagerai mes doutes, mes choix cornéliens, mes moments difficiles mais aussi mes astuces et mes indispensables pour réussir sa reconversion.
+
+== V2
+
+TODO

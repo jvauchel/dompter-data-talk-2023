@@ -10,9 +10,9 @@
 image:images/datainge.jpg[width=250]
 
 [.column]
-* Ingénieure *Data* chez https://www.lectra.com/fr[Lectra]
-* Technos : *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
-* Données de machines de découpe de tissus
+* 💺 Ingénieure *Data* chez https://www.lectra.com/fr[Lectra] - 2021
+* 💻 *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
+* 📊 Données de machines de découpe de tissus
 
 [.columns]
 === Parcours
@@ -21,35 +21,35 @@ image:images/datainge.jpg[width=250]
 image:images/3dinge.jpg[]
 
 [.column]
-* Génie Mathématique
-* *C++*, Modélisation *3D*, Shaders OpenGL, Optimisation
-* 3 expériences dans la 3D...
+* 🎓 INSA Génie Mathématique - 2013
+* 💻 *C++*, Modélisation *3D*, Shaders OpenGL, Optimisation
+* 🧪 4 expériences dans la 3D...
 
 
-=== Dassault Systèmes
+=== Dassault Systèmes - 2012
 
 image:images/home-by-me.png[width = 500]
 
-=== Thermo Fisher
+=== Thermo Fisher - 2016
 
 image:images/avizo3D.png[]
 
-=== Lectra
+=== Lectra - 2019
 
 image:images/Modaris3D.jpg[]
 
 == Motivation pour ce talk
 
-* *Retour d'expérience* sur ma reconversion dans la Data
-* Les *doutes*, les choix difficiles, les difficultés
-* Les *conseils* et les clés pour réussir sa reconversion
-* Vous donner *envie* de vous lancer !
-* Comment *accueillir* une nouvelle recrue issue d'une reconversion ?
+* 🧪 *Retour d'expérience* sur ma reconversion dans la Data
+* ⚖️ Les *doutes*, les choix difficiles, les difficultés
+* 📖 Les *conseils* et les clés pour réussir sa reconversion
+* 🫵 Vous donner *envie* de vous lancer !
+* 🔑 Comment *accueillir* une nouvelle recrue issue d'une reconversion ?
 
 == Le monde de la 3D et de la modélisation mathématique
 
 [.columns]
-=== La simu de tissus
+=== La simulation de tissus
 
 [.column]
 video::videos/collisionTissu.mp4[width = 500, height = 500]
@@ -70,18 +70,16 @@ Comment modéliser les *contraintes* d'aménagement d'une cuisine en une fonctio
 
 === Le monde de la 3D
 
-* Des *maths* appliquées
-* *Algorithmie* poussée
-* Recherche de perf (optimisation, calcul distribué)
-* Projets intéressants, beaucoup de fonctionnel
-* *Conférence* C++ à Berlin
-* *Expertise* C++
+* 📐 Des *maths* appliquées
+* 👩‍💻 *Algorithmie* poussée
+* 📉 Recherche de perf (optimisation, calcul distribué)
+* 👗 Projets intéressants, beaucoup de fonctionnel
+* 🇩🇪 *Conférence* C++ à Berlin
+* 👩‍🔬 *Expertise* C++
 
 === La perte de vitesse
 
 image:images/perteVitesse.jpg[width=750]
-
-
 
 == Besoin de changement !
 
@@ -89,9 +87,14 @@ image:images/changement.jpg[width=800]
 
 === L'entretien d'embauche
 
-Travailler sa légitimité !
-
 image:images/entretien.jpg[width=550]
+
+=== Travailler sa légitimité
+
+. Confiance en soi, combattre le syndrôme de l'imposteur 🤥️
+. Lien de confiance avec son équipe 🤝
+. Lien de confiance avec son entreprise 🥇
+** Objectif : Cartographie montée en compétence technique
 
 == Le monde de la Data
 
@@ -131,17 +134,17 @@ image:images/monde_data2-3.jpg[width=500]
 
 === Auto formation
 
-* *Formations* en ligne (Udemy, Documentation en ligne des technos, tutos)
-* Formations internes
-* Regarder les *commits* des collègues tous les jours
-* Se lancer et *se tromper*, essayer seule avant demander
+* 💻 *Formations* en ligne (Udemy, Documentation en ligne des technos, tutos)
+* 🗣️ Formations internes
+* 🕵️‍♀️ Regarder les *commits* des collègues tous les jours
+* 🚵‍♀️ Se lancer et *se tromper*, essayer seule avant de demander
 
 === Auto formation
 
-* Donner son *avis*, poser des *questions*, demander de réexpliquer
-* *Partager* ce qu’on a appris
+* 🗣️ Donner son *avis*, poser des *questions*, demander de réexpliquer
+* 🍻 *Partager* ce qu’on a appris
 ** Projet d'exemple : kafka-stream-example
-* Assister à des *Conférences*
+* 🎤 Assister à des *Conférences*
 
 === Une équipe au top
 
@@ -149,22 +152,22 @@ image:images/my-team.png[width=500]
 
 === Une équipe au top
 
-* Accompagnement de toute l’équipe et attribution d’un parrain
-* *Documentation riche*, lisible, à jour
-* Nombreux schémas
-* *Mob* et pair-programming
-* Coding dojos, *sharing session*
-* L'essentiel : *Soutien et bienveillance*
+* 🧸 Accompagnement de toute l’équipe et attribution d’un parrain
+* 📖 *Documentation riche*, lisible, à jour
+* ✏️ Nombreux schémas
+* 🧑🏼‍🤝‍🧑🏻 *Mob* et pair-programming
+* 🍻 Coding dojos, *sharing session*
+* 🫶 L'essentiel : *Soutien et bienveillance*
 
 == Les clés pour réussir sa reconversion
 
-* Accepter de repartir de zéro, apprentissage long
-* Accepter d'apporter moins à l'équipe que ce qu'elle te donne
-* Oser dire "je n'ai pas compris"
-* Accepter les doutes
-* Savourer les petites victoires
+* 🐣 Accepter de repartir de zéro, apprentissage long
+* 🎁 Accepter d'apporter moins à l'équipe que ce qu'elle te donne
+* 🙋‍♀️ Oser dire "je n'ai pas compris"
+* 😞 Accepter les doutes
+* 🤗 Savourer les petites victoires
 
-=== Les doutes et moments difficiles
+=== Les doutes et moments difficiles 😞
 
 * Je me sens nulle !
 * Retour de vacances : Je ne comprends plus rien !
@@ -172,13 +175,25 @@ image:images/my-team.png[width=500]
 * J'ai toujours pas compris c'est quoi une Monad (Scala)
 * Besoin de reconnaissance de la part de son employeur
 
-=== Les petites victoires
+=== Les petites victoires 🤗
 
 * Partage sur ce que je connais : la 3D, Git, le karaoké 🎁
 * Première maîtrise de petites parties du code 🏆
 * Premières propositions d'idées pertinentes 💡
 * Première conférence 😉
 * Je suis sortie de ma zone de confort 💪
+
+=== Agilité et innovation
+
+image:images/agilite.jpg[width=700]
+// * Atout pour l'équipe
+// * Diversité des profils
+// * Pousser l'équipe à se challenger
+// * Idées disruptives
+// * Ouverture au changement
+// * Motivation et détermination
+// * Soft skills, qualités humaines
+
 
 === Conseils
 
@@ -197,36 +212,33 @@ image:images/my-team.png[width=500]
 
 == Et vous ? Vous vous lancez ?
 
-=== Agilité et innovation
-
-image:images/agilite.jpg[width=700]
-// * Atout pour l'équipe
-// * Diversité des profils
-// * Pousser l'équipe à se challenger
-// * Idées disruptives
-// * Ouverture au changement
-// * Motivation et détermination
-// * Soft skills, qualités humaines
 
 === Le rôle de l'entreprise
 
-* Acceptez les profils issus de la reconversion, favoriser l’*inclusion*
-* Soyez *ouvert* dans vos titres et descriptions de poste
+* Acceptez les profils issus de la reconversion, favoriser l’*inclusion* de profils atypiques
+//La plupart des femmes attendent d’avoir 100% des compétences requises dans une offre d’emploi pour postuler, alors que les hommes se contentent d’avoir coché 60 ou 65% des cases.
+* Soyez *ouvert* dans vos descriptions de poste
+** compétences : 🏋️‍♀️ 100%  > 🏋️‍♂️ 65% (https://www.helloworkplace.fr/egalite-professionnelle-recrutement-femmes/[étude])
 * Donnez le *temps* à l'équipe de former les nouveaux
 * Donnez le *temps* et les *moyens* aux reconverti(e)s de se former
-* Apprenez des *différences* et des expériences des autres
+* Apprenez des *différences* et des expériences
 
 === Se reconvertir dans un nouveau domaine ?
 
-* C'est normal en fait ! 🤔
+* C'est normal en fait ! Etat d'esprit, adaptation 🤔
 * N’ayez pas *peur* de vous lancer, et argumentez vos choix de parcours honnêtement
 * Pouvez-vous *évoluer* en interne, discutez-en !
 * Osez *postuler* à des postes qui ne vous correspondent pas à l'instant t
-* Stages et *vis ma vie*
+* Stages, formations CPF, et *vis ma vie*
 
 == Merci beaucoup !
 
 image:images/merci.jpg[width=700]
+
+icon:linkedin[] https://fr.linkedin.com/in/johanna-vauchel-05576a78
+
+icon:github[] https://jvauchel.github.io/
+
 
 
 

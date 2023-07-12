@@ -196,12 +196,7 @@ image:images/agilite.jpg[width=700]
 // * Soft skills, qualités humaines
 
 
-=== Conseils
 
-* Bien choisir son équipe et son chef
-* Bien négocier les *conditions* du poste (salaire, temps de formation, titre de poste)
-* Avancer petit à petit
-* Se faire financer une formation externe, diplômante
 
 
 // == De nouvelles envies
@@ -213,16 +208,12 @@ image:images/agilite.jpg[width=700]
 
 == Et vous ? Vous vous lancez ?
 
+=== Conseils
 
-=== Le rôle de l'entreprise
-
-* Acceptez les profils issus de la reconversion, favoriser l’*inclusion* de profils atypiques
-//La plupart des femmes attendent d’avoir 100% des compétences requises dans une offre d’emploi pour postuler, alors que les hommes se contentent d’avoir coché 60 ou 65% des cases.
-* Soyez *ouvert* dans vos descriptions de poste
-** compétences : 🏋️‍♀️ 100%  > 🏋️‍♂️ 65% (https://www.helloworkplace.fr/egalite-professionnelle-recrutement-femmes/[étude])
-* Donnez le *temps* à l'équipe de former les nouveaux
-* Donnez le *temps* et les *moyens* aux reconverti(e)s de se former
-* Apprenez des *différences* et des expériences
+* Bien choisir son équipe et son chef
+* Bien négocier les *conditions* du poste (salaire, temps de formation, titre de poste)
+* Avancer petit à petit
+* Se faire financer une formation externe, diplômante
 
 === Se reconvertir dans un nouveau domaine ?
 
@@ -231,6 +222,15 @@ image:images/agilite.jpg[width=700]
 * Pouvez-vous *évoluer* en interne, discutez-en !
 * Osez *postuler* à des postes qui ne vous correspondent pas à l'instant t
 * Stages, formations CPF, et *vis ma vie*
+
+=== Le rôle de l'entreprise
+
+* Acceptez les profils issus de la reconversion, favoriser l’*inclusion* de profils atypiques
+* Soyez *ouvert* dans vos descriptions de poste
+** Soft skills
+* Donnez le *temps* à l'équipe de former les nouveaux
+* Donnez le *temps* et les *moyens* aux reconverti(e)s de se former
+* Apprenez des *différences* et des expériences
 
 == Merci beaucoup !
 

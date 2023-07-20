@@ -1,0 +1,100 @@
+= Abstract
+
+== V1
+
+image:images/dompter-data-illustration.jpg[width=250]
+
+Il y a un peu plus d'un an, j'ai choisi de me réorienter pour devenir Ingénieure Data.
+
+Mais comment passe-t-on du développement d'applications 3D à la gestion d'une pipeline de données Kafka ?
+
+D'un outil de génération de cuisines automatiques pour Ikea à l'ingestion de données sous Snowflake.
+
+Dans ce retour d'expérience, je vais décrire :
+
+* mon parcours pour vous faire découvrir les deux univers que je connais : la 3D et la Data.
+* les moyens utilisés pour se former à la Data : des outils numériques mais surtout grâce à un travail d'équipe bien rodé.
+
+Qu'est-ce qui m'a fait sauter le pas ? Ai-je des regrets ? Je vous partagerai mes doutes, mes choix cornéliens, mes moments difficiles mais aussi mes astuces et mes indispensables pour réussir sa reconversion.
+
+
+== Retour
+
+Challenge de reconvertion
+du C++ à la gestion de milliers de messages
+
+Après snowflake,
+Qu'est-ce qui m'a fait sauter le pas
+
+Moyen pour me former à la data
+
+Contexte
+Problématique
+Comment tu réponds à la problématique
+Contenu de la conférence.
+Phrase de sortie
+
+exemple: https://sunny-tech.io/sessions/la-parole-cet-outil-formidable
+
+****$*********
+Atelier de réflexion proposé:  “comment écrire un abstract en 30 minutes”  (PTOME méthode) -  30mn
+Atelier de test:  L’abstract as a pitch -  30mn
+Partage de l’abstract à Zenika - 10mn
+Pitch vidéo à refaire.
+
+
+Idées GGR:
+j’ai fait une reconversion
+j’ai dans le  dev 3D, lié à l’info mais rien à voir
+je suis en 1an
+des stats  kafka  de 1 cuisine à des 1K de msg
+évoqué âge et contexte pour la reconversion ?
+
+
+
+== V2
+
+Il y a deux ans, j’étais développeuse C++, et j’ai fait le choix d’entamer une reconversion pour devenir Ingénieure Data.
+
+Pour passer d’un univers à un autre, monter en compétence a été une étape, mais me sentir légitime a été une épreuve.
+Comment passe-t-on du développement d'applications 3D à la gestion d'une pipeline de données Kafka ?
+Ou d'un outil de génération de cuisines automatiques pour Ikea à l'ingestion de milliers de données sous Snowflake ?
+Qu'est-ce qui m'a fait sauter le pas pour sortir de ma zone de confort ? Comment j’ai réussi à gérer mes doutes, à faire mes choix cornéliens, et à traverser mes moments difficiles ?
+Dans ce retour d'expérience, je vais partager avec vous :
+mon parcours pour vous faire découvrir les deux univers que je connais : la 3D et la Data.
+les moyens utilisés pour me former à la Data : des outils numériques, oui, mais surtout grâce à un travail d'équipe bien rodé.
+En plus d’apprendre les astuces et les indispensables pour réussir sa reconversion, vous découvrirez ce qu’un choix de parcours atypique peut apporter à un individu, mais aussi à son équipe
+
+
+== V3
+Il y a deux ans, j’étais développeuse C++, et j’ai fait le choix d’entamer une reconversion pour devenir Ingénieure Data.
+
+Pour passer d’un univers à un autre, monter en compétence a été une étape, mais me sentir légitime a été une épreuve.
+
+Comment passe-t-on du développement d'applications 3D à la gestion d'une pipeline de données Kafka ?
+
+Ou alors d'un outil de génération de cuisines automatiques pour Ikea à l'ingestion de milliers de données sous Snowflake ?
+
+Qu'est-ce qui m'a fait sauter le pas pour sortir de ma zone de confort ? Comment j’ai réussi à gérer mes doutes, à faire des choix cornéliens, et à traverser les moments difficiles ?
+Dans ce retour d'expérience, je vais partager avec vous :
+
+* mon parcours pour vous faire découvrir les deux univers que je connais : la 3D et la Data.
+* les moyens utilisés pour dompter la Data : des outils numériques, oui, mais surtout grâce à un travail d'équipe bien rodé.
+
+En plus d’apprendre les astuces et les indispensables pour réussir à vous lancer dans une reconversion, vous découvrirez qu’un choix de parcours atypique pourra vous apporter beaucoup plus que des compétences techniques (adaptation au changement, garder sa motivation dans des moments difficiles, etc.).
+Nous verrons enfin comment améliorer l’intégration des profils en reconversion et ainsi favoriser leur inclusion dans votre entreprise.
+
+== V4
+
+Il y a deux ans, j’étais développeuse C++, et j’ai fait le choix d’entamer une reconversion pour apprendre à dompter la Data et devenir Ingénieure Data.
+
+Pour passer d’un univers à un autre, monter en compétence a été une étape, mais me sentir légitime a été une épreuve.
+
+Comment passe-t-on du développement d'applications 3D à la gestion d'une pipeline de données Kafka ? D'un outil de génération de cuisines automatiques pour Ikea à l'ingestion de milliers de données sous Snowflake ?
+
+Qu'est-ce qui m'a fait sauter le pas pour sortir de ma zone de confort ? Comment j’ai réussi à gérer mes doutes, à faire des choix cornéliens, et à traverser les moments difficiles ?
+
+Dans ce retour d'expérience, je vais d’abord partager avec vous mon parcours à travers les maths, la 3D et la Data. Je vous parlerais des moyens utilisés pour me former à la Data, et la place essentielle de la cohésion d’équipe dans ma reconversion.
+
+Je vous donnerai ensuite les astuces et les indispensables pour réussir à vous lancer dans une reconversion, et vous découvrirez qu’un choix de parcours atypique pourra vous apporter beaucoup plus que des compétences techniques (adaptation au changement, confiance en soi ...).
+Nous verrons enfin comment améliorer l’intégration des profils en reconversion et ainsi favoriser leur inclusion dans votre entreprise.

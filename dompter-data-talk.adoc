@@ -2,6 +2,23 @@
 :title-slide-background-image: images/dompter-data-background.jpg
 :icons: font
 
+
+== How I met Data ?
+
+image:images/himym-finale.gif[]
+
+== Barbie ingénieure informaticienne
+
+image::images/barbie.png[width=350]
+
+== TODO
+
+Sketch
+
+== fd
+
+Sketch
+
 == Présentation
 
 [.columns]

@@ -1,21 +1,27 @@
 #!/usr/bin/env bash
 
 echo "
-= Dompter Data
+= Apprends à Dompter la Data sans Douter de Toi !
+
++++<img src="https://raw.githubusercontent.com/jvauchel/dompter-data-talk-2023/main/images/dompter-data-illustration.jpg" width='800'/>+++
+
+== Slides
 
 " > index.adoc
 
 CONFERENCES="tadx jug-summer-camp abstract"
+
+mkdir -p public
 
 for conf in ${CONFERENCES}
 do
   echo "generate ${conf} html"
 
   CONFERENCE_NAME=${conf}
-      CONFERENCE_PNG_BASE64=$(cat images/logo-${CONFERENCE_NAME}.png | base64 -w0) \
-      QRCODE_PNG_BASE64=$(cat images/qrcode.png | base64 -w0) \
-      MY_NAME_PNG_BASE64=$(cat images/myName.png | base64 -w0) \
-        envsubst < custom.css > public/custom-${conf}.css
+  CONFERENCE_PNG_BASE64=$(cat images/logo-${CONFERENCE_NAME}.png | base64 -w0) \
+  QRCODE_PNG_BASE64=$(cat images/qrcode.png | base64 -w0) \
+  MY_NAME_PNG_BASE64=$(cat images/myName.png | base64 -w0) \
+    envsubst < custom.css > public/custom-${conf}.css
 
   if [ ${conf} = 'abstract' ] ; then
     SOURCE="abstract.adoc"
@@ -33,6 +39,27 @@ do
     echo "* link:index-${conf}.html[${conf}^]" >> index.adoc
 
 done
+
+echo "
+== Vidéos
+
+=== Pitch de présentation de la conférence
+
+https://youtu.be/yKEvZEYXwOU
+
+=== Jug Summer Camp 2023
+
+à venir
+
+=== Le Tremplin Bordelais 2023
+
+à venir
+
+=== TADx 2023
+
+à venir
+
+" >> index.adoc
 
 mkdir -p public/videos
 cp -a videos public

@@ -2,35 +2,26 @@
 :title-slide-background-image: images/dompter-data-background.jpg
 :icons: font
 
-
 == How I met Data ?
 
 image:images/himym-finale.gif[]
 
-== Barbie ingénieure informaticienne
+== Enfance
 
 image::images/barbie.png[width=350]
 
-== TODO
+== Professeurs
 
 Sketch
 
-== fd
+== INSA de Rouen
 
-Sketch
+image::images/insa.jpeg[width=350]
 
 == Présentation
 
 [.columns]
-=== Aujourd'hui
 
-[.column]
-image:images/datainge.jpg[width=250]
-
-[.column]
-* 💺 Ingénieure *Data* chez https://www.lectra.com/fr[Lectra] - 2021
-* 💻 *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
-* 📊 Données de machines de découpe de tissus
 
 [.columns]
 === Parcours
@@ -55,6 +46,16 @@ image:images/avizo3D.png[]
 === Lectra - 2019
 
 image:images/Modaris3D.jpg[]
+
+=== Aujourd'hui
+
+[.column]
+image:images/datainge.jpg[width=250]
+
+[.column]
+* 💺 Ingénieure *Data* chez https://www.lectra.com/fr[Lectra] - 2021
+* 💻 *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
+* 📊 Données de machines de découpe de tissus
 
 == Motivation pour ce talk
 

@@ -37,12 +37,14 @@ body:after {
 .reveal:after {
     content: ' ';
     position: fixed;
-    padding: 11.5em;
+    top: 0;
+    right: 0;
+    padding: 1em;
     width: 10em;
     height: 10em;
     background: url("data:image/png;base64,${CONFERENCE_PNG_BASE64}");
     background-repeat: no-repeat;
-    background-position: 100% 0%;
+    background-position: right top;
 }
 
 

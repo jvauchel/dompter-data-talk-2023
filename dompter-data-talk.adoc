@@ -106,12 +106,11 @@ image:images/changement.jpg[width=800]
 
 image:images/entretien.jpg[width=550]
 
-=== Travailler sa légitimité
+=== Premières difficultés
 
-. Confiance en soi, combattre le syndrôme de l'imposteur 🤥️
-. Lien de confiance avec son équipe 🤝
-. Lien de confiance avec son entreprise 🥇
-** Objectif : Cartographie montée en compétence technique
+* 💵 Négocier son salaire
+* ⌚ 3 mois d'attente
+* 💻 Demande de formation
 
 == Le monde de la Data
 
@@ -220,6 +219,12 @@ image:images/my-team.png[width=500]
 * Premières propositions d'idées pertinentes 💡
 * Première conférence 😉
 * Je suis sortie de ma zone de confort 💪
+
+=== Devenir légitime
+
+* Confiance en soi, combattre le syndrôme de l'imposteur 🤥️
+* Lien de confiance avec son équipe 🤝
+* Lien de confiance avec son entreprise 🥇
 
 === Agilité et innovation
 

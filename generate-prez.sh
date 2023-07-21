@@ -45,7 +45,7 @@ echo "
 
 === Pitch de présentation de la conférence
 
-https://youtu.be/yKEvZEYXwOU
+video::yKEvZEYXwOU[youtube]
 
 === Jug Summer Camp 2023
 

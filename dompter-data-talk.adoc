@@ -4,7 +4,7 @@
 
 == How I met Data ?
 
-image:images/himym-finale.gif[]
+image:images/himym-finale.gif[width=350]
 
 == Enfance
 
@@ -14,20 +14,11 @@ image::images/barbie.png[width=350]
 
 Sketch
 
-== INSA de Rouen
-
-image::images/insa.jpeg[width=350]
-
-== Présentation
-
 [.columns]
-
-
-[.columns]
-=== Parcours
+== Parcours
 
 [.column]
-image:images/3dinge.jpg[]
+image::images/insa.jpeg[width=450]
 
 [.column]
 * 🎓 INSA Génie Mathématique - 2013
@@ -35,37 +26,9 @@ image:images/3dinge.jpg[]
 * 🧪 4 expériences dans la 3D...
 
 
-=== Dassault Systèmes - 2012
+== Dassault Systèmes - 2012
 
-image:images/home-by-me.png[width = 500]
-
-=== Thermo Fisher - 2016
-
-image:images/avizo3D.png[]
-
-=== Lectra - 2019
-
-image:images/Modaris3D.jpg[]
-
-=== Aujourd'hui
-
-[.column]
-image:images/datainge.jpg[width=250]
-
-[.column]
-* 💺 Ingénieure *Data* chez https://www.lectra.com/fr[Lectra] - 2021
-* 💻 *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
-* 📊 Données de machines de découpe de tissus
-
-== Motivation pour ce talk
-
-* 🧪 *Retour d'expérience* sur ma reconversion dans la Data
-* ⚖️ Les *doutes*, les choix difficiles, les difficultés
-* 📖 Les *conseils* et les clés pour réussir sa reconversion
-* 🫵 Vous donner *envie* de vous lancer !
-* 🔑 Comment *accueillir* une nouvelle recrue issue d'une reconversion ?
-
-== Le monde de la 3D et de la modélisation mathématique
+image:images/dassault-fashion.jpg[width = 600]
 
 [.columns]
 === La simulation de tissus
@@ -78,6 +41,10 @@ Equations différentielles en chaque nœud du maillage pour modéliser les *forc
 image:images/tissuForce1.jpg[width=140]
 image:images/tissuForce2.jpg[width=180]
 
+== Dassault Systèmes - 2013
+
+image:images/home-by-me.png[width = 500]
+
 [.columns]
 === L'aménagement automatique de cuisines
 
@@ -86,6 +53,37 @@ image:images/cuisok.png[width=800]
 
 [.column]
 Comment modéliser les *contraintes* d'aménagement d'une cuisine en une fonction de plusieurs variables à minimiser ?
+
+[.columns]
+== Thermo Fisher - 2016
+
+[.column]
+image:images/avizo3D.png[]
+
+[.column]
+* C++, Qt
+* Git
+* Shaders OpenGL
+* Cuda
+
+=== Lectra - 2019
+
+image:images/Modaris3D.jpg[]
+
+
+
+// == Motivation pour ce talk
+//
+// * 🧪 *Retour d'expérience* sur ma reconversion dans la Data
+// * ⚖️ Les *doutes*, les choix difficiles, les difficultés
+// * 📖 Les *conseils* et les clés pour réussir sa reconversion
+// * 🫵 Vous donner *envie* de vous lancer !
+// * 🔑 Comment *accueillir* une nouvelle recrue issue d'une reconversion ?
+
+// == Le monde de la 3D et de la modélisation mathématique
+
+
+
 
 === Le monde de la 3D
 
@@ -96,7 +94,7 @@ Comment modéliser les *contraintes* d'aménagement d'une cuisine en une fonctio
 * 🇩🇪 *Conférence* C++ à Berlin
 * 👩‍🔬 *Expertise* C++
 
-=== La perte de vitesse
+=== La perte de vitesse - 2021
 
 image:images/perteVitesse.jpg[width=750]
 
@@ -117,7 +115,22 @@ image:images/entretien.jpg[width=550]
 
 == Le monde de la Data
 
+image:images/datainge.jpg[width=250]
+
+[.columns]
+=== Lectra -2021
+
+[.column]
 image:images/data.jpg[width=500]
+
+[.column]
+* 💺 Ingénieure *Data*
+* 💻 *Scala*, *Kafka*, Spark, *Snowflake*, Databricks, Docker, Kubernetes
+* 📊 Données de machines de découpe de tissus
+
+=== Enrichissement et collecte de données
+
+Sketch
 
 === Programmation fonctionnelle (Scala)
 
@@ -150,6 +163,12 @@ image:images/monde_data2-4.jpg[width=500]
 === Fonctionnel : Métier des données qu'on manipule
 
 image:images/monde_data2-3.jpg[width=500]
+
+=== Challenges
+
+Sketch
+
+== Formation
 
 === Auto formation
 

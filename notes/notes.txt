@@ -1,94 +1,139 @@
 Bonjour à tous,
-Aujourd'hui je vais vous présenter un retour sur mon expérience de reconversion dans l'univers Data.
-Nous verrons ensemble ce que ce choix de carrière peut apporter à un individu mais aussi à son équipe.
 
-Je vais d'abord me présenter, je suis Johanna, ingénieure Data chez Lectra où je gère au quotidien une pipeline de données
-en provenance de machines de découpe de tissus.
-J'utilise dans mon quotidien les technos comme Scala, Kafka, Spark, Snowflake.
+Il y a deux ans, j'étais développeuse C++ et j'ai choisi d'apprendre à dompter la Data.
+Dans ce talk, je vais vous parler de mon histoire, de mon parcours, et surtout de comment j'ai rencontré la Data, mais je vous rassure je serai plus rapide que Ted Mosby.
 
-Mais je n'ai pas toujours fait de la Data. A l'origine, j'ai une formation plutôt orientée Mathématiques Appliquées et
-j'ai commencé ma carrière en travaillant sur des applications 3D, codées en C++.
-J'ai commencé chez Dassault Systèmes où j'ai développé un moteur de génération de cuisine automatique.
-Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes.
-Et à Lectra j'ai aussi travaillé dans la simulation de tissus pour des logiciels de création de vêtements en 3D.
+On ne peut pas dire que j'ai été poussée par la société...
+.. Pas non plus encouragée par mes professeurs de lycée ("tu ne seras pas assez forte psychologiquement pour faire une classe prépa !")
 
-Dans ce talk, je vais vous parler de comment j'ai vécu cette reconversion, quelles ont été mes doutes et mes difficultés.
-Je vous donnerai des conseils afin que vous puissiez vous-même vous lancer dans une reconversion quelle qu'elle soit.
-Et j'insisterai sur le fait une reconversion, c'est surtout un travail d'équipe.
-Et nous verrons pourquoi et comment accueillir ce type de profil.
+J'ai quand même suivi mon instinct et je suis entrée à L'INSA de Rouen en 2008.
+Après avoir posé au moins 20 fois la question "est-ce qu'il faut être geek pour faire spécialité Génie Mathématique?"
+J'ai choisi ce parcours ds les maths appliquées, et j'ai commencé ma carrière dans l'univers de la 3D, en travaillant sur des applications 3D, codées en C++.
 
-Mais d'abord, je vais vous faire un peu voyager dans le monde de la 3D !
+J'ai commencé chez Dassault Systèmes en 2012 où j'ai effectué 2 stages sur la simulation de tissus dans les équipes Recherche.
+Et oui, à Dassault, on ne fait pas que des avions. J'ai d'ailleurs trouver mon stage en voyant une photo de Karl lagerfeld sur le site de Dassault.
 
+L'équipe travaille sur la modélisation 3D de phénomènes physiques comme les fluides ou les tissus.
 Saviez-vous que pour modéliser la robe de la reine des neiges en 3D,
 on utilise un maillage et on applique des forces physiques sur chaque point du maillage.
 C'est comme si chaque point était relié entre eux par des petits ressorts avec plus ou moins d'intensité selon le type de tissu.
 
+En 2013, je change d'équipe pour mon premier cdi pour travailler sur home by me, un logiciel d'aménagement intérieur en 3D.
+J'ai alors la mission de développer un moteur de génération de cuisine automatique.
 Quand vous allez chez Ikea pour refaire votre cuisine, vous allez utiliser un algorithme qui va vous faire des propositions automatiques d'aménagement.
-Et bien pour faire ça, il a fallu modéliser les contraintes d'aménagements en une fonction qu'on va chercher à minimiser.
-Et la position et la taille de chaque meuble représente une inconnu au problème !
+Et bien pour faire ça, il a fallu modéliser les contraintes d'aménagements en une fonction à plusieurs dimensions qu'on va chercher à minimiser.
+Et la position et la taille de chaque meuble représentent les inconnus du problème ! Pas facile à résoudre !
+Pour résoudre ce problème d'optimisation, on s'appuie sur des algorithmes qui s'inspirent du vivant, comme les algorithme génétiques (qui s'inspirent des mutations de l'adn) ou le PSO (Particule swarm optimisation)
+qui s'inspirent de la façon dont les abeilles ou les oiseaux communiquent entre eux pour trouver l'endroit où il y aura le plus de nourriture.
+
+
+Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes où j'utilise les technos Qt, OpenGL, Cuda.
+
+
+Et finalement, je retrouve mes premiers amours en 2019 à Lectra où je rejoins l'équipe qui développe le logiciel Modaris de création de vêtements en 3D.
 
 Plus globalement, ce que j'ai aimé dans la 3D, c'est faire des maths appliquées à des problèmes concrets.
 Beaucoup d'algorithmie (et de casse tête!).
 On va rechercher à optimiser les performances, à aller vite dans les calculs, en cherchant la solution qui se rapproche le plus de l'idéal en un minimum de temps.
+On a souvent pas le temps de trouver la solution exacte, il faut faire des compromis.
 J'ai aimé travailler sur ces projets intéressants fonctionnellement. J'ai eu la chance de gagner en expertise C++ notamment en allant à des conférences.
 
-Mais il est arrivé un moment où je n'étais plus bien dans mon travail.
-J'ai perdu le côté Fun des débuts.
-Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe.
-Ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une appli 3D dans le cloud.
-J'ai découvert Kotlin, DDD, les microservices, et ça a éveillé ma curiosité pour ces technos plus modernes.
 
-Et là, comment on fait pour évoluer ?
-1. On regarde ce qui se fait ailleurs, on passe des entretiens.
-2. On regarde ce qu'on nous propose en interne.
+
+Mais il est arrivé un moment où je n'étais plus bien dans mon travail.
+J'ai perdu le côté Fun des débuts. Je trouvais que je faisais plus assez de 3D et de Math.
+Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe. J'avais envie de plus d'innovations.
+En plus ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une appli web de Modaris 3D.
+C'était très intéressant, et j'ai découvert Kotlin, l'approche DDD, les microservices, et ça a éveillé ma curiosité pour ces technos plus modernes.
+Envie de voir autre chose.
+
+Plein de questionnements en tête :
+
+* comment évoluer ?
+* garder CV cohérent ?
+* ne pas perdre les acquis, mais progresser ?
+* Qu'est-ce qui est important pour moi ? qu'est-ce que je recherche ?
+* Prendre de la distance avec ce qu'on attend de moi, et m'écouter moi.
+* Remettre en question mes croyances, mes ambitions d'avant ? Est-ce que je veux toujours faire des maths ?
+
+J'ai alors commencé à passer des entretiens, en interne chez Lectra et en externe.
 
 Chouette, j'ai 2 opportunités en C++ :
 
-Un Poste de dev C++ avec beaucoup d'algorithmie : intéressant !
+Un Poste de dev C++ avec beaucoup d'algorithmie : intéressant ! Mais ça ressemble à ce que je fais déjà.
 Un Poste de tech lead C++ dans un start up : Cool promotion, mieux payé, nouveau statut !
 
-Mais en fait, là je reste dans mes pantoufles, ma zone de confort
-Qu’est ce que je vais apprendre ? Moi je suis curieuse de voir d’autres techno  !
+Mais en fait, là je reste dans mes pantoufles, ma zone de confort.
+Qu’est ce que je vais apprendre ? Moi je suis curieuse de voir d’autres technos !
 
 Je m'intéresse alors au poste ouvert à candidature de Data ingénieur dans l'équipe Enrico.
-Et là, je suis remplie de doutes, mon envie d’apprendre est plus grande, mais j'ai peur de recommencer à zero.
-Allez je me lance, passons l'entretien !
+Et là, je suis remplie de doutes, j'ai peur de recommencer à zero, peur d'échouer.
+Est-ce une regression ou un évolution de carrière ?
+
+Heureusement ma curiosité et mon envie d’apprendre me pousse à me lancer et à passer l'entretien.
+
+Et là comment on fait ? Comment séduire, se valoriser quand on postule dans un domaine où on a pas les compétences ?
 
 Bonjour, j’y connais rien dans la Data mais je suis très motivée !
-et en plus je veux bien une augmentation !
-J'explique aussi que le domaine de la Data est très vaste, et je pense pouvoir reconnecter avec les maths si j’en ressens le besoin via les statistiques et la
-data science,
-même si là maintenant j'ai plus une soif de nouvelles technos (Scala, Kafka, Spark, Snowflake).
-J'explique que je n'ai pas peur des données car j'aime l'abstrait. Et j'ai envie d'être au coeur des équipes, et plus isolée dans la bulle 3D.
-Et puis l'équipe a l'air super !
+et en plus je veux bien une augmentation s'il vous plait ! Alors vous me prenez vous ?
+Bon en fait j'explique ma réflexion et ce qui m'a amené à postuler aujourd'hui à ce poste d'ingénieure Data.
+Pourquoi la Data ? Parce que c'est un domaine vaste, où il y a bcp à apprendre, et où les mathématiques pourront me servir à travers, l'analyse, la statistique et la data science.
+Je parle de mon intéret pour le langage Scala, un langage élégant et concis qui mélange la programmation fonctionnelle et orientée objet.
+J'explique que j'aime ce qui est abstrait et complexe, et j'ai envie de plus de chalenge dans mon quotidien, ce qui correspond à ce poste
+Et j'ai aussi envie d'être au coeur des équipes, d'avoir plus d'interactions, de partager communiquer, et de ne plus être isolée dans ma bulle 3D.
+Et puis l'équipe a l'air super et prête à former une nouvelle recrue !
 
-Bon au final, j'ai dû être convaincante car j'ai eu le poste, mais je n'ai pas eu l'augmentation à la hauteur de mes attentes car on m'a dit que j'allais être
-débutante au début, donc moins payé que les autres. On verra plus tard...
-Et ça, c'est un échec car j'ai de l'expérience, je suis développeuse, apprendre c'est mon quotidien et c'est normal d'évoluer et de repartir de zero.
-Allez ce n'est que la première difficulté !
+Bon au final, j'ai dû être convaincante car j'ai eu le poste, victoire !
+Mais aussi premières difficultés : déception côté salaire, car on me dit que je vais être débutante, et que je dois faire mes preuves.
+J'élabore une cartographie pour démontrer l'évolution de ma montée en compétence technique.
+On me fait attendre 3 mois, parce que ???
+J'en profite pour demander les accès à des formations en ligne et j'en profite à fond.
+Mais globalement, je sens que je n'ai pas la confiance de mon entreprise, qu'on me met à l'épreuve, qu'on ne mise pas sur moi.
+Vais-je réussir à gagner cette confiance, et à devenir légitime en tant qu'ingénieur Data ?
 
-Découvrons alors ensemble ce nouveau monde, celui de la Data !
-Je découvre la programmation fonctionnelle via le langage Scala, et j'adore ! Comment ça on fait plus de boucle for !
-Je découvre Kafka, et tous les tuyaux qui faut gérer, créer maintenir pour que la donnée arrive jusqu'en base de données.
-Et chaque tuyau, c'est des petits projets. Je suis loin des énormes projets en C++, avec des tests qui durent 24h et des
+Je vais maintenant vous faire découvrir mon nouveau métier.
+
+Lectra fabrique des machines qui permettent de découper du tissus, pour faire des vêtements, des meubles, des sièges de voiture.
+C'est comme des gros ciseaux mais qui ressemblent à ça ! et ça permet d'économiser bcp de tissu et de temps notamment en découpant plusieurs tissus à la fois.
+
+Et ces machines, elles ont toutes un compte Instagram, qu'on appelle la data-collect, et elle poste ce qu'elles font toute la journée - je suis allumée, je découpe, je fais une pause, je suis  en panne, j'ai découpé 3m de tissu en 2 minutes etc.
+Mon travail va consister à collecter tous ces messages et à les combiner à d'autres sources d'informations, par exemple, le référentiel des machines, les calendriers de rotation des équipes qui travaille sur la machine
+Et on va combiner ces messages et ces infos pour sortir des KPI, comme des vitesses de découpe, des temps d'interruption par jour, des indices de performance, et on va mettre toutes ces infos dans une base de données qui s'appelle Snowflake.
+
+Derrière ces rouages, on va retrouver la techno Kafka, c'est à dire des tuyaux qu'il faut gérer, créer, maintenir
+pour que la donnée arrive jusqu'en base de données, et on a pas le droit de perdre les messages, c'est le jeu , sinon on a perdu.
+Et pour écrire ces tuyaux, on va utiliser le langage Scala, et la programmation fonctionnelle. euh Comment ça on fait plus de boucle for !
+Ex algo et il y a bcp de concepts à appréhender.
+
+Et chaque tuyau Kafka, c'est des petits projets. Je suis loin des énormes projets en C++, avec des tests qui durent 24h et des
 fois tu peux même pas avoir tout le code sur ta machine.
 Je rencontre plein de gens, car on est au milieu, entre les équipes qui nous envoient la donnée et celles qui l'utilisent.
 Je découvre Docker, Kubernetes, Jenkins, et ça devient moins obscure chaque jour.
 En plus ça permet de faire les MEP instantanée, de façon transparente, alors que j'étais habituée à une release par an.
-Et le métier de Data Ingé, c'est aussi beaucoup de recherche d'amélioration, d'automatisation, de qualités. Ca évolue sans cesse.
+Et le métier de Data Ingé, c'est aussi beaucoup de recherche d'amélioration, d'automatisation, de qualités, d'analyses. Ca évolue sans cesse, il faut s'adapter.
 Un autre pilier, c'est la partie métier. Il faut comprendre les données qu'on manipule pour pouvoir les traiter au mieux,
 et comprendre le besoin clients autour des machines de découpe.
 
-Pour réussir, il a fallu se former, d'abord seule.
-Via des formations en ligne (yen a bcp) et aussi des formations internes, données par des collègues (trop sympas).
-Mais ce n'est pas tout ! La formation c'est dans le quotidien que ça se joue et pas dans la formation udemy.
-Je regardai les commits des collègues tous les soirs pour pouvoir poser des questions lors des revues de code.
+Dans les challenges qu'on a eu besoin d'adresser, le premier ça a été la migration de base de données.
+On est passé de SQL Server à Snowflake. On a dû se former à snowflake, décrire les règles et une stratégie de migration pour migrer tout l'historique.
+Je rappelle qu'on n'a pas le droit de perdre des données, du coup on a dû gérer des doublons, alimenter les deux bases avant de débrancher sql server.
+Autre challenge, on a voulu être plus précis dans le découpage des temps d'utilisation machine pour pouvoir avoir un temps de coupe par jour.
+On a du reprendre tout l'historique pour découper les coupe à cheval sur deux jours en deux.
+Autre challenge, avoir des KPIs en temps réel.
+
+
+
+Pour dompter cette fameuse Data, il a fallu se former, d'abord seule.
+Via des formations en ligne (yen a bcp, udemy) et aussi des formations internes, données par des collègues par exemple.
+Mais ce n'est pas tout ! La formation c'est dans le quotidien que ça se joue.
+Je regardai les commits des collègues tous les soirs pour pouvoir poser des questions lors des revues de code le lendemain.
 Et puis le plus important c'est de se lancer et de se tromper, chercher par soi-même.
-Ensuite, il faut pas hésiter à donner son avis, poser des questions, demander de réexpliquer.
+Ensuite, il faut pas hésiter à donner son avis, bombarder ses collègues de questions, demander de réexpliquer.
+Etre relous, mais ça permet aussi de challenger des décisions historiques et de lancer des idées.
 Et puis partager ce qu'on apprend ça permet de vérifier qu'on a bien tout compris,
 alors on a fait un projet d'exemple et d'exercices sur l'API de Kafka Stream et on a fait des ateliers en interne pour
 partager avec les autres équipes et leur faire découvrir Kafka.
-Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller cherhcer de l'info dans les conférences (Kafka Summit, Scala IO).
+Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller chercher de l'info dans les conférences (Kafka Summit, Scala IO, Jug Summer Camp, Mixit, Bdx IO).
 
 Mais la réussite de ma reconversion, je la dois en vérité à mon équipe qui a tout mis en oeuvre pour bien m'accueillir et m'accompagner.
 On m'a attribué un parrain qui m'a appris le fonctionnel et Kafka.

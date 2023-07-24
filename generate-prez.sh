@@ -9,21 +9,25 @@ echo "
 
 " > index.adoc
 
-CONFERENCES="tadx jug-summer-camp abstract"
+CONFERENCES=( "tadx:long"
+              "jug-summer-camp:long"
+              "tremplin:short"
+              "abstract:short")
 
 mkdir -p public
 
-for conf in ${CONFERENCES}
+for conf in "${CONFERENCES[@]}"
 do
-  echo "generate ${conf} html"
+  CONFERENCE_NAME=${conf%%:*}
+  DURATION=${conf#*:}
+  echo "generate ${CONFERENCE_NAME} html in version ${DURATION}"
 
-  CONFERENCE_NAME=${conf}
   CONFERENCE_PNG_BASE64=$(cat images/logo-${CONFERENCE_NAME}.png | base64 -w0) \
   QRCODE_PNG_BASE64=$(cat images/qrcode.png | base64 -w0) \
   MY_NAME_PNG_BASE64=$(cat images/myName.png | base64 -w0) \
-    envsubst < custom.css > public/custom-${conf}.css
+    envsubst < custom.css > public/custom-${CONFERENCE_NAME}.css
 
-  if [ ${conf} = 'abstract' ] ; then
+  if [ ${CONFERENCE_NAME} == 'abstract' ] ; then
     SOURCE="abstract.adoc"
   else
     SOURCE="dompter-data-talk.adoc"
@@ -32,11 +36,12 @@ do
   docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents asciidoctor/docker-asciidoctor:1.49.0 \
     asciidoctor-revealjs -a data-uri -a revealjs_theme=white \
     -a revealjsdir=https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2 -a revealjs_transition=fade \
-    -a customcss=custom-${conf}.css -a revealjs_slideNumber=true \
-    -D public -o index-${conf}.html \
+    -a customcss=custom-${CONFERENCE_NAME}.css -a revealjs_slideNumber=true \
+    -a duration=${DURATION} \
+    -D public -o index-${CONFERENCE_NAME}.html \
     ${SOURCE}
 
-    echo "* link:index-${conf}.html[${conf}^]" >> index.adoc
+    echo "* link:index-${CONFERENCE_NAME}.html[${CONFERENCE_NAME}^]" >> index.adoc
 
 done
 

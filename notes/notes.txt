@@ -11,7 +11,7 @@ Après avoir posé au moins 20 fois la question "est-ce qu'il faut être geek po
 J'ai choisi ce parcours ds les maths appliquées, et j'ai commencé ma carrière dans l'univers de la 3D, en travaillant sur des applications 3D, codées en C++.
 
 J'ai commencé chez Dassault Systèmes en 2012 où j'ai effectué 2 stages sur la simulation de tissus dans les équipes Recherche.
-Et oui, à Dassault, on ne fait pas que des avions. J'ai d'ailleurs trouver mon stage en voyant une photo de Karl lagerfeld sur le site de Dassault.
+Et oui, à Dassault, on ne fait pas que des avions. J'ai d'ailleurs trouver mon stage en voyant une photo de Karl lagerfeld sur leur site internet.
 
 L'équipe travaille sur la modélisation 3D de phénomènes physiques comme les fluides ou les tissus.
 Saviez-vous que pour modéliser la robe de la reine des neiges en 3D,
@@ -43,9 +43,9 @@ J'ai aimé travailler sur ces projets intéressants fonctionnellement. J'ai eu l
 Mais il est arrivé un moment où je n'étais plus bien dans mon travail.
 J'ai perdu le côté Fun des débuts. Je trouvais que je faisais plus assez de 3D et de Math.
 Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe. J'avais envie de plus d'innovations.
-En plus ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une appli web de Modaris 3D.
+En plus ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une version web de Modaris 3D.
 C'était très intéressant, et j'ai découvert Kotlin, l'approche DDD, les microservices, et ça a éveillé ma curiosité pour ces technos plus modernes.
-Envie de voir autre chose.
+Bilan : J'ai besoin de changement, j'ai envie de voir autre chose, d'évoluer professionnellement.
 
 Plein de questionnements en tête :
 
@@ -68,7 +68,7 @@ Qu’est ce que je vais apprendre ? Moi je suis curieuse de voir d’autres tech
 
 Je m'intéresse alors au poste ouvert à candidature de Data ingénieur dans l'équipe Enrico.
 Et là, je suis remplie de doutes, j'ai peur de recommencer à zero, peur d'échouer.
-Est-ce une regression ou un évolution de carrière ?
+Est-ce une regression ou une évolution de carrière ?
 
 Heureusement ma curiosité et mon envie d’apprendre me pousse à me lancer et à passer l'entretien.
 
@@ -141,8 +141,25 @@ Lors des réunions, on écrit le compte rendu en live, on fait des schémas, on 
 On fait du mob, du pair.
 On a fait des points réguliers de sharing pour partager nos connaissances sur diverses sujets.
 Mais l'essentiel c'est que mon équipe m'a soutenu et encouragé dès le début, en me demandant mon avis même quand j'avais pas encore les connaissances.
+Ils ont eu confiance en moi et ça m'a permis de m'épanouir et de me sentir à ma place
 
-On va donc parler des clés pour réussir sa reconversion :
+Mais je ne vais pas vous mentir, malgré cette super équipe bienveillante, je suis passée par beaucoup de haut et de bas.
+On va donc parler des doutes et des moments difficiles.
+
+blabla doute
+
+bla bla victoire
+
+on se rendc compte que c'est pas une quete d'apprentissage, ça c'est ok mais de légitimité
+on travaille sur la confiance en soi
+et une fois que on a confiance, maintenant faut aussi convaincre les autres
+
+
+
+
+
+Aujourd'hui, j'aimerais maintenant faire le bilan de cette reconversion pour
+On va maintenant parler des clés pour réussir sa reconversion :
 Il faut accepter de repartir de zero, et que l'apprentissage soit long. Accpeter de pas tout maitriser et aborder les sujets par étapes.
 Accepter d'apporter moins à l'équipe que ce qu'elle te donne, même si c'est pas tout à fait vrai on va le voir plus tard. mais c'est ce qu'on ressent.
 Oser dire "je n'ai pas compris", mettre son égo de coté. C'est normal de ne pas tout savoir.

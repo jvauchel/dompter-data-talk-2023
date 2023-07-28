@@ -212,10 +212,6 @@ image:images/monde_data2-3.jpg[width=500]
 
 Sketch
 
-* migration sql server à snowflake
-* découper les kpi par jour et shift
-* données temps réel
-
 == Formation
 
 image:images/data.jpg[width=500]
@@ -249,36 +245,19 @@ image:images/my-team.png[width=500]
 * 🍻 Coding dojos
 * 🫶 *Soutien et bienveillance*
 
-== Les clés pour réussir sa reconversion
+=== Les doutes 😞
 
-[%step]
-* 🐣 Accepter de repartir de zéro, apprentissage long
-* 🎁 Accepter d'apporter moins à l'équipe que ce qu'elle te donne
-* 🙋‍♀️ Oser dire "je n'ai pas compris"
-* 😞 Accepter les doutes
-* 🤗 Savourer les petites victoires
+Sketch
 
-=== Les doutes et moments difficiles 😞
+=== Découragement
 
-* Je me sens nulle !
-* Retour de vacances : Je ne comprends plus rien !
-* Je suis un boulet pour l'équipe
-* J'ai toujours pas compris c'est quoi une Monad (Scala)
-* Besoin de reconnaissance de la part de son employeur
+Sketch
 
 === Les petites victoires 🤗
 
-* Partage sur ce que je connais : la 3D, Git, le karaoké 🎁
-* Première maîtrise de petites parties du code 🏆
-* Premières propositions d'idées pertinentes 💡
-* Première conférence 😉
-* Je suis sortie de ma zone de confort 💪
+Sketch
 
-=== Devenir légitime
 
-* Confiance en soi, combattre le syndrôme de l'imposteur 🤥️
-* Lien de confiance avec son équipe 🤝
-* Lien de confiance avec son entreprise 🥇
 
 === Agilité et innovation
 
@@ -306,27 +285,29 @@ image:images/agilite.jpg[width=700]
 
 === Conseils
 
-* Bien choisir son équipe et son chef
-* Bien négocier les *conditions* du poste (salaire, temps de formation, titre de poste)
-* Avancer petit à petit
-* Se faire financer une formation externe, diplômante
+[%step]
+* 🧑‍💼 Environnement
+* 📜 Conditions du poste
+* 🎓 Formation diplômante
+* 👣 Petit pas
 
-=== Se reconvertir dans un nouveau domaine ?
 
-* C'est normal en fait ! Etat d'esprit, adaptation 🤔
-* N’ayez pas *peur* de vous lancer, et argumentez vos choix de parcours honnêtement
-* Pouvez-vous *évoluer* en interne, discutez-en !
-* Osez *postuler* à des postes qui ne vous correspondent pas à l'instant t
-* Stages, formations CPF, et *vis ma vie*
+
+=== Comment se lancer ?
+
+[%step]
+* 🗣️ Discutez en interne
+* ♟️ Argumentez vos choix
+* 🙋‍♀️ Osez postuler
+* 🧪 Vis ma vie
+* 🔭 Curiosité
 
 === Le rôle de l'entreprise
 
-* Acceptez les profils issus de la reconversion, favoriser l’*inclusion* de profils atypiques
-* Soyez *ouvert* dans vos descriptions de poste
-** Soft skills
-* Donnez le *temps* à l'équipe de former les nouveaux
-* Donnez le *temps* et les *moyens* aux reconverti(e)s de se former
-* Apprenez des *différences* et des expériences
+[%step]
+* 👩‍🔬 Inclusion
+* ⏳ Temps et moyens
+* 👐 Apprendre des différences
 
 == Merci beaucoup !
 

@@ -1,3 +1,5 @@
+= prepa talk
+
 Bonjour à tous,
 
 Il y a deux ans, j'étais développeuse C++ et j'ai choisi d'apprendre à dompter la Data.
@@ -49,7 +51,7 @@ Bilan : J'ai besoin de changement, j'ai envie de voir autre chose, d'évoluer pr
 
 Plein de questionnements en tête :
 
-* comment évoluer ?
+* comment évoluer ? ou aller ?
 * garder CV cohérent ?
 * ne pas perdre les acquis, mais progresser ?
 * Qu'est-ce qui est important pour moi ? qu'est-ce que je recherche ?
@@ -115,21 +117,22 @@ Un autre pilier, c'est la partie métier. Il faut comprendre les données qu'on 
 et comprendre le besoin clients autour des machines de découpe.
 
 Dans les challenges qu'on a eu besoin d'adresser, le premier ça a été la migration de base de données.
-On est passé de SQL Server à Snowflake. On a dû se former à snowflake, décrire les règles et une stratégie de migration pour migrer tout l'historique.
-Je rappelle qu'on n'a pas le droit de perdre des données, du coup on a dû gérer des doublons, alimenter les deux bases avant de débrancher sql server.
+On est passé de SQL Server à Snowflake. On a dû se former à snowflake, décrire les règles et une stratégie de migration pour migrer tout l'historique des données.
+Je vous rappelle qu'on n'a pas le droit de perdre des données, du coup on a dû alimenter les deux bases en même temps, migrer l'historique et gérer des doublons avant de débrancher sql server.
 Autre challenge, on a voulu être plus précis dans le découpage des temps d'utilisation machine pour pouvoir avoir un temps de coupe par jour.
-On a du reprendre tout l'historique pour découper les coupe à cheval sur deux jours en deux.
-Autre challenge, avoir des KPIs en temps réel.
+On a du reprendre tout l'historique pour découper les coupes à cheval sur plusieurs jours.
+Autre challenge, avoir des KPIs en temps réel. En fait, j'ai retrouvé mes casse-têtes.
 
 
 
 Pour dompter cette fameuse Data, il a fallu se former, d'abord seule.
-Via des formations en ligne (yen a bcp, udemy) et aussi des formations internes, données par des collègues par exemple.
+Via des formations en ligne (yen a bcp, moi j'ai choisi udemy) et aussi des formations internes, données par des collègues par exemple.
 Mais ce n'est pas tout ! La formation c'est dans le quotidien que ça se joue.
 Je regardai les commits des collègues tous les soirs pour pouvoir poser des questions lors des revues de code le lendemain.
-Et puis le plus important c'est de se lancer et de se tromper, chercher par soi-même.
+Oui j'espionnais mes collègues !
+Et puis le plus important c'est de se lancer et de se tromper, chercher par soi-même c'est comme ça qu'on apprend.
 Ensuite, il faut pas hésiter à donner son avis, bombarder ses collègues de questions, demander de réexpliquer.
-Etre relous, mais ça permet aussi de challenger des décisions historiques et de lancer des idées.
+Etre relous finalement, mais ça permet aussi de challenger des décisions historiques et de lancer de nouvelles idées.
 Et puis partager ce qu'on apprend ça permet de vérifier qu'on a bien tout compris,
 alors on a fait un projet d'exemple et d'exercices sur l'API de Kafka Stream et on a fait des ateliers en interne pour
 partager avec les autres équipes et leur faire découvrir Kafka.
@@ -137,118 +140,133 @@ Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller cher
 
 Mais la réussite de ma reconversion, je la dois en vérité à mon équipe qui a tout mis en oeuvre pour bien m'accueillir et m'accompagner.
 On m'a attribué un parrain qui m'a appris le fonctionnel et Kafka.
-Lors des réunions, on écrit le compte rendu en live, on fait des schémas, on fait en sorte que tout le monde ait la même base de connaissance;
+Lors des réunions, on écrit le compte rendu en live, on fait des schémas, on fait en sorte que tout le monde repartent avec la même base de connaissance;
 On fait du mob, du pair.
-On a fait des points réguliers de sharing pour partager nos connaissances sur diverses sujets.
+On fait des points réguliers de sharing pour partager nos connaissances sur diverses sujets.
 Mais l'essentiel c'est que mon équipe m'a soutenu et encouragé dès le début, en me demandant mon avis même quand j'avais pas encore les connaissances.
 Ils ont eu confiance en moi et ça m'a permis de m'épanouir et de me sentir à ma place
 
 Mais je ne vais pas vous mentir, malgré cette super équipe bienveillante, je suis passée par beaucoup de haut et de bas.
 On va donc parler des doutes et des moments difficiles.
 
-blabla doute
 
-bla bla victoire
+Par exemple il y a certains jours où j'avais ces petites phrases qui tournaient dans ma tête:
 
-on se rendc compte que c'est pas une quete d'apprentissage, ça c'est ok mais de légitimité
-on travaille sur la confiance en soi
-et une fois que on a confiance, maintenant faut aussi convaincre les autres
+* Je me sens nulle, je suis trop un boulet pour l'équipe
+* Je rentre de vacances, et là je comprends plus rien, je suis perdue dans le fonctionnel qui a évolué,
+je comprends plus certains concepts que je pensais acquis.
+* En plus j'ai toujours pas compris c'est quoi une monad en Scala alors que mon collègue Sylvain me l'a expliqué plein de fois,
+* et puis finalement est-ce que j'ai pas fait cette reconversion pour rien ?
+* est-ce qu'on me considère toujours comme une débutante ?
 
 
+Bon ça c'est les doutes, et c'est parfois très difficile de faire taire cette petite voix.
+On appelle ça aussi le syndrôme de l'imposteur.
+
+Il y a aussi certaines phrases qu'on reçoit de l'extérieur qui décourage
+
+* "ah oui c'est toi la nouvelle QA de l'équipe Enrico?"
+* "ça te fait pas peur de travailler qu'avec des gars ?"
+* "pourquoi tu as installé ça comme ça, on n'a pas le droit, on va devoir tout refaire maintenant patatipatatajaibesoindemedefoulersurtoi" "c'est avec mon équipe qu'il faut voir"
+* "Nous n'avons pas pu satisfaire tes prétentions salariales en vue du contexte économique"
+* "ah si t'es prise en tant que speaker c'est parce que t'es une femme"
+
+Pour lutter contre ces doutes, ces incertitudes, ces découragements, il va falloir apprendre à enlever son masque d'imposteur,
+et petit à petit ouvrir les yeux sur ce que l'on vaut et sur ce qu'on a accomplie.
+Et pour ça, je vous conseille de savourer les petites et grandes victoires :
+
+* Ok, Je viens d'arriver, je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais : présentation de la 3D, tutos Git, et organisation de team building, animation de rétros. Comme ça j'apporte ma pierre à l'edifice
+* Deuxième story sur le même projet kafka stream, c'est bon je connais le code, et je développe la story plus rapidement que la première fois
+* Encouragements/compliments de l'équipe : Savoir les accepter.
+* Quand on propose des idées pertinentes en réunion.
+* Moi aussi je veux être speaker !
+* Et finalement, il faut simplement être fière d'être sorti de sa zone de confort.
 
 
+On se rend compte que la reconversion c'est pas simplement une quete d'apprentissage, de montée en compétence, c'est surtout une quete de légitimité.
+On va éprouver et améliorer notre confiance en soi au quotidien
+Et on va devoir aussi convaincre les autres que maintenant, on a les compétences, on sait être efficace et autonome, qu'on est force de proposition, et qu'en plus on n'a plus peur de rien :)
 
-Aujourd'hui, j'aimerais maintenant faire le bilan de cette reconversion pour
-On va maintenant parler des clés pour réussir sa reconversion :
-Il faut accepter de repartir de zero, et que l'apprentissage soit long. Accpeter de pas tout maitriser et aborder les sujets par étapes.
-Accepter d'apporter moins à l'équipe que ce qu'elle te donne, même si c'est pas tout à fait vrai on va le voir plus tard. mais c'est ce qu'on ressent.
-Oser dire "je n'ai pas compris", mettre son égo de coté. C'est normal de ne pas tout savoir.
-Savourer les petites victoires ! on y reviendra
+On se rend compte qu'avoir un parcours atypique, c'est un gage d'agilité et d'innovation.
+En fait, on n'est pas un poids pour l'équipe mais un atout car on va favoriser la diversité des profils de l'équipe, essentielles dans une équipe agile performante.
+On pourra pousser l'équipe à se challenger et à changer ses automatismes à travers un nouveau regard parce qu'on n'a pas peur de sortir de sa zone de confort,
+On pourra proposer des idées disruptives parce  qu'on a un parcours différent.
+Par exemple, je pense qu'avec mon background mathématique, j'ai pu amener à l'équipe plus de rigueur et d'assiduité dans les analyses.
+Et aussi, comme je suis attachée à la partie fonctionnelle, j'aime m'interroge sur le besoin client et pourquoi on fait les choses.
+En fait, quand on commence, on s'arrête plus, on a encore envie d'apprendre, on est plus motivé et déterminé, c'est devenu un etat d'esprit
+Par exemple aujourd'hui, j'ai envie de plus connaitre le métier autour des machines de découpe, et de mieux comprendre les données pour être capables un jour de plus les faire parler, pour de la prédiction ou du conseil à la prise de décision.
+On se rend compte qu'on a acquis beaucoup plus que des connaissances techniques, on sait d'autant plus évoluer et s'adapter aux besoins de changement.
 
-Mais il y a des jours où :
-Je me sens nulle,
-Je rentre de vacances, et là je comprends plus rien, les US, les réunions. Je suis trop un boulet !
-En plus j'ai toujours pas compris c'est quoi une monad alors que Sylvain il en parle tout le temps,
-et puis finalement est-ce que j'ai pas fait tout ça pour rien, est-ce qu'on me considère toujours comme une débutante ?
 
-Mais heureusement il y a aussi les petites victoires :
-Ok je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais : présentation de la 3D, tutos Git, et organisation de soirée
-team building, animation de rétros
-Quand on commence à maitrier des petits bouts
-Quand on propose des bonnes idées
-Quand on présente sa première conférence
-Et finalement, il faut simplement être fière d'être sorti de sa zone de confort.
-
-Encore quelques petits conseils pour finir :
-Il faut bien choisir son équipe et son chef, car l'environnement de travail va être déterminant dans la réussite de la reconversion.
-Si on a un chef qui te dévalorise ça va pas marcher. C'est une question de confiance.
-Bien négocier les conditions du poste (salaire, le temps de formation le titre de poste).
-Avancer petit à petit au jour le jour sans se décourager
-Et pourquoi pas se faire financer une formation externe diplomante, surtout si on change complètement de métier.
 
 Et vous, vous vous lancez ?
 
-Avoir un parcours atypique, c'est un gage d'agilité et d'innovation.
-En fait, on n'est pas un poids pour l'équipe mais un atout car on va favoriser la diversité des profils de l'équipe, essentielles dans une équipe agile performante.
-On pourra pousser l'équipe à se challenger et à changer ses automatismes à travers un nouveau regard et des idées disruptives,
-parce qu'on n'a pas peur de sortir de sa zone de confort et qu'on a un parcours différent.
-En fait, quand on commence, on s'arrête plus, on a encore envie d'apprendre, on est plus motivé et déterminé.
-On se rend compte qu'on a acquis beaucoup plus que des connaissances techniques, on sait d'autant plus évoluer et s'adapter aux besoins de changement.
+Conseils pour se lancer dans une reconversion
+Il faut bien choisir son équipe et son chef, car l'environnement de travail va être déterminant dans la réussite de la reconversion.
+Si on a un chef qui te dévalorise ça va pas marcher. C'est une question de confiance.
+Bien négocier les conditions du poste (salaire, le temps de formation le titre de poste).
+Et pourquoi pas se faire financer une formation externe diplomante, surtout si on change complètement de métier.
+Accepter de repartir de zero, et que l'apprentissage soit long, de pas tout maitriser.
+Avancer petit à petit, un  sujet après l'autre, se booster au quotidien mais sans se décourager
+Mettre son égo de côté et rester sincère
+Oser les questions bêtes même quand ça parait acquis pour tout le monde
+
 
 C'est aussi à l'entreprise de faire en sorte d'accueillir ces profils atypiques et favoriser l'inclusion.
 Elle doit être ouverte dans les descriptions de poste pour ouvrir la porte à ces profils.
+Rappelez vous que qd on est une femme, on est pas poussé à faire un métier tech, et bcp d'entre nous se réorientent au cours de leur carrière.
+Est-ce qu'accueillir plus de profil en reconversion, ce ne serait pas amener plus de femmes dans la tech ?
 Il faut aussi donner du temps aux équipes pour former les nouveaux et
 donner le temps et les moyens aux reconvertis de se former.
 Car l'entreprise va comme ça s'enrichir des différences et des expériences de chacun.
 
 Concrètement comment je fais ?
-Je me dis déjà que c'est normal que c'est pas une reconversion mais une évolution professionnelle.
-Comme ça ça fait moins peur !
 On argumente ses choix honnêtement, on ne cherche pas à se survendre.
 On regarde si on peut évoluer en interne, on en discute.
 Et on tente de postuler à des jobs qui ne nous correspondent pas exactementà l'intant t, mais dans lesquels on se projette bien.
 On fait des vis ma vie dans une autre équipe pour découvrir ce qui se fait ailleurs.
+On s'ouvre l'esprit en allant voir des conférences qui ne nous correspondent pas.
 
 Merci beaucoup pour votre attention, j'espère vous avoir apporté des idées et de quoi réfléchir.
 N'hésitez pas si vous avez des questions où si vous souhaitez assi partager votre expérience sur le sujet.
 Merci !
 
 
-Retour de la répèt du 22 juin :
-
-
-Quand je décris la partie 3D, se mettre en mode récit, ou je suis partie, jusqu'à où je suis arrivée, univers de base
-Et plus décrire les 2 univers
-
-
-Etoffer le rôle de l'équipe et la notion de confiance, contribution de chacun (toi/ équipe/ entreprise)
-
-Ajouter des notions de durées dans les étapes : temps de formation, et maintenant où j'en suis, niveau de maîtrise
-
-Donner des exemples d'idées disruptives du quotidien, regard différent
-
-Parler du QR Code
-
-Parler de la légitimité dans l'entretien?
-Parler plus de la confiance en soi
-Syndrôme de l'inposteur
-
-Maîtrise des compétences
-Cartographie des compétences
-
-Agilité à la fin, et pas au milieu des conseils
-Regrouper les conseils et agilité à la fin
-
-capacité d'adaptation (surtout si conf agile) pour produit et façons de travailler
-Etat d'esprit, et pas juste dans le cadre de la reconversion
-Soif d'apprendre, peut etre refaire une reconversion un jour
-
-Bcp plus d'exemples, plus d'humour
-
-A la fin résumer , mettre en avant, 2 -3 phrases
-via la confiance, démonstration de la confiance, développer la confiance en soi, en l'équipe, en l'entreprise
-
-Les clés  => pas seulement pour la reconversion mais en général
+// Retour de la répèt du 22 juin :
+//
+//
+// Quand je décris la partie 3D, se mettre en mode récit, ou je suis partie, jusqu'à où je suis arrivée, univers de base
+// Et plus décrire les 2 univers
+//
+//
+// Etoffer le rôle de l'équipe et la notion de confiance, contribution de chacun (toi/ équipe/ entreprise)
+//
+// Ajouter des notions de durées dans les étapes : temps de formation, et maintenant où j'en suis, niveau de maîtrise
+//
+// Donner des exemples d'idées disruptives du quotidien, regard différent
+//
+// Parler du QR Code
+//
+// Parler de la légitimité dans l'entretien?
+// Parler plus de la confiance en soi
+// Syndrôme de l'inposteur
+//
+// Maîtrise des compétences
+// Cartographie des compétences
+//
+// Agilité à la fin, et pas au milieu des conseils
+// Regrouper les conseils et agilité à la fin
+//
+// capacité d'adaptation (surtout si conf agile) pour produit et façons de travailler
+// Etat d'esprit, et pas juste dans le cadre de la reconversion
+// Soif d'apprendre, peut etre refaire une reconversion un jour
+//
+// Bcp plus d'exemples, plus d'humour
+//
+// A la fin résumer , mettre en avant, 2 -3 phrases
+// via la confiance, démonstration de la confiance, développer la confiance en soi, en l'équipe, en l'entreprise
+//
+// Les clés  => pas seulement pour la reconversion mais en général
 
 
 

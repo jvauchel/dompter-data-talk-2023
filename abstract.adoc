@@ -42,7 +42,7 @@ image:images/agilite.jpg[width=700]
 //
 // Qu'est-ce qui m'a fait sauter le pas pour sortir de ma zone de confort ? Comment j’ai réussi à gérer mes doutes, à faire des choix cornéliens, et à traverser les moments difficiles ?
 //
-// Dans ce retour d'expérience, je vais d’abord partager avec vous mon parcours à travers les maths, la 3D et la Data. Je vous parlerais des moyens utilisés pour me former à la Data, et la place essentielle de la cohésion d’équipe dans ma reconversion.
+// Dans ce retour d'expérience, je vais d’abord partager avec vous mon parcours à travers les maths, la 3D et la Data. Je vous parlerai des moyens utilisés pour me former à la Data, et la place essentielle de la cohésion d’équipe dans ma reconversion.
 //
 // Je vous donnerai ensuite les astuces et les indispensables pour réussir à vous lancer dans une reconversion, et vous découvrirez qu’un choix de parcours atypique pourra vous apporter beaucoup plus que des compétences techniques (adaptation au changement, confiance en soi ...).
 // Nous verrons enfin comment améliorer l’intégration des profils en reconversion et ainsi favoriser leur inclusion dans votre entreprise.

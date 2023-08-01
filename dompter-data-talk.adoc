@@ -202,7 +202,7 @@ image:images/monde_data2-2.jpg[width=500]
 
 === Automatisation, Qualité, Analyses
 
-image:images/monde_data2-4.jpg[width=500]
+image:images/monde_data2-4.jpg[width=400]
 
 === Fonctionnel des données
 
@@ -314,8 +314,5 @@ image:images/agilite.jpg[width=700]
 image:images/merci.jpg[width=700]
 
 icon:github[] https://jvauchel.github.io/
-
-
-
 
 

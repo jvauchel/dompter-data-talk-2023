@@ -8,15 +8,15 @@
 
 image:images/himym-finale.gif[width=350]
 
-ifeval::[{duration} == 'long']
+//ifeval::[{duration} == 'long']
 == Enfance
 
 image::images/barbie.png[width=350]
-endif::[]
+//endif::[]
 
 == Professeurs
 
-Sketch
+image::images/prof.jpg[width=350]
 
 == 🎓 INSA Génie Mathématique - 2008-2013
 
@@ -103,7 +103,7 @@ image:images/perteVitesse.jpg[width=750]
 
 == Besoin de changement !
 
-todo
+image:images/questions.jpg[width=750]
 
 == Choix difficiles
 
@@ -148,7 +148,7 @@ image:images/monde_data1-3.jpg[width=500]
 
 image:images/monde_data1-1.jpg[width=500]
 
-=== Exemple Scala
+=== Exemple Java
 
 [source, scala]
 ----
@@ -210,7 +210,7 @@ image:images/monde_data2-3.jpg[width=500]
 
 === Challenges
 
-Sketch
+image:images/challenges.jpg[width=500]
 
 == Formation
 
@@ -247,15 +247,15 @@ image:images/my-team.png[width=500]
 
 === Les doutes 😞
 
-Sketch
+image:images/doutes.jpg[width=500]
 
 === Découragement
 
-Sketch
+image:images/decouragements.jpg[width=500]
 
 === Les petites victoires 🤗
 
-Sketch
+image:images/victoires.jpg[width=500]
 
 
 

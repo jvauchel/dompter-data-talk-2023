@@ -163,13 +163,15 @@ je comprends plus certains concepts que je pensais acquis.
 Bon ça c'est les doutes, et c'est parfois très difficile de faire taire cette petite voix.
 On appelle ça aussi le syndrôme de l'imposteur.
 
-Il y a aussi certaines phrases qu'on reçoit de l'extérieur qui décourage
+Il y a aussi certaines phrases qu'on reçoit de l'extérieur, pas forcément malveillantes à la base, mais qui peuvent déstabiliser
+et décourager dans un contexte où l'on recherche à être légitime auprès des autres.
 
 * "ah oui c'est toi la nouvelle QA de l'équipe Enrico?"
 * "ça te fait pas peur de travailler qu'avec des gars ?"
-* "pourquoi tu as installé ça comme ça, on n'a pas le droit, on va devoir tout refaire maintenant patatipatatajaibesoindemedefoulersurtoi" "c'est avec mon équipe qu'il faut voir"
+* "pourquoi tu as installé ça comme ça, on n'a pas le droit, on va devoir tout refaire maintenant patatipatatajaibesoindemedefoulersurtoi"
 * "Nous n'avons pas pu satisfaire tes prétentions salariales en vue du contexte économique"
 * "ah si t'es prise en tant que speaker c'est parce que t'es une femme"
+
 
 Pour lutter contre ces doutes, ces incertitudes, ces découragements, il va falloir apprendre à enlever son masque d'imposteur,
 et petit à petit ouvrir les yeux sur ce que l'on vaut et sur ce qu'on a accomplie.

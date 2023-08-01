@@ -16,7 +16,7 @@ image::images/barbie.png[width=350]
 
 == Professeurs
 
-image::images/prof.jpg[width=350]
+image::images/prof.jpg[width=550]
 
 == 🎓 INSA Génie Mathématique - 2008-2013
 
@@ -245,9 +245,9 @@ image:images/my-team.png[width=500]
 * 🍻 Coding dojos
 * 🫶 *Soutien et bienveillance*
 
-=== Les doutes 😞
+== Les doutes 😞
 
-image:images/doutes.jpg[width=500]
+image:images/doutes.jpg[width=600]
 
 === Découragement
 
@@ -255,7 +255,7 @@ image:images/decouragements.jpg[width=500]
 
 === Les petites victoires 🤗
 
-image:images/victoires.jpg[width=500]
+image:images/victoires.jpg[width=600]
 
 
 

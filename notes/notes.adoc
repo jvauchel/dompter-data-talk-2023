@@ -1,33 +1,39 @@
 = prepa talk
 
 Bonjour à tous,
-
+Je m'appelle Johanna Vauchel.
 Il y a deux ans, j'étais développeuse C++ et j'ai choisi d'apprendre à dompter la Data.
-Dans ce talk, je vais vous parler de mon histoire, de mon parcours, et surtout de comment j'ai rencontré la Data, mais je vous rassure je serai plus rapide que Ted Mosby.
+Dans ce talk, je vais vous raconter mon histoire, mon parcours, et surtout de comment j'ai fini par rencontrer cette fameuse Data, mais je vous rassure je serai plus rapide que Ted Mosby.
 
-On ne peut pas dire que j'ai été poussée par la société...
-.. Pas non plus encouragée par mes professeurs de lycée ("tu ne seras pas assez forte psychologiquement pour faire une classe prépa !")
+Tout remonte toujours à l'enfance, est-ce que certains d'entre vous connaissent l'histoire de Barbie ingénieure informaticienne ?
+C'est un vrai livre que je vais vous spoiler attention. Ca raconte comment Barbie, designer de Jeux vidéos, a besoin de Steven et de Brian pour développer son jeu vidéos et résoudre ses bugs.
+Tout ça pour dire, que je n'ai pas vraiment été poussé par la société vers les sciences, la donnée et l'informatique...
+Je n'ai pas non plus été encouragée par mes professeurs de lycée ("tu ne seras pas assez forte psychologiquement pour faire une classe prépa !")
 
-J'ai quand même suivi mon instinct et je suis entrée à L'INSA de Rouen en 2008.
-Après avoir posé au moins 20 fois la question "est-ce qu'il faut être geek pour faire spécialité Génie Mathématique?"
-J'ai choisi ce parcours ds les maths appliquées, et j'ai commencé ma carrière dans l'univers de la 3D, en travaillant sur des applications 3D, codées en C++.
+Malgré ça, j'ai quand même suivi mon instinct et je suis rentrée à L'INSA de Rouen en 2008.
+Après avoir posé au moins 20 fois la question "est-ce qu'il faut être geek, aimer les jeux vidéos pour faire spécialité Génie Mathématique?"
+J'ai choisi ce parcours ds les maths appliquées, l'informatique. Je fais d'ailleurs de l'IA et des statistiques via le langage R.
+Je commence un peu par hasard ma carrière dans l'univers de la 3D, en travaillant sur des applications 3D, codées en C++.
 
 J'ai commencé chez Dassault Systèmes en 2012 où j'ai effectué 2 stages sur la simulation de tissus dans les équipes Recherche.
-Et oui, à Dassault, on ne fait pas que des avions. J'ai d'ailleurs trouver mon stage en voyant une photo de Karl lagerfeld sur leur site internet.
+Et oui, à Dassault, on ne fait pas que des avions. J'ai d'ailleurs trouvé mon stage en voyant une photo de Karl lagerfeld sur leur site internet.
 
 L'équipe travaille sur la modélisation 3D de phénomènes physiques comme les fluides ou les tissus.
 Saviez-vous que pour modéliser la robe de la reine des neiges en 3D,
-on utilise un maillage et on applique des forces physiques sur chaque point du maillage.
+on utilise un maillage (comme une grille) et on applique des forces physiques sur chaque point du maillage (gravité, étirement, cisaillement)
 C'est comme si chaque point était relié entre eux par des petits ressorts avec plus ou moins d'intensité selon le type de tissu.
 
 En 2013, je change d'équipe pour mon premier cdi pour travailler sur home by me, un logiciel d'aménagement intérieur en 3D.
 J'ai alors la mission de développer un moteur de génération de cuisine automatique.
 Quand vous allez chez Ikea pour refaire votre cuisine, vous allez utiliser un algorithme qui va vous faire des propositions automatiques d'aménagement.
 Et bien pour faire ça, il a fallu modéliser les contraintes d'aménagements en une fonction à plusieurs dimensions qu'on va chercher à minimiser.
+Cette fonction donnera le score de l'aménagement.
+Par exemple si le frigo est devant la fenêtre, on aura un mauvais score, 1000. Si le mur est bien remplie, on aura un bon score (5).
 Et la position et la taille de chaque meuble représentent les inconnus du problème ! Pas facile à résoudre !
 Pour résoudre ce problème d'optimisation, on s'appuie sur des algorithmes qui s'inspirent du vivant, comme les algorithme génétiques (qui s'inspirent des mutations de l'adn) ou le PSO (Particule swarm optimisation)
 qui s'inspirent de la façon dont les abeilles ou les oiseaux communiquent entre eux pour trouver l'endroit où il y aura le plus de nourriture.
 
+Je m'intéresse et me forme aussi au machine learning pour pouvoir faire de la détection automatique sur des plans de maison 2D.
 
 Ensuite j'ai travaillé sur un logiciel de reconstruction 3D à partir d'images provenant de microscopes où j'utilise les technos Qt, OpenGL, Cuda.
 
@@ -45,7 +51,7 @@ J'ai aimé travailler sur ces projets intéressants fonctionnellement. J'ai eu l
 Mais il est arrivé un moment où je n'étais plus bien dans mon travail.
 J'ai perdu le côté Fun des débuts. Je trouvais que je faisais plus assez de 3D et de Math.
 Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe. J'avais envie de plus d'innovations.
-En plus ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC pour voir si on pouvait développer une version web de Modaris 3D.
+En plus ma soif d'apprendre n'était pas satisfaite. A ce moment là, on a commencé à faire un POC de développement d'appli web 3D.
 C'était très intéressant, et j'ai découvert Kotlin, l'approche DDD, les microservices, et ça a éveillé ma curiosité pour ces technos plus modernes.
 Bilan : J'ai besoin de changement, j'ai envie de voir autre chose, d'évoluer professionnellement.
 
@@ -63,7 +69,7 @@ J'ai alors commencé à passer des entretiens, en interne chez Lectra et en exte
 Chouette, j'ai 2 opportunités en C++ :
 
 Un Poste de dev C++ avec beaucoup d'algorithmie : intéressant ! Mais ça ressemble à ce que je fais déjà.
-Un Poste de tech lead C++ dans un start up : Cool promotion, mieux payé, nouveau statut !
+Un Poste de tech lead C++ dans un start up : Cool nouveau statut, nouveau challenge !
 
 Mais en fait, là je reste dans mes pantoufles, ma zone de confort.
 Qu’est ce que je vais apprendre ? Moi je suis curieuse de voir d’autres technos !
@@ -96,13 +102,13 @@ Vais-je réussir à gagner cette confiance, et à devenir légitime en tant qu'i
 Je vais maintenant vous faire découvrir mon nouveau métier.
 
 Lectra fabrique des machines qui permettent de découper du tissus, pour faire des vêtements, des meubles, des sièges de voiture.
-C'est comme des gros ciseaux mais qui ressemblent à ça ! et ça permet d'économiser bcp de tissu et de temps notamment en découpant plusieurs tissus à la fois.
+C'est comme des gros ciseaux mais qui ressemblent à ça ! et ça permet d'économiser bcp de tissu et de temps notamment en découpant plusieurs piles de tissus à la fois.
 
 Et ces machines, elles ont toutes un compte Instagram, qu'on appelle la data-collect, et elle poste ce qu'elles font toute la journée - je suis allumée, je découpe, je fais une pause, je suis  en panne, j'ai découpé 3m de tissu en 2 minutes etc.
 Mon travail va consister à collecter tous ces messages et à les combiner à d'autres sources d'informations, par exemple, le référentiel des machines, les calendriers de rotation des équipes qui travaille sur la machine
-Et on va combiner ces messages et ces infos pour sortir des KPI, comme des vitesses de découpe, des temps d'interruption par jour, des indices de performance, et on va mettre toutes ces infos dans une base de données qui s'appelle Snowflake.
+Et on va combiner ces messages et ces infos pour sortir des KPI, comme des vitesses de découpe, des temps d'interruption par jour, des indices de performance, et on va mettre toutes ces infos dans une base de données en utilisant la plateforme Snowflake.
 
-Derrière ces rouages, on va retrouver la techno Kafka, c'est à dire des tuyaux qu'il faut gérer, créer, maintenir
+Derrière ces rouages, on va retrouver la techno Kafka, et ce qu'on va appeler des Kafka Streams, c'est à dire des tuyaux qu'il faut gérer, créer, maintenir
 pour que la donnée arrive jusqu'en base de données, et on a pas le droit de perdre les messages, c'est le jeu , sinon on a perdu.
 Et pour écrire ces tuyaux, on va utiliser le langage Scala, et la programmation fonctionnelle. euh Comment ça on fait plus de boucle for !
 Ex algo et il y a bcp de concepts à appréhender.
@@ -111,8 +117,9 @@ Et chaque tuyau Kafka, c'est des petits projets. Je suis loin des énormes proje
 fois tu peux même pas avoir tout le code sur ta machine.
 Je rencontre plein de gens, car on est au milieu, entre les équipes qui nous envoient la donnée et celles qui l'utilisent.
 Je découvre Docker, Kubernetes, Jenkins, et ça devient moins obscure chaque jour.
-En plus ça permet de faire les MEP instantanée, de façon transparente, alors que j'étais habituée à une release par an.
-Et le métier de Data Ingé, c'est aussi beaucoup de recherche d'amélioration, d'automatisation, de qualités, d'analyses. Ca évolue sans cesse, il faut s'adapter.
+En plus ça permet de faire les MEP instantanée, de façon transparente, alors que j'étais habituée à une ou deux release par an.
+Et le métier de Data Ingé, c'est aussi beaucoup de veille techno, d'amélioration des process, d'automatisation, on veut améliorer la qualités de nos données, et analyser des potentiels anomalies.
+C'est un domaine qui évolue sans cesse, il faut s'adapter.
 Un autre pilier, c'est la partie métier. Il faut comprendre les données qu'on manipule pour pouvoir les traiter au mieux,
 et comprendre le besoin clients autour des machines de découpe.
 
@@ -121,8 +128,7 @@ On est passé de SQL Server à Snowflake. On a dû se former à snowflake, décr
 Je vous rappelle qu'on n'a pas le droit de perdre des données, du coup on a dû alimenter les deux bases en même temps, migrer l'historique et gérer des doublons avant de débrancher sql server.
 Autre challenge, on a voulu être plus précis dans le découpage des temps d'utilisation machine pour pouvoir avoir un temps de coupe par jour.
 On a du reprendre tout l'historique pour découper les coupes à cheval sur plusieurs jours.
-Autre challenge, avoir des KPIs en temps réel. En fait, j'ai retrouvé mes casse-têtes.
-
+Autre challenge, avoir des KPIs en temps réel. En fait, j'ai retrouvé mes casse-têtes mathématiques.
 
 
 Pour dompter cette fameuse Data, il a fallu se former, d'abord seule.
@@ -132,15 +138,16 @@ Je regardai les commits des collègues tous les soirs pour pouvoir poser des que
 Oui j'espionnais mes collègues !
 Et puis le plus important c'est de se lancer et de se tromper, chercher par soi-même c'est comme ça qu'on apprend.
 Ensuite, il faut pas hésiter à donner son avis, bombarder ses collègues de questions, demander de réexpliquer.
-Etre relous finalement, mais ça permet aussi de challenger des décisions historiques et de lancer de nouvelles idées.
+"Pourquoi vous avez fait ça comme ça?" Ca permet aussi de challenger des décisions historiques et de lancer de nouvelles idées.
 Et puis partager ce qu'on apprend ça permet de vérifier qu'on a bien tout compris,
 alors on a fait un projet d'exemple et d'exercices sur l'API de Kafka Stream et on a fait des ateliers en interne pour
 partager avec les autres équipes et leur faire découvrir Kafka.
 Et enfin, c'est pas parce qu'on a peu d'expérience qu'on ne peut pas aller chercher de l'info dans les conférences (Kafka Summit, Scala IO, Jug Summer Camp, Mixit, Bdx IO).
+Et en plus, assister à ces conférences, ça m'a finalement donné envie de ma lancer en tant que speaker.
 
 Mais la réussite de ma reconversion, je la dois en vérité à mon équipe qui a tout mis en oeuvre pour bien m'accueillir et m'accompagner.
 On m'a attribué un parrain qui m'a appris le fonctionnel et Kafka.
-Lors des réunions, on écrit le compte rendu en live, on fait des schémas, on fait en sorte que tout le monde repartent avec la même base de connaissance;
+Lors des réunions, on écrit le compte rendu en live, on fait des schémas, on fait en sorte que tout le monde repartent avec le même niveau de connaissance;
 On fait du mob, du pair.
 On fait des points réguliers de sharing pour partager nos connaissances sur diverses sujets.
 Mais l'essentiel c'est que mon équipe m'a soutenu et encouragé dès le début, en me demandant mon avis même quand j'avais pas encore les connaissances.
@@ -172,14 +179,16 @@ et décourager dans un contexte où l'on recherche à être légitime auprès de
 * "Nous n'avons pas pu satisfaire tes prétentions salariales en vue du contexte économique"
 * "ah si t'es prise en tant que speaker c'est parce que t'es une femme"
 
+J'en rigole maintenant mais en fait ce que je ressens c'est que je ne suis pas prise au sérieux dans mon rôle Ingénieur Data-speaker.
+Est-ce qu'on va toujours me voir comme la fille de l'équipe Enrico, la débutante qui a besoin de Brian et Steven pour réussir ?
 
 Pour lutter contre ces doutes, ces incertitudes, ces découragements, il va falloir apprendre à enlever son masque d'imposteur,
 et petit à petit ouvrir les yeux sur ce que l'on vaut et sur ce qu'on a accomplie.
-Et pour ça, je vous conseille de savourer les petites et grandes victoires :
+Et pour ça, on va commencer par savourer les petites et les grandes victoires :
 
-* Ok, Je viens d'arriver, je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais : présentation de la 3D, tutos Git, et organisation de team building, animation de rétros. Comme ça j'apporte ma pierre à l'edifice
-* Deuxième story sur le même projet kafka stream, c'est bon je connais le code, et je développe la story plus rapidement que la première fois
-* Encouragements/compliments de l'équipe : Savoir les accepter.
+* Par exemple, des les débuts de la reconversion: ok, Je viens d'arriver dans l'équipe, je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais lors des sharing: présentation de la 3D, tutos Git, et organisation de team building, animation de rétros. Comme ça j'apporte ma pierre à l'edifice
+* Deuxième story sur le même projet kafka stream, c'est bon je connais le code, le métier, et je développe la story plus rapidement que la première fois
+* Encouragements/compliments de l'équipe
 * Quand on propose des idées pertinentes en réunion.
 * Moi aussi je veux être speaker !
 * Et finalement, il faut simplement être fière d'être sorti de sa zone de confort.
@@ -219,11 +228,11 @@ On argumente ses choix honnêtement, on ne cherche pas à se survendre.
 Et on tente de postuler à des jobs qui ne nous correspondent pas exactement à l'intant t, mais dans lesquels on se projette bien.
 On fait des vis ma vie dans une autre équipe pour découvrir ce qui se fait ailleurs.
 On s'ouvre l'esprit en allant voir des conférences qui ne nous correspondent pas
-On suit des formations ou on fit de la veille techno sur des sujets qu'on ne connait pas.
+On suit des formations ou on fait de la veille techno sur des sujets qu'on ne connait pas.
 
 C'est aussi à l'entreprise de faire en sorte d'accueillir ces profils atypiques et favoriser l'inclusion.
 Elle doit être ouverte dans les descriptions de poste pour ouvrir la porte à ces profils.
-Rappelez vous que qd on est une femme, on est pas poussé à faire un métier tech, et bcp d'entre nous se réorientent au cours de leur carrière.
+Rappelez vous que qd on est une femme, on est pas poussé à faire un métier tech, et bcp d'entre nous se réorientent au cours de leur carrière pour faire de l'informatique.
 Est-ce qu'accueillir plus de profil en reconversion, ce ne serait pas amener plus de femmes dans la tech ?
 Il faut aussi donner du temps aux équipes pour former les nouveaux et
 donner le temps et les moyens aux reconvertis de se former.

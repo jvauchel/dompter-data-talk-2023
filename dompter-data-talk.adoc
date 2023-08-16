@@ -8,7 +8,7 @@
 
 image:images/himym-finale.gif[width=350]
 
-// ifeval::[{duration} == 'long']
+ifdef::long-format[]
 
 == Enfance
 
@@ -16,7 +16,7 @@ image::images/barbie.png[width=350]
 
 https://www.theguardian.com/lifeandstyle/2014/nov/19/-sp-barbie-can-be-a-computer-engineer-but-only-with-help-of-a-man[Barbie Computer Engineer, the Guardian]
 
-// endif::[]
+endif::long-format[]
 
 == Professeurs
 

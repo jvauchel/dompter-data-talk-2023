@@ -38,7 +38,7 @@ do
     asciidoctor-revealjs -a data-uri -a revealjs_theme=white \
     -a revealjsdir=https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2 -a revealjs_transition=fade \
     -a customcss=custom-${CONFERENCE_NAME}.css -a revealjs_slideNumber=true \
-    -a duration=${DURATION} \
+    -a ${DURATION}-format \
     -D public -o index-${CONFERENCE_NAME}.html \
     ${SOURCE}
 

@@ -9,11 +9,12 @@ echo "
 
 " > index.adoc
 
-CONFERENCES=( "tadx:long"
+CONFERENCES=("tadx:long"
               "jug-summer-camp:long"
               "tremplin:short"
               "abstract:short")
 
+rm -rf public
 mkdir -p public
 
 for conf in "${CONFERENCES[@]}"

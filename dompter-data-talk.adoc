@@ -229,7 +229,7 @@ image:images/data.jpg[width=500]
 [%step]
 * 🗣️ "Pourquoi ?" "Comment ?"
 * 🍻 *Partager*
-* 🎤 Assister à des *Conférences*
+* 🎤 Assister à des *Conférences* (Kafka Summit, Scala IO)
 
 === Une équipe au top
 
@@ -239,7 +239,7 @@ image:images/my-team.png[width=500]
 
 [%step]
 * 🧸 Parrain
-* 📖 *Documentation*
+* 📖 Documentation en *live*
 * ✏️ Schémas
 * 🧑🏼‍🤝‍🧑🏻 *Mob*
 * 🍻 Coding dojos

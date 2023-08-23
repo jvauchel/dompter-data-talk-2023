@@ -120,10 +120,13 @@ image:images/entretien.jpg[width=550]
 
 === Premières difficultés
 
+[%step]
 * 💵 Déception côté salaire
 ** Plan de montée en compétence
 * ⌚ 3 mois d'attente
 ** 💻 Demande accès formations
+* 👑 *Confiance* et *légitimité*
+
 
 == 💺 Ingénieure *Data*
 

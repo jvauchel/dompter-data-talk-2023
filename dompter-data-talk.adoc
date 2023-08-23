@@ -16,11 +16,11 @@ image::images/barbie.png[width=350]
 
 https://www.theguardian.com/lifeandstyle/2014/nov/19/-sp-barbie-can-be-a-computer-engineer-but-only-with-help-of-a-man[Barbie Computer Engineer, the Guardian]
 
-endif::long-format[]
-
 == Professeurs
 
 image::images/prof.jpg[width=550]
+
+
 
 == 🎓 INSA Génie Mathématique - 2008-2013
 
@@ -31,7 +31,7 @@ image::images/insa.jpeg[width=450]
 // * 💻 *C++*, Modélisation *3D*, Shaders OpenGL, Optimisation
 // * 🧪 4 expériences dans la 3D...
 
-
+endif::long-format[]
 
 == Dassault Systèmes - 2012
 
@@ -153,6 +153,8 @@ image:images/monde_data1-3.jpg[width=500]
 
 image:images/monde_data1-1.jpg[width=500]
 
+ifdef::long-format[]
+
 === Exemple C++
 
 [source, c++]
@@ -184,6 +186,8 @@ val functionalResult = (1 to 5).filter(_ % 2 == 1).map(pow2).sum
 println("Sum : "+functionalResult)
 ----
 
+endif::long-format[]
+
 === Multitude de petits projets
 
 image:images/monde_data1-2.jpg[width=500]
@@ -208,9 +212,13 @@ image:images/monde_data2-4.jpg[width=400]
 
 image:images/monde_data2-3.jpg[width=500]
 
+ifdef::long-format[]
+
 === Challenges
 
 image:images/challenges.jpg[width=500]
+
+endif::long-format[]
 
 == Formation
 

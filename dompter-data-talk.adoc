@@ -37,11 +37,16 @@ endif::long-format[]
 
 image:images/dassault-fashion.jpg[width = 600]
 
+=== La simulation de tissus
+
+image:images/elsa.png[width = 200]
+image:images/clo3d.jpg[width = 600]
+
 [.columns]
 === La simulation de tissus
 
 [.column]
-video::videos/collisionTissu.mp4[width = 500, height = 500]
+video::videos/collisionTissu.mp4[width = 500, height = 400]
 
 [.column]
 Maillage 3D +
@@ -57,11 +62,12 @@ image:images/home-by-me.png[width = 500]
 [.columns]
 === L'aménagement automatique de cuisines
 
-[.column]
-image:images/cuisok.png[width=800]
+[.columns width="60%"]
+image::images/cuisok.png[]
 
-[.column]
-image:images/pso.jpg[width=700]
+[%step]
+[.column width="40%"]
+image::images/pso.jpg[]
 
 [.columns]
 == Thermo Fisher - 2016
@@ -95,6 +101,7 @@ image:images/Modaris3D.jpg[]
 
 === Le monde de la 3D
 
+[%step]
 * 📐 Des *maths* appliquées
 * 👩‍💻 *Algorithmie* poussée
 * 📉 Recherche de perf (optimisation, calcul distribué)
@@ -122,15 +129,15 @@ image:images/entretien.jpg[width=550]
 
 [%step]
 * 💵 Déception côté salaire
-** Plan de montée en compétence
+** 💡 => Plan de montée en compétence
 * ⌚ 3 mois d'attente
-** 💻 Demande accès formations
+** 💡 => Demande accès formations 💻
 * 👑 *Confiance* et *légitimité*
 
 
 == 💺 Ingénieure *Data*
 
-image:images/datainge.jpg[width=250]
+image::images/datainge.jpg[width=500]
 
 [.columns]
 === Lectra - 2021
@@ -230,7 +237,7 @@ image:images/data.jpg[width=500]
 === Auto formation
 
 [%step]
-* 💻 En ligne
+* 💻 En ligne (https://www.udemy.com/fr/[udemy])
 * 🗣️ Interne
 * 🕵️‍♀️ Espionner ses collègues
 * 🚵‍♀️ Essayer et *se tromper*
@@ -240,7 +247,8 @@ image:images/data.jpg[width=500]
 [%step]
 * 🗣️ "Pourquoi ?" "Comment ?"
 * 🍻 *Partager*
-* 🎤 Assister à des *Conférences* (Kafka Summit, Scala IO)
+* 🎤 Assister à des *Conférences*
+** Jug Summer Camp, Kafka Summit, Scala IO
 
 === Une équipe au top
 
@@ -294,11 +302,14 @@ image:images/agilite.jpg[width=700]
 
 == Et vous ? Vous vous lancez ?
 
+image::images/jump.gif[width=400]
+
 === Conseils
 
 [%step]
 * 🧑‍💼 Environnement
 * 📜 Conditions du poste
+* 🗺️ Cartographier sa montée en compétence
 * 🎓 Formation diplômante
 * 👣 Petit pas
 
@@ -316,9 +327,18 @@ image:images/agilite.jpg[width=700]
 === Le rôle de l'entreprise
 
 [%step]
-* 👩‍🔬 Inclusion
+* 👩‍🔬 Inclusivité
 * ⏳ Temps et moyens
 * 👐 Apprendre des différences
+
+==  image:images/recap-8.jpg[width=1000]
+==  image:images/recap-7.jpg[width=1000]
+==  image:images/recap-6.jpg[width=1000]
+==  image:images/recap-5.jpg[width=1000]
+==  image:images/recap-4.jpg[width=1000]
+==  image:images/recap-3.jpg[width=1000]
+==  image:images/recap-2.jpg[width=1000]
+==  image:images/recap-1.jpg[width=1000]
 
 == Merci beaucoup !
 
@@ -327,5 +347,4 @@ image:images/merci.jpg[width=600]
 icon:github[] https://jvauchel.github.io/
 
 icon:envelope[] vauchel.johanna@gmail.com
-
 

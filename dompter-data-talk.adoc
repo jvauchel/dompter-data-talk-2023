@@ -4,11 +4,12 @@
 :highlightjs-languages: scala
 :icons: font
 
+ifdef::long-format[]
+
 == How I met Data ?
 
 image:images/himym-finale.gif[width=350]
 
-ifdef::long-format[]
 
 == Enfance
 
@@ -31,16 +32,26 @@ image::images/insa.jpeg[width=450]
 // * 💻 *C++*, Modélisation *3D*, Shaders OpenGL, Optimisation
 // * 🧪 4 expériences dans la 3D...
 
-endif::long-format[]
 
 == Dassault Systèmes - 2012
 
 image:images/dassault-fashion.jpg[width = 600]
 
+
 === La simulation de tissus
 
 image:images/elsa.png[width = 200]
 image:images/clo3d.jpg[width = 600]
+
+endif::long-format[]
+
+ifdef::short-format[]
+
+== Le monde de la 3D
+
+image:images/3dinge.jpg[width = 500]
+
+endif::short-format[]
 
 [.columns]
 === La simulation de tissus
@@ -55,9 +66,13 @@ forces physiques +
 image:images/tissuForce1.jpg[width=140]
 image:images/tissuForce2.jpg[width=180]
 
+ifdef::long-format[]
 == Dassault Systèmes - 2013
 
 image:images/home-by-me.png[width = 500]
+
+endif::long-format[]
+
 
 [.columns]
 === L'aménagement automatique de cuisines
@@ -69,6 +84,7 @@ image::images/cuisok.png[]
 [.column width="40%"]
 image::images/pso.jpg[]
 
+ifdef::long-format[]
 [.columns]
 == Thermo Fisher - 2016
 
@@ -80,11 +96,12 @@ C++, Qt, Cuda +
 Shaders OpenGL +
 Git
 
+
 == Lectra - 2019
 
 image:images/Modaris3D.jpg[]
 
-
+endif::long-format[]
 
 // == Motivation pour ce talk
 //
@@ -248,7 +265,7 @@ image:images/data.jpg[width=500]
 * 🗣️ "Pourquoi ?" "Comment ?"
 * 🍻 *Partager*
 * 🎤 Assister à des *Conférences*
-** Jug Summer Camp, Kafka Summit, Scala IO
+** BDX I/O, Kafka Summit, Scala IO
 
 === Une équipe au top
 
@@ -331,6 +348,8 @@ image::images/jump.gif[width=400]
 * ⏳ Temps et moyens
 * 👐 Apprendre des différences
 
+ifdef::long-format[]
+
 ==  image:images/recap-8.jpg[width=1000]
 ==  image:images/recap-7.jpg[width=1000]
 ==  image:images/recap-6.jpg[width=1000]
@@ -340,6 +359,8 @@ image::images/jump.gif[width=400]
 ==  image:images/recap-2.jpg[width=1000]
 ==  image:images/recap-1.jpg[width=1000]
 
+endif::long-format[]
+
 == Merci beaucoup !
 
 image:images/merci.jpg[width=600]
@@ -348,3 +369,10 @@ icon:github[] https://jvauchel.github.io/
 
 icon:envelope[] vauchel.johanna@gmail.com
 
+== Merci pour vos feedbacks
+
+image:images/TremplinBordelaisQRCode.png[width=300]
+
+icon:github[] https://jvauchel.github.io/
+
+icon:envelope[] vauchel.johanna@gmail.com

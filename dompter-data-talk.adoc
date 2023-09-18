@@ -326,8 +326,8 @@ image::images/jump.gif[width=400]
 [%step]
 * 🧑‍💼 Environnement
 * 📜 Conditions du poste
-* 🗺️ Cartographier sa montée en compétence
 * 🎓 Formation diplômante
+* 🗺️ Cartographier sa montée en compétence
 * 👣 Petit pas
 
 

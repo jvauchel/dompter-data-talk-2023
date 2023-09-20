@@ -51,7 +51,7 @@ ifdef::short-format[]
 
 image:images/3dinge.jpg[width = 500]
 
-endif::short-format[]
+endif::[]
 
 [.columns]
 === La simulation de tissus
@@ -71,7 +71,7 @@ ifdef::long-format[]
 
 image:images/home-by-me.png[width = 500]
 
-endif::long-format[]
+endif::[]
 
 
 [.columns]
@@ -101,7 +101,7 @@ Git
 
 image:images/Modaris3D.jpg[]
 
-endif::long-format[]
+endif::[]
 
 // == Motivation pour ce talk
 //
@@ -213,7 +213,7 @@ val functionalResult = (1 to 5).filter(_ % 2 == 1).map(pow2).sum
 println("Sum : "+functionalResult)
 ----
 
-endif::long-format[]
+endif::[]
 
 === Multitude de petits projets
 
@@ -245,7 +245,7 @@ ifdef::long-format[]
 
 image:images/challenges.jpg[width=500]
 
-endif::long-format[]
+endif::[]
 
 == Formation
 
@@ -359,7 +359,7 @@ ifdef::long-format[]
 ==  image:images/recap-2.jpg[width=1000]
 ==  image:images/recap-1.jpg[width=1000]
 
-endif::long-format[]
+endif::[]
 
 == Merci beaucoup !
 

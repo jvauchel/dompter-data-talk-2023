@@ -2,43 +2,30 @@
 
 Bonjour à toutes et à tous,
 
-Merci beaucoup d'être venu m'écouter aujourd'hui.
+Aujourd'hui je vais vous présenter mon talk qui s'intitule "Apprends à dompter la data sans douter de toi !".
 
-Je m'appelle Johanna Vauchel, et ça c'est moi il y a deux ans, j'étais développeuse C++, et j’ai fait le choix d’entamer une reconversion pour apprendre à dompter la Data.
+Il y a deux ans, j'étais développeuse C++, et j’ai fait le choix d’entamer une reconversion pour apprendre à dompter la Data
+et devenir Ingénieure Data.
 
 Pour passer d’un univers à un autre, monter en compétence a été une étape, mais me sentir légitime a été une épreuve.
 
-Je vous parlerai de mes succès mais aussi de mes doutes et comment j'ai traversé les moments difficiles.
+Comment passe-t-on du développement d'un simulateur de tissu 3D en temps réel 
 
-Au delà des conseils pour réussir sa reconversion, vous comprendrez qu'en sortant de ma zone de confort, j'ai gagné beaucoup plus de des connaissances techniques.
-Et j'espère vous donner envie de vous lancer dans de nouveaux challenges.
+à la gestion d'une pipeline de milliers de données avec Kafka ?
 
+D'un outil de génération de cuisines automatiques en C++
 
-Petite parenthèse : n'hésitez pas à scanner ce QR code si vous voulez retrouver les slides de cette conférence.
+à la programmation fonctionnelle en Scala ?
 
-En 2012, j'ai commencé ma carrière dans le monde de la 3D chez Dassault Systèmes où j'ai travaillé sur la simulation de tissus en temps réel.
-Et oui, à Dassault, on ne fait pas que des avions.
-La simulation de tissus, ça permet de créer la robe de la reine des neiges en 3D par exemple.
-Commen ça marche ? On va utiliser un maillage (comme une grille) et on applique des forces physiques sur chaque point du maillage (gravité, étirement, cisaillement)
-C'est comme si chaque point était relié entre eux par des petits ressorts avec plus ou moins d'intensité selon le type de tissu.
+Dans ce talk, je vais vous parler des grandes étapes de cette reconversion. 
+Mais si vous voulez en connaître davantage, je vous invite à scanner ce QR code pour retrouver la version longue de mon retour d'expérience,
+que j'ai eu la chance de présenter lors du Jug Summer Camp.
 
+Mon histoire commence en 2021, après 9 ans d'expérience dans le dévelopement 3D et le C++.
+Je travaille à Lectra et je développe un logiciel de création de vêtements en 3D.
 
-En 2013, pour mon premier cdi, je vais travailler sur home by me, un logiciel d'aménagement intérieur en 3D.
-J'ai alors la mission de développer un moteur de génération de cuisine automatique.
-Quand vous allez chez Ikea pour refaire votre cuisine, vous allez utiliser un algorithme qui va vous faire des propositions automatiques d'aménagement.
-Et bien pour faire ça, j'ai du modéliser les contraintes d'aménagements en une fonction à plusieurs dimensions qu'on va chercher à minimiser.
-Pour résoudre ce problème d'optimisation, je vais m'appuyer sur des algorithmes qui s'inspirent du vivant, comme les algorithme génétiques (qui s'inspirent des mutations de l'adn) ou le PSO (Particule swarm optimisation)
-qui s'inspirent de la façon dont les abeilles ou les oiseaux communiquent entre eux pour trouver l'endroit où il y aura le plus de nourriture.
-
-Plus globalement, ce que j'ai aimé dans la 3D, c'est faire des maths appliquées à des problèmes concrets.
-Beaucoup d'algorithmie (et de casse tête!).
-On va rechercher à optimiser les performances, à aller vite dans les calculs, en cherchant la solution qui se rapproche le plus de l'idéal en un minimum de temps.
-On a souvent pas le temps de trouver la solution exacte, il faut faire des compromis.
-J'ai aimé travailler sur ces projets intéressants fonctionnellement. J'ai eu la chance de gagner en expertise C++ notamment en allant à des conférences.
-
-
-Mais il est arrivé un moment où je n'étais plus bien dans mon travail.
-J'ai perdu le côté Fun des débuts. Je trouvais que je faisais plus assez de 3D et de Math.
+En en fait à ce moment-là, je ne me sens pas bien du tout dans mon travail.
+J'ai perdu le côté Fun des débuts. Je trouvais que je faisais plus assez de 3D et de Math, Essence de mon métier.
 Mes efforts n'étaient pas reconnu. Je me trouvais en décalage par rapport à mon équipe. J'avais envie de plus d'innovations.
 En plus ma soif d'apprendre n'était pas satisfaite. A cette époque, je commence à m'intéresser aux techns clod et à d'autres langages
 
@@ -52,11 +39,8 @@ Du coup je me pose plein de questions :
 * Prendre de la distance avec ce qu'on attend de moi, et m'écouter moi.
 * Remettre en question mes croyances, mes ambitions d'avant ? Est-ce que je veux toujours faire des maths ?
 
-J'ai alors commencé à passer des entretiens.
-Et là j'ai deux opportunités en C++, dont un poste de tech lead. J'hésite mais en fait, là je reste dans mes pantoufles, ma zone de confort.
-Qu’est ce que je vais apprendre ? Moi je suis curieuse de voir d’autres technos !
 
-Je m'intéresse alors au poste ouvert à candidature de Data ingénieur dans l'équipe Enrico. Enrico pour enrichissement et collecte de données.
+Je m'intéresse alors au poste ouvert à candidature de Data ingénieur dans l'équipe Enrico.
 Et là, je suis remplie de doutes, j'ai peur de recommencer à zero, peur d'échouer.
 Est-ce une regression ou une évolution de carrière ?
 
@@ -69,7 +53,7 @@ et en plus je veux bien une augmentation s'il vous plait ! Alors vous me prenez 
 Bon en fait j'explique ma réflexion et ce qui m'a amené à postuler aujourd'hui à ce poste d'ingénieure Data.
 Pourquoi la Data ? Parce que c'est un domaine vaste, où il y a bcp à apprendre, et où les mathématiques pourront me servir à travers, l'analyse, la statistique et la data science.
 Je parle de mon intéret pour le langage Scala qui mélange la programmation fonctionnelle et orientée objet.
-J'explique que j'ai envie de plus de chalenge dans mon quotidien et  j'ai aussi envie d'être au coeur des équipes, d'avoir plus d'interactions, de partager communiquer, et de ne plus être isolée dans ma bulle 3D.
+J'explique que j'ai envie de plus de challenge dans mon quotidien et  j'ai aussi envie d'être au coeur des équipes, d'avoir plus d'interactions, de partager communiquer, et de ne plus être isolée dans ma bulle 3D.
 Et puis l'équipe a l'air super et prête à former une nouvelle recrue !
 
 Bon au final, j'ai dû être convaincante car j'ai eu le poste, victoire !
@@ -80,29 +64,9 @@ J'en profite pour demander les accès à des formations en ligne et j'en profite
 Mais globalement, je sens que je n'ai pas la confiance de mon entreprise, qu'on me met à l'épreuve, qu'on ne mise pas sur moi.
 Vais-je réussir à gagner cette confiance, et à devenir légitime en tant qu'ingénieur Data ?
 
-Je vais maintenant vous faire découvrir mon nouveau métier Ingénieur Data.
-
-Lectra fabrique des machines qui permettent de découper du tissus, et ça permet d'économiser bcp de tissu et de temps grâce à une technologie à la pointe.
-
-Et ces machines, elles ont toutes un compte Instagram, qu'on appelle la data-collect, et elle poste ce qu'elles font toute la journée - je suis allumée, je découpe, je fais une pause, je suis  en panne, j'ai découpé 3m de tissu en 2 minutes etc.
-Mon travail va consister à collecter tous ces messages et à les combiner à d'autres sources d'informations, par exemple, le référentiel des machines, les calendriers de rotation des équipes qui travaillent sur la machine
-Et on va combiner ces messages et ces infos pour sortir des KPI, comme des vitesses de découpe, des temps d'interruption par jour, des indices de performance, et on va mettre toutes ces infos dans une base de données en utilisant la plateforme Snowflake.
-
-Derrière ces rouages, on va retrouver la techno Kafka, un incontournable de la Big Data, car ça permet de transformer une grande quantité de données en temps réel.
-On va donc déveloper des Kafka Streams, c'est à dire des tuyaux qu'il faut gérer, créer, maintenir
-pour que la donnée arrive jusqu'en base de données, et on a pas le droit de perdre les messages, c'est le jeu , sinon on a perdu.
-Et pour écrire ces tuyaux, on va utiliser le langage Scala, et la programmation fonctionnelle. euh Comment ça on fait plus de boucle for !
-Et chaque tuyau Kafka, c'est des petits projets. Je suis loin des énormes projets en C++, quand tu peux même pas avoir tout le code sur ta machine.
-
-Je rencontre plein de gens, car on est au milieu, entre les équipes qui nous envoient la donnée et celles qui l'utilisent.
-Je découvre Docker, Kubernetes, Jenkins, c'est nouveau pour moi mais ça devient moins obscure chaque jour.
-En plus ça permet de faire les MEP instantanée, de façon transparente, alors que j'étais habituée à une ou deux release par an.
-Et le métier de Data Ingé, c'est aussi beaucoup de veille techno, d'amélioration des process, d'automatisation, on veut améliorer la qualité de nos données, et analyser des potentiels anomalies.
-C'est un domaine qui évolue sans cesse, il faut s'adapter.
-Un autre pilier, c'est la partie métier. Il faut comprendre les données qu'on manipule pour pouvoir les traiter au mieux,
-et comprendre le besoin clients autour des machines de découpe.
-
-On est confronté à de nombreux challenges au quotidien, et là je retrouve un peu mes casse-tête mathématiques.
+Pour de venir Ingénieur Data, c'est simple ! Il suffit de se former, 
+à Kafka, à Scala, à Snowflake, à Spark, à Databricks, à Kubernetes, Docker, Jenkins, a la partie métier, cad au fonctionnelle liée aux données qu'on manipule. Sans parler de la partie qualité, les analyses aux librairies de visualisations de données.
+Ah oui tout ça quand même ! Et en plus j'ai plus le droit de faire des boucle for en scala, mais je me rattrape sur les fonctions récursives heureusement.
 
 Pour dompter cette fameuse Data, j'ai dû me former, d'abord seule.
 Via des formations en ligne (yen a bcp, moi j'ai choisi udemy) et aussi des formations internes, données par des collègues par exemple.
@@ -148,25 +112,29 @@ Je précise que ces phrases provenant de personnes extérieures à mon équipe.
 * "ah oui c'est toi la nouvelle QA de l'équipe Enrico?"
 * "ça te fait pas peur de travailler qu'avec des gars ?"
 Oui je suis la seule fille de l'équipe, mais c'est pas pour ça qu'on doit me considérer comme à part.
-Et mon challenge c'est pas de travailler avec des hommes, mais ces tous les concepts de scala, de kafka à intégrer.
-Je sens qu'on ne me fait pas confiance en fait.
+Je suis Data Ingé comme les autres.
+Et mon challenge c'est pas de travailler avec des hommes, mais ces tous les concepts de la Data à intégrer. 
+Je sens qu'on ne me fait pas confiance en fait, tout ça parce que j'ai pas la tête d'une Data Ingé, je suis pas dans la norme ,
+Aujoud'hui, à Paris, seulement 15 % des Data Ingé sont des femmes et elles gagnent environ 8% de moins que leurs homologues masculins.
+Etude Talentio 2023
 * Une fois, une personne d'une autre équipe m'a pris à partie sans mon équipe, et m'a questionné devant d'autres et de façon agressive sur un choix technique pris par l'équipe avant mon arrivée.
 Et je n'avais pas les codes, l'historique pour me défendre et défendre les idées de mon équipe. ca m'a beaucoup affecté.
 * "Nous n'avons pas pu satisfaire tes prétentions salariales en vue du contexte économique" malgré ma super cartographie des compétence
 * "ah si t'es prise en tant que speaker c'est parce que t'es une femme"
 
 En fait ce que je ressens c'est que je ne suis pas prise au sérieux dans mon rôle Ingénieur Data, de speaker.
-Est-ce qu'on va toujours me voir comme la fille de l'équipe Enrico, ou comme une débutante. On ne me fait pas confiance, je ne suis pas légitime.
+Est-ce qu'on va toujours me voir comme la fille de l'équipe Enrico, ou comme une débutante en reconversion. 
+Ces jours-là, je me dis que je ne suis pas légitime.
 
-Pour lutter contre ces doutes, ces incertitudes, ces découragements, j'ai dû apprendre à enlever son masque d'imposteur
+Pour lutter contre ces doutes, ces incertitudes, ces découragements, j'ai dû apprendre à enlever mon masque d'imposteur
 et petit à petit ouvrir les yeux sur ce que je vaux et sur ce que j'ai accompli.
 Comment, en savourant les petites victoires :
 
 * Par exemple, des les débuts de la reconversion: ok, Je viens d'arriver dans l'équipe, je connais pas encore bien les technos Data mais je vais moi aussi partager sur ce que je connais lors des sharing: présentation de la 3D, tutos Git, et organisation de team building, animation de rétros. Comme ça j'apporte ma pierre à l'edifice
 * Deuxième story sur le même projet kafka stream, c'est bon je connais le code, le métier, et je développe la story plus rapidement que la première fois
 * Encouragements/compliments de l'équipe
-* Quand je propose des idées pertinentes en réunion.
-* Moi aussi je veux être speaker !
+* Quand je propose des idées pertinentes en réunion, ou lors des revues de code "partial function".
+* Moi aussi je veux être speaker ! Je me lance sans avoir été poussé par ma hierarchie.
 * Et finalement, il faut simplement être fière d'être sorti de sa zone de confort.
 
 
@@ -178,8 +146,6 @@ On pourra pousser l'équipe à se challenger et à changer ses automatismes à t
 On pourra proposer des idées disruptives parce  qu'on a un parcours différent.
 Par exemple, je pense qu'avec mon background mathématique, j'ai pu amener à l'équipe plus de rigueur et d'assiduité dans les analyses.
 Et aussi, comme je suis attachée à la partie fonctionnelle, j'aime m'interroge sur le besoin client et pourquoi on fait les choses.
-En fait, quand on commence, on s'arrête plus, on a encore envie d'apprendre, on est plus motivé et déterminé, c'est devenu un etat d'esprit
-Par exemple aujourd'hui, j'ai envie de plus connaitre le métier autour des machines de découpe, et de mieux comprendre les données pour être capables un jour de plus les faire parler, pour de la prédiction ou du conseil à la prise de décision.
 On se rend compte qu'on a acquis beaucoup plus que des connaissances techniques, on sait d'autant plus évoluer et s'adapter aux besoins de changement.
 
 
@@ -216,7 +182,7 @@ Car l'entreprise va comme ça s'enrichir des différences et des expériences de
 
 Merci beaucoup pour votre attention.
 j'espère vous avoir donné envie d'affronter vos doutes et de croire en vous.
-N'hésitez pas si vous avez des questions où si vous souhaitez assi partager votre expérience sur le sujet de la reconversion.
+N'hésitez pas si vous avez des questions et n'hésitez pas à me faire un retour sur ce talk via ce petit QR code.
 Merci !
 
 

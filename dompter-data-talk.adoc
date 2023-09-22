@@ -43,15 +43,40 @@ image:images/dassault-fashion.jpg[width = 600]
 image:images/elsa.png[width = 200]
 image:images/clo3d.jpg[width = 600]
 
+
 endif::long-format[]
 
 ifdef::short-format[]
 
-== Le monde de la 3D
+== Il y a 2 ans
 
 image:images/3dinge.jpg[width = 500]
 
+=== Aujourd'hui
+
+image::images/datainge.jpg[width=500]
+
+
+=== Simulation tissu 3D
+
+image:images/elsa.png[width = 200]
+image:images/clo3d.jpg[width = 600]
+
+=== Kafka
+
+image:images/monde_data1-3.jpg[width=500]
+
+=== Cuisines 3D
+
+image::images/cuisok.png[]
+
+=== Programmation fonctionnelle (Scala)
+
+image:images/monde_data1-1.jpg[width=500]
+
 endif::[]
+
+ifdef::long-format[]
 
 [.columns]
 === La simulation de tissus
@@ -66,12 +91,9 @@ forces physiques +
 image:images/tissuForce1.jpg[width=140]
 image:images/tissuForce2.jpg[width=180]
 
-ifdef::long-format[]
 == Dassault Systèmes - 2013
 
 image:images/home-by-me.png[width = 500]
-
-endif::[]
 
 
 [.columns]
@@ -84,7 +106,6 @@ image::images/cuisok.png[]
 [.column width="40%"]
 image::images/pso.jpg[]
 
-ifdef::long-format[]
 [.columns]
 == Thermo Fisher - 2016
 
@@ -96,25 +117,9 @@ C++, Qt, Cuda +
 Shaders OpenGL +
 Git
 
-
 == Lectra - 2019
 
 image:images/Modaris3D.jpg[]
-
-endif::[]
-
-// == Motivation pour ce talk
-//
-// * 🧪 *Retour d'expérience* sur ma reconversion dans la Data
-// * ⚖️ Les *doutes*, les choix difficiles, les difficultés
-// * 📖 Les *conseils* et les clés pour réussir sa reconversion
-// * 🫵 Vous donner *envie* de vous lancer !
-// * 🔑 Comment *accueillir* une nouvelle recrue issue d'une reconversion ?
-
-// == Le monde de la 3D et de la modélisation mathématique
-
-
-
 
 === Le monde de la 3D
 
@@ -126,17 +131,41 @@ endif::[]
 * 🇩🇪 *Conférence* C++ à Berlin
 * 👩‍🔬 *Expertise* C++
 
-=== La perte de vitesse - 2021
+endif::[]
+
+
+ifdef::short-format[]
+
+== Lectra - 2021
+
+image:images/Modaris3D.jpg[]
+
+endif::[]
+
+== La perte de vitesse - 2021
 
 image:images/perteVitesse.jpg[width=750]
+
 
 == Besoin de changement !
 
 image:images/questions.jpg[width=750]
 
+ifdef::short-format[]
+
+== Enrico
+
+image:images/enrico.jpg[width=400]
+
+endif::[]
+
+ifdef::long-format[]
+
 == Choix difficiles
 
 image:images/changement.jpg[width=800]
+
+endif::[]
 
 === L'entretien d'embauche
 
@@ -151,6 +180,7 @@ image:images/entretien.jpg[width=550]
 ** 💡 => Demande accès formations 💻
 * 👑 *Confiance* et *légitimité*
 
+ifdef::long-format[]
 
 == 💺 Ingénieure *Data*
 
@@ -180,7 +210,6 @@ image:images/monde_data1-3.jpg[width=500]
 
 image:images/monde_data1-1.jpg[width=500]
 
-ifdef::long-format[]
 
 === Exemple C++
 
@@ -213,7 +242,6 @@ val functionalResult = (1 to 5).filter(_ % 2 == 1).map(pow2).sum
 println("Sum : "+functionalResult)
 ----
 
-endif::[]
 
 === Multitude de petits projets
 
@@ -239,7 +267,6 @@ image:images/monde_data2-4.jpg[width=400]
 
 image:images/monde_data2-3.jpg[width=500]
 
-ifdef::long-format[]
 
 === Challenges
 
@@ -266,6 +293,7 @@ image:images/data.jpg[width=500]
 * 🍻 *Partager*
 * 🎤 Assister à des *Conférences*
 ** BDX I/O, Kafka Summit, Scala IO
+* 🎤 Devenir *speaker*
 
 === Une équipe au top
 

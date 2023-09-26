@@ -55,7 +55,7 @@ video::vQ5pa_EAh_M[youtube]
 
 === Jug Summer Camp 2023
 
-video::watch?v=-q2JKXsSKAY&list=PL4Z_Bm3ccVwf0w1N0sHqww80I2MZuXp4Z&index=13[youtube]
+video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
 
 === Le Tremplin Bordelais 2023
 

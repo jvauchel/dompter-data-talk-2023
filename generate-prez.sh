@@ -12,6 +12,7 @@ echo "
 CONFERENCES=("tadx:long"
               "jug-summer-camp:long"
               "tremplin:short"
+              "agile-bdx:short"
               "abstract:short")
 
 rm -rf public
@@ -58,6 +59,10 @@ video::vQ5pa_EAh_M[youtube]
 video::-q2JKXsSKAY?si=Xdu50igg2OdblGYj[youtube]
 
 === Le Tremplin Bordelais 2023
+
+video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
+
+=== Agile Tour 2023
 
 à venir
 

@@ -1,0 +1,98 @@
+= Comment devenir speaker ? Les grandes étapes.
+
+Bonjour, je m'appelle Johanna Vauchel(https://jvauchel.github.io/), je suis Data Ingénieure à Lectra. Et cette année, j'ai eu la chance de présenter mon premier talk au sujet de la reconversion et de la légitimité (https://www.youtube.com/watch?v=-q2JKXsSKAY).
+C'était le 8 septembre dernier au Jug Summer Camp de la Rochelle. J'ai aussi eu la chance de participer au tremplin bordelais (https://www.youtube.com/watch?v=3XqatOzeL-Y) le 26 septembre dernier, ce qui m'a permis d'être coachée par Geoffrey Graveaud(https://fr.linkedin.com/in/geoffrey-graveaud-033319b0) lors de la préparation de mon talk.
+J'ai appris énormément grâce à cette expérience, et j'aimerais donc partager mon ressenti et mes conseils pour permettre à celles et ceux qui souhaitent se lancer d'avoir quelques clés et des réponses à leurs questions.
+
+== 1. Trouver le sujet, son courage et sa légitimité.
+
+Premièrement, il faut avoir envie de se lancer. Et les conférences, ce n'est pas exclusivement réservées aux personnes à l'aise face à un public. Ce n'est pas non plus réservées aux experts techniques et aux tech leads.
+Chacun, par ses expériences et son parcours, a quelque chose à raconter et des idées à partager qui peuvent inspirer, même lorsque l'on débute.
+Dans mon cas, ça a toujours été compliqué pour moi de m'exprimer en public même lors des réunions.
+Mais j'avais envie de me challenger pour justement m'améliorer sur ce point et gagner en confiance.
+Et j'avais surtout envie de partager des choses, des idées, et de proposer un talk différent des autres et qui parlent aux personnes comme moi.
+Et puis aujourd'hui, il n'y a pas assez de femmes oratrices. Et j'aimerais vraiment changer ça.
+
+Deuxièment il faut avoir une idée de sujet : Un REX, un sujet technique ou organisationnel. Il faut réfléchir à ce que l'on veut faire passer comme message, et trouver, dans notre expérience, ce qui pourrait inspirer les autres.
+On peut trouver un format ou un thème qui nous ressemble et qui nous permettra de personnaliser notre talk pour qu'il soit unique.
+Dans mon cas, j'ai choisi d'enrichir mes slides de nombreux scketchnotes.
+
+== 2. On postule et on n'est pas pris.
+
+Quelques liens pour postuler :
+
+* listing des conférences et CFP (Call For Papers) : https://github.com/scraly/developers-conferences-agenda
+* plateformes qui gèrent les CFP :
+** https://conference-hall.io/
+** https://sessionize.com/
+
+Je choisis donc de me lancer, j'ai un titre, un dessin, un abstract (résumé du talk), et je postule un peu partout.
+Et là je ne récolte que des non !
+Comment faire pour ne pas se décourager, et comment booster ses chances d'être sélectionné(e) :
+
+Conseil n°1 : Viser les tremplins(https://craftsrecords.org/) : c'est idéal car on va bénéficier d'un accompagnement qui va nous faire énormément progresser.
+On se fait un premier réseau au sein des speakers. Et cerise sur le gâteau, on peut être sélectionné parmi les heureux gagnants qui participeront à une conférence plus grande.
+
+Conseil n°2 : Viser des meetups ou des plus petites conférences. Pourquoi pas échanger avec les organisateurs, utiliser son réseau.
+
+Conseil n°3 : Travailler son abstract et son titre
+
+J'ai beaucoup travaillé mon abstract avec mon coach, notamment à l'oral pour se détacher le plus possible de mon texte et réussir à vraiment exprimer mes idées, on appelle ça le Pitch Elevator.
+J'ai utilisé aussi la technique PTOME : Public, Thème, Objectifs, Message, Emotion. En décrivant chacun de ses aspects, on arrive à faire ressortir les points essentiels de son sujet.
+Ensuite, j'ai montré mon abstract au plus grand nombre pour avoir des retours.
+Et finalement je me suis même lancée dans l'élaboration d'une vidéo de Pitch pour maximiser mes chances d'être sélectionnée.
+
+En fait, avoir bien travaillé son pitch, ça permet d'avoir déjà bien dégrossi son sujet, et d'avoir les messages clés que l'on veut faire passer. On sait avec quoi l'on veut que les gens repartent, et c'est essentiel.
+Et finalement si on est sélectionné, on est plus tranquille car la préparation du talk a déjà commencé.
+
+== 3. On est sélectionné 🥳 😱
+
+Super, je suis sélectionnée et donc partagée entre la joie et la peur !
+Ca devient concret, j'ai une deadline et des personnes qui comptent sur moi. La pression !
+
+Comment bien préparer son talk ?
+
+* Travailler par itération. Faire des répétitions, devant ses amis, ses collègues et prendre en compte les remarques dans les itérations suivantes.
+* Soigner l'intro et la fin du talk. Au début, dire avec quoi les gens vont repartir par exemple, et faire un petit récapitulatif à la fin.
+* Attention au bout de 20 minutes, on perd l'attention de notre public, c'est humain. Penser à "réveiller" son public au milieu du talk.
+* Si la conférence est longue, prévoir le moment où l'on va boire (de l'eau !) et pourquoi pas l'inclure dans son talk. Personnellement ce moment m'angoisse vraiment.
+* Est-ce que les messages que l'on veut faire passer transparaissent bien dans sa conférence ? Se poser la question de "est-ce que je peux aller plus loin", quitte à sortir de sa zone de confort.
+* Avoir un format original : (Et si on apprenait à) Apprendre et partager autrement par Aurélie Vache (https://www.youtube.com/watch?v=KPZR3y2ICJg)
+* S'entraîner encore et encore.
+
+== 4. La veille du talk
+
+On prépare son sac avec son ordi, son chargeur, sa zappette, sa bouteille d'eau, et des adaptateurs de cables si besoin.
+On copie ses slides en local (si pas d'internet) et sur clé ubs (on ne sait jamais!).
+
+Souvent, la veille d'une conférence, on est invité à un repas des speakers. Ca permet de faire connaissance avec les autres speakers et les personnes qui organisent la conférence.
+
+Voici quelques conseils :
+
+* Préparer son pitch de présentation, car vous avez aussi envie qu'ils viennent voir votre talk. Et puis on va vous poser cette question toute la soirée :)
+* Profiter de parler avec les speakers, c'est une chance unique pour les connaître et apprendre de leur expérience
+* Ne pas se laisser impressionner. On a autant notre place qu'un speaker expérimenté. On est légitime.
+* Se coucher tôt, car demain c'est le grand jour.
+
+Evidemment, la nuit avant la conférence j'ai très mal dormi. Il ne faut pas trop s'en inquiéter car on aura l'adrénaline le jour J qui nous fera oublier cette fatigue.
+
+== 5. Le jour J
+
+Malgré le stress bien présent, j'ai essayé de profiter au maximum des autres talks.
+Si c'est une conférence à plusieurs salles, je vous conseille d'aller voir le talk avant le vôtre dans la même salle que le vôtre.
+Je m'étais mis au premier rang, et j'avais tout préparé pour que je n'ai plus qu'à me brancher. On a souvent peu de temps pour s'installer.
+
+Juste avant de commencer son talk : on respire, on regarde le public et on se lance. Waouh!
+
+== 6. L'après
+
+Je suis contente, fière, soulagée, fatiguée et j'ai envie de recommencer.
+Je profite des nombreux retours positifs des gens.
+Et je repostule à d'autres conférences.
+
+== Conclusion
+
+J'ai découvert l'univers des speakers, et je me suis rendue compte du travail que ça exige de faire un talk.
+Je ne vois plus les conférences du même oeil, j'éprouve un certain respect envers chaque personne qui présente.
+J'espère encore progresser, donner des conférences techniques, aller à l'étranger.
+Mais surtout, j'espère vous avoir donner envie de vous lancer !

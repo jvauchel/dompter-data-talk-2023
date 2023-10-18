@@ -48,6 +48,10 @@ endif::long-format[]
 
 ifdef::short-format[]
 
+== Merci à tous les sponsors et à Agile Tour Bdx !
+
+image:images/sponsorsATBDX23.png[width = 500]
+
 == Il y a 2 ans
 
 image:images/3dinge.jpg[width = 500]
@@ -399,7 +403,7 @@ icon:envelope[] vauchel.johanna@gmail.com
 
 == Merci pour vos feedbacks
 
-image:images/TremplinBordelaisQRCode.png[width=300]
+image:images/ATBdxQRCode.png[width=300]
 
 icon:github[] https://jvauchel.github.io/
 

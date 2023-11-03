@@ -110,11 +110,11 @@ et décourager dans un contexte où l'on recherche à être légitime auprès de
 Je précise que ces phrases provenant de personnes extérieures à mon équipe.
 
 * "ah oui c'est toi la nouvelle QA de l'équipe Enrico?"
+Non, je ne suis pas QA, je suis Data Ingénieur comme les autres membres de l'équipe.
 * "ça te fait pas peur de travailler qu'avec des gars ?"
-Oui je suis la seule fille de l'équipe, mais c'est pas pour ça qu'on doit me considérer comme à part.
-Je suis Data Ingé comme les autres.
-Et mon challenge c'est pas de travailler avec des hommes, mais ces tous les concepts de la Data à intégrer. 
-Je sens qu'on ne me fait pas confiance en fait, tout ça parce que j'ai pas la tête d'une Data Ingé, je suis pas dans la norme ,
+Il s'agit la de sexisme bienveillant, et ça n'a rien de bienveillant car ça suggère que je suis à part, pas au même niveau que l'équipe.
+Et mon challenge c'est pas du tout de travailler avec des hommes, mais c'est tous les concepts de la Data à intégrer.
+Je sens qu'on ne me fait pas confiance en fait, tout ça parce que j'ai pas le physique, d'allure d'un Data Ingé, je suis pas dans la norme ,
 Aujoud'hui, à Paris, seulement 15 % des Data Ingé sont des femmes et elles gagnent environ 8% de moins que leurs homologues masculins.
 Etude Talentio 2023
 * Une fois, une personne d'une autre équipe m'a pris à partie sans mon équipe, et m'a questionné devant d'autres et de façon agressive sur un choix technique pris par l'équipe avant mon arrivée.
@@ -187,3 +187,8 @@ Merci !
 
 
 
+Est-ce que ça vous est déjà arrivé de tout recommencer à zero dans votre carrière ?
+Tout à l'heure je vais vous faire un retour sur mon expérience de reconversion et comment j'ai réussi à dompter la Data.
+Comment j'ai fait pour devenir légitime en tant que Data Ingénieure ?
+
+Je vous partagerai mes aventures dans l'équipe Enrico !

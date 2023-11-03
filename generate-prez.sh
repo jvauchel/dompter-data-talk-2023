@@ -70,6 +70,10 @@ video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
 
 à venir
 
+=== SnowCamp 2024
+
+à venir
+
 " >> index.adoc
 
 mkdir -p public/videos

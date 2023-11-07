@@ -86,7 +86,7 @@ ifdef::long-format[]
 === La simulation de tissus
 
 [.column]
-video::videos/collisionTissu.mp4[width = 500, height = 400]
+video::videos/collisionTissu.mp4[width = 500, height = 400, start=60, opts=autoplay]
 
 [.column]
 Maillage 3D +

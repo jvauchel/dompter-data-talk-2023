@@ -68,7 +68,7 @@ video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
 
 === TADx 2023
 
-à venir
+video::5f29X4RiWCI?si=rG_fPRW6CHRZ-UfR[youtube]
 
 === SnowCamp 2024
 

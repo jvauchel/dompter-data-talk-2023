@@ -351,7 +351,8 @@ image:images/agilite.jpg[width=700]
 
 == Et vous ? Vous vous lancez ?
 
-image::images/jump.gif[width=400]
+//image::images/jump.gif[width=400]
+image::images/snowboard.gif[width=400]
 
 === Conseils
 

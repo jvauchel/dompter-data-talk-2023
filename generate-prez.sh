@@ -9,6 +9,9 @@ echo "
 
 " > index.adoc
 
+ASCIIDOCTOR_DOCKER_IMAGE="asciidoctor/docker-asciidoctor:1.61.0"
+REVEALJS_DIR="https://cdn.jsdelivr.net/npm/reveal.js@5.0.3"
+
 CONFERENCES=("tadx:long"
               "jug-summer-camp:long"
               "tremplin:short"
@@ -36,9 +39,9 @@ do
     SOURCE="dompter-data-talk.adoc"
   fi
 
-  docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents asciidoctor/docker-asciidoctor:1.49.0 \
+  docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents ${ASCIIDOCTOR_DOCKER_IMAGE} \
     asciidoctor-revealjs -a data-uri -a revealjs_theme=white \
-    -a revealjsdir=https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.2 -a revealjs_transition=fade \
+    -a revealjsdir=${REVEALJS_DIR} -a revealjs_transition=fade \
     -a customcss=custom-${CONFERENCE_NAME}.css -a revealjs_slideNumber=true \
     -a ${DURATION}-format \
     -D public -o index-${CONFERENCE_NAME}.html \
@@ -84,7 +87,7 @@ cp -a videos public
 touch public/.nojekyll
 
 
-docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents asciidoctor/docker-asciidoctor:1.49.0 \
+docker run --rm -u $(id -u):$(id -g) -v $(pwd):/documents ${ASCIIDOCTOR_DOCKER_IMAGE} \
   asciidoctor -D public -o index.html index.adoc
 
 rm index.adoc

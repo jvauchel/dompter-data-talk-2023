@@ -6,6 +6,10 @@
 
 ifdef::long-format[]
 
+== Merci à tous les sponsors et à SnowCamp !
+
+image:images/sponsors.png[width = 800]
+
 == How I met Data ?
 
 image:images/himym-finale.gif[width=350]

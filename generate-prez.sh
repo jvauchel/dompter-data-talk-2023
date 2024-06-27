@@ -17,7 +17,8 @@ CONFERENCES=("tadx:long"
               "tremplin:short"
               "agile-bdx:short"
               "abstract:short"
-              "snowcamp:long")
+              "snowcamp:long"
+              "rivieradev:long")
 
 rm -rf public
 mkdir -p public

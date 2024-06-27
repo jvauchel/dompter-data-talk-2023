@@ -6,10 +6,6 @@
 
 ifdef::long-format[]
 
-== Merci à tous les sponsors et à SnowCamp !
-
-image:images/sponsors.png[width = 800]
-
 == How I met Data ?
 
 image:images/himym-finale.gif[width=350]
@@ -355,8 +351,7 @@ image:images/agilite.jpg[width=700]
 
 == Et vous ? Vous vous lancez ?
 
-//image::images/jump.gif[width=400]
-image::images/snowboard.gif[width=400]
+image::images/jump.gif[width=400]
 
 === Conseils
 

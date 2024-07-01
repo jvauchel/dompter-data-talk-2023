@@ -403,7 +403,7 @@ icon:envelope[] vauchel.johanna@gmail.com
 
 == Merci pour vos feedbacks
 
-image:images/SnowCampQrcode.png[width=300]
+image:images/RivieraDevQrcode.png[width=300]
 
 icon:github[] https://jvauchel.github.io/
 

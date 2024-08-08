@@ -69,7 +69,7 @@ video::3XqatOzeL-Y?si=AUbVWiMrDGX3frcv[youtube]
 
 === Agile Tour 2023
 
-à venir
+https://agiletourbordeaux.fr/evenements/atbdx-edition-2023/
 
 === TADx 2023
 
@@ -77,7 +77,11 @@ video::5f29X4RiWCI?si=rG_fPRW6CHRZ-UfR[youtube]
 
 === SnowCamp 2024
 
-à venir
+https://snowcamp2024.sched.com/speaker/vauchel.johanna
+
+=== Riviera Dev 2024
+
+video::tgkyNvATdso?si=YDkfQBzsZxTmr0Xq[youtube]
 
 " >> index.adoc
 

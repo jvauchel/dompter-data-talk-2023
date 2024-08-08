@@ -2,10 +2,12 @@
 
 Bonjour à toutes et à tous,
 
-Merci beaucoup d'être venu m'écouter aujourd'hui.
+Aujourd'hui je vais vous présenter mon talk qui s'intitule "Apprends à dompter la data sans douter de toi !".
 
-Je m'appelle Johanna Vauchel, et ça c'est moi il y a deux ans, j'étais développeuse C++
-et j'ai choisi d'apprendre à dompter la Data !
+Il y a deux ans, j'étais développeuse C++, et j’ai fait le choix d’entamer une reconversion pour apprendre à dompter la Data
+et devenir Ingénieure Data.
+
+Pour passer d’un univers à un autre, monter en compétence a été une étape, mais me sentir légitime a été une épreuve. Et c'est de ça dont je vais vous parler aujourd'hui.
 
 Avant de parler de ma reconversion, je vais vous raconter mon histoire, d'où je viens,
 pour que vous compreniez bien ce qui a motivé mes choix dans ce parcours atypique.
